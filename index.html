@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Código Penal del Perú</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        cobalt: {
+                            600: '#0066cc'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap');
+
+        body {
+            font-family: 'Source Serif 4', serif;
+        }
+
+        .font-mono {
+            font-family: 'IBM Plex Mono', monospace;
+        }
+
+        /* Hide scrollbar but allow scrolling */
+        nav .nav-scroll {
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        nav .nav-scroll::-webkit-scrollbar {
+            display: none;
+        }
+    </style>
+</head>
+<body class="bg-[#F5F5F5]/20">
+    <div class="relative grid min-h-screen grid-cols-5 gap-x-10 max-sm:grid-cols-1 md:mx-8 xl:mx-0">
+
+        <!-- Sidebar Navigation -->
+        <nav class="fixed left-0 z-40 h-dvh max-sm:hidden lg:static lg:block">
+            <div class="nav-scroll sticky top-0 max-h-dvh w-full overflow-y-auto pt-10 pb-20 pl-8 font-mono text-xs">
+
+                <!-- Logo -->
+                <a class="mt-10 font-mono text-base text-cobalt-600 uppercase hover:opacity-75" href="#">
+                    Código Penal
+                </a>
+
+                <!-- Table of Contents -->
+                <div class="mt-10 space-y-6">
+
+                    <!-- Título Preliminar -->
+                    <div>
+                        <p class="font-mono uppercase">
+                            <span class="text-black/60 mr-1">1.</span>
+                            <a class="hover:text-cobalt-600" href="#titulo-preliminar">Título Preliminar</a>
+                        </p>
+                        <ul class="mt-4 pl-4 list-disc space-y-1">
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#art-I">Finalidad Preventiva</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#art-II">Principio de Legalidad</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#art-III">Prohibición de Analogía</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#art-IV">Principio de Lesividad</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#art-V">Garantía Jurisdiccional</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Libro Primero -->
+                    <div>
+                        <p class="font-mono uppercase">
+                            <span class="text-black/60 mr-1">2.</span>
+                            <a class="hover:text-cobalt-600" href="#libro-primero">Parte General</a>
+                        </p>
+                        <ul class="mt-4 pl-4 list-disc space-y-1">
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#titulo-I">De la Ley Penal</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#titulo-II">Del Hecho Punible</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#titulo-III">De las Penas</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#titulo-IV">De las Medidas de Seguridad</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#titulo-V">Extinción de la Acción Penal</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Libro Segundo -->
+                    <div>
+                        <p class="font-mono uppercase">
+                            <span class="text-black/60 mr-1">3.</span>
+                            <a class="hover:text-cobalt-600" href="#libro-segundo">Parte Especial</a>
+                        </p>
+                        <ul class="mt-4 pl-4 list-disc space-y-1">
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#delitos-vida">Delitos contra la Vida</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#delitos-honor">Delitos contra el Honor</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#delitos-familia">Delitos contra la Familia</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#delitos-libertad">Delitos contra la Libertad</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#delitos-patrimonio">Delitos contra el Patrimonio</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Libro Tercero -->
+                    <div>
+                        <p class="font-mono uppercase">
+                            <span class="text-black/60 mr-1">4.</span>
+                            <a class="hover:text-cobalt-600" href="#libro-tercero">Faltas</a>
+                        </p>
+                        <ul class="mt-4 pl-4 list-disc space-y-1">
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#faltas-persona">Contra la Persona</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#faltas-patrimonio">Contra el Patrimonio</a>
+                            </li>
+                            <li class="text-xs/6 hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2 marker:text-[10px]">
+                                <a href="#faltas-costumbres">Contra las Buenas Costumbres</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="col-span-full w-full max-w-5xl flex-1 xl:col-span-3 xl:col-start-2 xl:justify-self-center">
+            <div class="w-full justify-self-center">
+                <div class="pt-8 lg:pt-20">
+
+                    <!-- Breadcrumb -->
+                    <div class="sticky top-0 flex items-center gap-x-2 px-7 py-2 backdrop-blur-lg bg-transparent">
+                        <h5 class="truncate font-mono text-[0.6875rem] text-black/40 uppercase">
+                            <span class="hover:text-cobalt-600">Decreto Legislativo N° 635</span> /
+                            <span class="text-black">Código Penal del Perú</span>
+                        </h5>
+                    </div>
+
+                    <!-- Article -->
+                    <article class="prose relative mb-30 grid justify-items-center rounded-xs p-8 md:bg-white md:shadow-[0px_1px_4px_1px_rgba(0,_0,_0,_0.05),_0px_1px_1px_0px_rgba(0,_0,_0,_0.50),_0px_-1px_1px_1px_#FFF_inset] lg:px-16 lg:py-20">
+
+                        <!-- Header -->
+                        <header class="my-6 grid">
+                            <p class="mt-2 text-center font-mono text-[0.625rem] text-black uppercase">
+                                Promulgado <span class="text-black/20">|</span> 8 de abril de 1991
+                            </p>
+                            <h1 class="mt-6 text-center text-4xl text-black/80">
+                                Código Penal del Perú.
+                            </h1>
+                            <p class="mt-3 max-w-prose text-center text-sm text-pretty text-gray-700">
+                                Decreto Legislativo que establece las normas generales del derecho penal peruano.
+                            </p>
+                            <p class="mt-6 text-center font-mono text-[0.625rem] text-black">╌╌╌╌</p>
+                        </header>
+
+                        <!-- Título Preliminar -->
+                        <section id="titulo-preliminar" class="w-full max-w-prose">
+                            <h2 class="text-2xl font-semibold mt-12 mb-8">Título Preliminar — Principios Generales</h2>
+
+                            <article id="art-I" class="mb-8">
+                                <h3 class="text-lg font-semibold mb-3">Artículo I — Finalidad Preventiva</h3>
+                                <p class="text-gray-700 leading-relaxed text-justify">
+                                    Este Código tiene por objeto la prevención de delitos y faltas como medio protector de la persona humana y de la sociedad.
+                                </p>
+                            </article>
+
+                            <article id="art-II" class="mb-8">
+                                <h3 class="text-lg font-semibold mb-3">Artículo II — Principio de Legalidad</h3>
+                                <p class="text-gray-700 leading-relaxed text-justify">
+                                    Nadie será sancionado por un acto no previsto como delito o falta por la ley vigente al momento de su comisión, ni sometido a pena o medida de seguridad que no se encuentren establecidas en ella.
+                                </p>
+                            </article>
+
+                            <article id="art-III" class="mb-8">
+                                <h3 class="text-lg font-semibold mb-3">Artículo III — Prohibición de la Analogía</h3>
+                                <p class="text-gray-700 leading-relaxed text-justify">
+                                    No es permitida la analogía para calificar el hecho como delito o falta, definir un estado de peligrosidad o determinar la pena o medida de seguridad que les corresponde.
+                                </p>
+                            </article>
+
+                            <article id="art-IV" class="mb-8">
+                                <h3 class="text-lg font-semibold mb-3">Artículo IV — Principio de Lesividad</h3>
+                                <p class="text-gray-700 leading-relaxed text-justify">
+                                    La pena, necesariamente, precisa de la lesión o puesta en peligro de bienes jurídicos tutelados por la ley.
+                                </p>
+                            </article>
+
+                            <article id="art-V" class="mb-8">
+                                <h3 class="text-lg font-semibold mb-3">Artículo V — Garantía Jurisdiccional</h3>
+                                <p class="text-gray-700 leading-relaxed text-justify">
+                                    Sólo el Juez competente puede imponer penas o medidas de seguridad; y no puede hacerlo sino en la forma establecida en la ley.
+                                </p>
+                            </article>
+
+                            <p class="mt-8 text-center font-mono text-xs text-black">╌╌╌╌</p>
+                        </section>
+
+                        <!-- Libro Primero -->
+                        <section id="libro-primero" class="w-full max-w-prose">
+                            <h2 class="text-2xl font-semibold mt-12 mb-8">Libro Primero — Parte General</h2>
+
+                            <div id="titulo-I" class="mb-10">
+                                <h3 class="text-xl font-semibold mb-6 text-black/70">Título I — De la Ley Penal</h3>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 1 — Principio de Legalidad</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        Nadie será sancionado por un acto no previsto como delito o falta por la ley vigente al momento de su comisión, ni sometido a pena o medida de seguridad que no se encuentren establecidas en ella.
+                                    </p>
+                                </article>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 2 — Principio de Combinación</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        Si durante la ejecución de la sanción se dictare una ley más favorable al condenado, el Juez sustituirá la sanción impuesta por la que corresponda, conforme a la nueva ley.
+                                    </p>
+                                </article>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 3 — Principio de Territorialidad</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        La Ley Penal peruana se aplica a todo el que comete un hecho punible en el territorio de la República, salvo las excepciones contenidas en el Derecho Internacional.
+                                    </p>
+                                </article>
+                            </div>
+
+                            <p class="mt-8 text-center font-mono text-xs text-black">╌╌╌╌</p>
+                        </section>
+
+                        <!-- Libro Segundo -->
+                        <section id="libro-segundo" class="w-full max-w-prose">
+                            <h2 class="text-2xl font-semibold mt-12 mb-8">Libro Segundo — Parte Especial: Delitos</h2>
+
+                            <div id="delitos-vida" class="mb-10">
+                                <h3 class="text-xl font-semibold mb-6 text-black/70">Título I — Delitos contra la Vida, el Cuerpo y la Salud</h3>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 106 — Homicidio Simple</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        El que mata a otro será reprimido con pena privativa de libertad no menor de seis ni mayor de veinte años.
+                                    </p>
+                                </article>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 107 — Parricidio</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        El que, a sabiendas, mata a su ascendiente, descendiente, natural o adoptivo, o a una persona con quien sostiene o haya sostenido una relación conyugal o de convivencia, será reprimido con pena privativa de libertad no menor de quince años.
+                                    </p>
+                                </article>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 108 — Homicidio Calificado</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        Será reprimido con pena privativa de libertad no menor de quince años el que mate a otro concurriendo cualquiera de las circunstancias siguientes:
+                                    </p>
+                                    <ol class="list-decimal list-inside mt-4 text-gray-700 space-y-2">
+                                        <li>Por ferocidad, codicia, lucro o por placer;</li>
+                                        <li>Para facilitar u ocultar otro delito;</li>
+                                        <li>Con gran crueldad o alevosía;</li>
+                                        <li>Por fuego, explosión o cualquier otro medio capaz de poner en peligro la vida o salud de otras personas.</li>
+                                    </ol>
+                                </article>
+                            </div>
+
+                            <p class="mt-8 text-center font-mono text-xs text-black">╌╌╌╌</p>
+                        </section>
+
+                        <!-- Libro Tercero -->
+                        <section id="libro-tercero" class="w-full max-w-prose">
+                            <h2 class="text-2xl font-semibold mt-12 mb-8">Libro Tercero — Faltas</h2>
+
+                            <div id="faltas-persona" class="mb-10">
+                                <h3 class="text-xl font-semibold mb-6 text-black/70">Título I — Faltas contra la Persona</h3>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 441 — Lesión Dolosa y Lesión Culposa</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        El que, de cualquier manera, causa a otro una lesión dolosa que requiera hasta diez días de asistencia o descanso, según prescripción facultativa, será reprimido con prestación de servicio comunitario de cuarenta a sesenta jornadas, siempre que no concurran circunstancias o medios que den gravedad al hecho.
+                                    </p>
+                                </article>
+
+                                <article class="mb-8">
+                                    <h4 class="text-lg font-semibold mb-3">Artículo 442 — Maltrato</h4>
+                                    <p class="text-gray-700 leading-relaxed text-justify">
+                                        El que maltrata de obra a otro, sin causarle lesión, será reprimido con prestación de servicio comunitario de diez a veinte jornadas.
+                                    </p>
+                                </article>
+                            </div>
+                        </section>
+
+                        <!-- Footer -->
+                        <p class="mt-16 text-center font-mono text-xs text-black uppercase">╌╌ FIN ╌╌</p>
+
+                    </article>
+                </div>
+            </div>
+        </main>
+
+    </div>
+</body>
+</html>
