@@ -6597,6 +6597,31 @@
         
         // Run once on load
         updateToc();
+
+        const inPageLinkSelector = 'a[href^="#"]:not([href="#"])';
+
+        document.addEventListener('click', (event) => {
+            const link = event.target.closest(inPageLinkSelector);
+            if (!link) {
+                return;
+            }
+            const hash = link.getAttribute('href');
+            const targetId = hash.slice(1);
+            const target = document.getElementById(targetId);
+            if (!target) {
+                return;
+            }
+            event.preventDefault();
+            history.replaceState({ scrollY: window.scrollY }, '', window.location.href);
+            history.pushState(null, '', hash);
+            target.scrollIntoView();
+        });
+
+        window.addEventListener('popstate', (event) => {
+            if (event.state && typeof event.state.scrollY === 'number') {
+                window.scrollTo(0, event.state.scrollY);
+            }
+        });
     });
 </script>
 </html>
