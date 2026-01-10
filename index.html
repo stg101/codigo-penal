@@ -100,6 +100,10 @@
             .title-5 {
                 @apply text-base font-semibold text-black/70;
             }
+
+            .toc-active {
+                @apply text-cobalt-600 font-bold;
+            }
         }
     </style>
 </head>
@@ -6533,4 +6537,53 @@
 </main>
 </div>
 </body>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const tocLinks = Array.from(document.querySelectorAll('.nav-scroll a[href^="#"]'));
+        const sections = tocLinks.map(link => {
+            const id = link.getAttribute('href').substring(1);
+            return document.getElementById(id);
+        }).filter(item => item !== null);
+
+        let isTicking = false;
+
+        function updateToc() {
+            // Standard offset for visual comfort (e.g. 200px from top)
+            const scrollValues = window.scrollY + 200;
+            
+            // Find the last section that sends 'offsetTop' <= scrollValues
+            let activeSection = null;
+            for (let i = 0; i < sections.length; i++) {
+                if (sections[i].offsetTop <= scrollValues) {
+                    activeSection = sections[i];
+                } else {
+                    break;
+                }
+            }
+
+            if (activeSection) {
+                const activeId = activeSection.getAttribute('id');
+                tocLinks.forEach(link => {
+                    if (link.getAttribute('href') === `#${activeId}`) {
+                        link.classList.add('toc-active');
+                        // Ensure parent lists are visible if they are collapsible (not the case here, but good practice)
+                    } else {
+                        link.classList.remove('toc-active');
+                    }
+                });
+            }
+            isTicking = false;
+        }
+
+        window.addEventListener('scroll', () => {
+            if (!isTicking) {
+                window.requestAnimationFrame(updateToc);
+                isTicking = true;
+            }
+        });
+        
+        // Run once on load
+        updateToc();
+    });
+</script>
 </html>
