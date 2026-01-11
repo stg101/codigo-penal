@@ -1,2 +1,12 @@
 this is raw text merged_pages_10/merged_001-010.txt , parse the legal content and check if its correctly included here in its totallity, index.html, focus on legal conennte, and inmeadly fix the html if you find livergent content ignore the toc                                                                                                         
 read this text merged_pages_10/merged_001-010.txt, locate the region in the intex html where this text is present, and then update that region to match the merged text, dont change anything in style just legal content 
+
+Task: index.html already contains most of the raw text from codigo-penal-procesado.txt, but due to a bad paste the content may be out of order and partially incorrect. The legal text is huge.
+
+Goal: Fix the page so the document matches the correct structure and content as closely as possible.
+
+Constraints: Don’t blindly re-paste the entire source file. Prefer reusing existing text, but you may reorder, remove, deduplicate, and correct sections when clearly wrong. Minor missing content is acceptable.
+
+Optimization freedom: Use any strategy needed to handle the scale (chunking, incremental updates, indexing, diff/merge approach, loading text externally, etc.) as long as the final result is correct and maintainable.
+
+First step: Describe your plan (how you’ll validate order/content and how you’ll handle the huge size) before applying changes.
