@@ -1,3 +1,5 @@
+“Protección de señales satelitales
+encriptadas
 Artículo 444-A.- El que reciba una señal de
 satélite portadora de un programa originariamente
 codificada, a sabiendas que fue decodificada sin

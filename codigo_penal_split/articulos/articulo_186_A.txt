@@ -1,3 +1,6 @@
+“Dispositivos para asistir a la decodificación
+de señales de satélite portadoras de
+programas
 Artículo 186-A.- El que fabrique, ensamble,
 modifique, importe, exporte, venda, alquile o
 distribuya por otro medio un dispositivo o sistema
