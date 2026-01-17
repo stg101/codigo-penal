@@ -1,0 +1,14 @@
+---
+const { updated, title, subtitle, tagline } = Astro.props;
+---
+<header class="my-6 grid">
+  <p class="mt-2 text-center font-mono text-[0.625rem] text-black/60 uppercase">
+    Actualizado <span class="text-black/20">|</span> {updated}
+  </p>
+  <h1 class="mt-6 text-center text-4xl text-black/80">{title}</h1>
+  <p class="mt-2 text-center font-mono text-sm text-black/50">{subtitle}</p>
+  <p class="mt-3 max-w-prose text-center text-sm text-pretty text-gray-600">
+    {tagline}
+  </p>
+  <p class="mt-6 text-center font-mono text-[0.625rem] text-black">╌╌╌╌</p>
+</header>

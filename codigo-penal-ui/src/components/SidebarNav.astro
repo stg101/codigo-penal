@@ -1,0 +1,17 @@
+---
+import TocGroup from "./TocGroup.astro";
+
+const { tocGroups = [] } = Astro.props;
+---
+<nav class="sticky top-0 z-40 h-dvh self-start max-sm:hidden">
+  <div class="nav-scroll max-h-dvh w-full overflow-y-auto pt-10 pb-20 pl-8 font-mono text-xs">
+    <a class="mt-10 font-mono text-base text-cobalt-600 uppercase hover:opacity-75" href="#">
+      Código Penal
+    </a>
+    <div class="mt-10 space-y-6">
+      {tocGroups.map((group) => (
+        <TocGroup {...group} />
+      ))}
+    </div>
+  </div>
+</nav>

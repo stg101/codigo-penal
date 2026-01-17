@@ -1,0 +1,29 @@
+---
+const { title, href, note, items = [] } = Astro.props;
+---
+<div>
+  <p class="toc-heading">
+    <a class="link-hover" href={href}>{title}</a>
+  </p>
+  {note ? <p class="toc-note">{note}</p> : null}
+  {items.length ? (
+    <ul class="toc-list">
+      {items.map((item) => (
+        <li class="toc-item">
+          <a class="toc-link-underline" href={item.href}>{item.title}</a>
+          {item.subitems?.length ? (
+            <ul class="toc-sublist">
+              {item.subitems.map((subitem) => (
+                <li class="toc-subitem">
+                  <a class="toc-link-underline" href={subitem.href}>
+                    {subitem.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          ) : null}
+        </li>
+      ))}
+    </ul>
+  ) : null}
+</div>

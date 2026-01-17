@@ -1,0 +1,197 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import SidebarNav from "../components/SidebarNav.astro";
+import ArticleHeader from "../components/ArticleHeader.astro";
+import ContentSection from "../components/ContentSection.astro";
+
+const tocGroups = [
+  { title: "Decreto Legislativo N° 999", href: "#decreto-999" },
+  { title: "Exposición de Motivos", href: "#exposicion-motivos" },
+  {
+    title: "Libro I — Parte General",
+    href: "#libro-primero",
+    items: [
+      {
+        title: "De la Norma Penal",
+        href: "#titulo-I",
+        subitems: [
+          { title: "Aplicación espacial", href: "#capitulo-I-espacial" },
+          { title: "Aplicación temporal", href: "#capitulo-II-temporal" },
+        ],
+      },
+      {
+        title: "Del Hecho Punible",
+        href: "#titulo-II",
+        subitems: [
+          { title: "Bases de punibilidad", href: "#capitulo-III-bases" },
+          { title: "Tentativa", href: "#capitulo-IV-tentativa" },
+        ],
+      },
+    ],
+  },
+  {
+    title: "Libro II — Parte Especial",
+    href: "#libro-segundo",
+    note: "Delitos",
+    items: [
+      {
+        title: "Contra la Vida",
+        href: "#delitos-vida",
+        subitems: [
+          { title: "Homicidio", href: "#capitulo-homicidio" },
+          { title: "Lesiones", href: "#capitulo-lesiones" },
+        ],
+      },
+      {
+        title: "Contra la Libertad",
+        href: "#delitos-libertad",
+        subitems: [
+          { title: "Libertad personal", href: "#capitulo-libertad" },
+          { title: "Secreto profesional", href: "#capitulo-secreto" },
+        ],
+      },
+    ],
+  },
+  {
+    title: "Libro III — Faltas",
+    href: "#libro-tercero",
+    items: [
+      { title: "Disposiciones fundamentales", href: "#faltas-base" },
+      { title: "Contra la persona", href: "#faltas-persona" },
+      { title: "Contra el patrimonio", href: "#faltas-patrimonio" },
+    ],
+  },
+  { title: "Disposiciones Finales", href: "#disposiciones-finales" },
+];
+
+const motivesBlocks = [
+  {
+    text:
+      "Esta edición piloto reúne lineamientos generales y una selección de principios rectores. El objetivo es ofrecer una lectura clara y útil para equipos técnicos y ciudadanos.",
+  },
+  {
+    text:
+      "Las reformas planteadas parten de una evaluación comparada de legislaciones regionales y de casos emblemáticos vinculados a la seguridad pública.",
+  },
+  {
+    text:
+      "Se incorpora una sección de guías prácticas para facilitar la comprensión de los alcances del texto legal.",
+  },
+];
+---
+<BaseLayout title="Código Penal del Perú — Muestra">
+  <div class="relative grid min-h-screen grid-cols-5 gap-x-10 max-sm:grid-cols-1 md:mx-8 xl:mx-0">
+    <SidebarNav tocGroups={tocGroups} />
+
+    <main class="col-span-full w-full max-w-5xl flex-1 xl:col-span-3 xl:col-start-2 xl:justify-self-center">
+      <div class="w-full justify-self-center">
+        <div class="pt-8 lg:pt-20">
+          <div class="sticky top-0 flex items-center gap-x-2 px-7 py-2 backdrop-blur-lg bg-transparent">
+            <h5 class="truncate font-mono text-[0.6875rem] text-black/40 uppercase">
+              <span class="link-hover">Decreto Legislativo N° 999</span> /
+              <span class="text-black">Edición experimental</span>
+            </h5>
+          </div>
+
+          <article class="prose relative mb-30 grid justify-items-center rounded-xs p-8 md:bg-white md:shadow-[0px_1px_4px_1px_rgba(0,_0,_0,_0.05),_0px_1px_1px_0px_rgba(0,_0,_0,_0.50),_0px_-1px_1px_1px_#FFF_inset] lg:px-16 lg:py-20">
+            <ArticleHeader
+              updated="02/02/2026"
+              title="Código Penal."
+              subtitle="Edición de práctica Nº 999"
+              tagline="Guía rápida para equipos académicos y ciudadanos."
+            />
+
+            <section class="w-full max-w-prose" id="decreto-999">
+              <h2 class="mt-12 mb-8 title-2">CÓDIGO PENAL</h2>
+              <div class="mb-8 p-6 bg-gray-50 rounded-lg">
+                <p class="text-center font-mono text-sm font-semibold mb-2">
+                  DECRETO LEGISLATIVO Nº 999
+                </p>
+                <p class="text-center text-sm text-gray-600">
+                  (Edición de muestra publicada el 2 de febrero de 2026)
+                </p>
+              </div>
+              <p class="body-text mb-6 font-semibold">LA PRESIDENCIA:</p>
+              <p class="body-text mb-4 font-semibold">POR CUANTO:</p>
+              <p class="body-text mb-4">
+                Se establece un texto demostrativo para evaluar la estructura y
+                navegación de la plataforma legal. Este documento reúne artículos
+                ficticios destinados a pruebas internas.
+              </p>
+              <p class="body-text mb-4">
+                El equipo editorial revisó criterios de acceso, claridad y
+                consistencia tipográfica con el fin de asegurar una lectura fluida.
+              </p>
+              <p class="body-text mb-4 font-semibold">HA DADO EL SIGUIENTE TEXTO:</p>
+              <p class="body-text mb-4">
+                <strong id="articulo-1">Artículo 1.-</strong> Se adopta esta
+                compilación de referencia compuesta por módulos, títulos y
+                artículos de práctica.
+              </p>
+              <div class="pl-6 mb-6 text-gray-700">
+                <p class="body-text font-semibold">TÍTULO PRELIMINAR:</p>
+                <p class="body-text">
+                  Artículos <a href="#articulo-i">I</a> al{" "}
+                  <a href="#articulo-v">V</a>
+                </p>
+                <p class="body-text font-semibold mt-3">LIBRO I: Parte General:</p>
+                <p class="body-text">
+                  Artículos <a href="#articulo-1">1</a> al{" "}
+                  <a href="#articulo-20">20</a>
+                </p>
+                <p class="body-text font-semibold mt-3">LIBRO II: Parte Especial:</p>
+                <p class="body-text">
+                  Artículos <a href="#articulo-21">21</a> al{" "}
+                  <a href="#articulo-60">60</a>
+                </p>
+                <p class="body-text font-semibold mt-3">LIBRO III: Faltas:</p>
+                <p class="body-text">
+                  Artículos <a href="#articulo-61">61</a> al{" "}
+                  <a href="#articulo-75">75</a>
+                </p>
+              </div>
+              <p class="body-text mb-6">
+                Dado en la Casa de Gobierno, Lima, a los dos días del mes de
+                febrero de dos mil veintiséis.
+              </p>
+            </section>
+
+            <ContentSection
+              id="exposicion-motivos"
+              title="EXPOSICIÓN DE MOTIVOS"
+              subtitle="ANTECEDENTES"
+              blocks={motivesBlocks}
+            />
+
+            <section class="w-full max-w-prose" id="libro-primero">
+              <h2 class="mt-12 mb-8 title-2">LIBRO I — PARTE GENERAL</h2>
+              <h3 class="mb-6 title-3" id="titulo-I">De la Norma Penal</h3>
+              <p class="body-text mb-4">
+                Se agrupan principios de interpretación, alcance territorial y
+                reglas de temporalidad para casos excepcionales.
+              </p>
+              <h4 class="mb-4 mt-8 title-4" id="capitulo-I-espacial">Aplicación espacial</h4>
+              <p class="body-text mb-4">
+                Define criterios sobre la jurisdicción y la cooperación entre
+                autoridades competentes.
+              </p>
+              <h4 class="mb-4 mt-8 title-4" id="capitulo-II-temporal">Aplicación temporal</h4>
+              <p class="body-text mb-4">
+                Precisa cómo se interpretan las reformas cuando un proceso está
+                en curso o ya ha concluido.
+              </p>
+            </section>
+
+            <section class="w-full max-w-prose" id="libro-tercero">
+              <h2 class="mt-12 mb-8 title-2">LIBRO III — FALTAS</h2>
+              <p class="body-text mb-4">
+                Las disposiciones sobre faltas se presentan como guías de
+                convivencia y prevención comunitaria.
+              </p>
+            </section>
+          </article>
+        </div>
+      </div>
+    </main>
+  </div>
+</BaseLayout>

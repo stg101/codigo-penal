@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cobalt-600: #0066cc;
+}
+
+@layer base {
+  html {
+    font-feature-settings: "liga" 1, "kern" 1;
+    font-optical-sizing: auto;
+  }
+
+  body {
+    font-family: "Source Serif 4", serif;
+    font-weight: 400;
+    font-optical-sizing: auto;
+  }
+
+  .font-mono {
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-optical-sizing: auto;
+  }
+}
+
+nav .nav-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+nav .nav-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+a[href^="#articulo-"] {
+  color: #0f172a;
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 102, 204, 0.45);
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+
+a[href^="#articulo-"]:hover {
+  color: #0066cc;
+  text-decoration-color: rgba(0, 102, 204, 0.8);
+}
+
+@layer components {
+  .link-hover {
+    @apply text-inherit no-underline hover:text-cobalt-600;
+  }
+
+  .toc-link-underline {
+    @apply text-inherit no-underline hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2;
+  }
+
+  .toc-heading {
+    @apply font-mono uppercase text-[11px];
+  }
+
+  .toc-muted {
+    @apply text-black/40;
+  }
+
+  .toc-note {
+    @apply mt-1 text-[10px] text-black/50;
+  }
+
+  .toc-list {
+    @apply mt-3 pl-4 list-disc space-y-1;
+  }
+
+  .toc-item {
+    @apply text-xs/6 marker:text-[10px] marker:text-black/30;
+  }
+
+  .toc-item > a {
+    @apply text-inherit no-underline hover:text-cobalt-600 hover:underline decoration-cobalt-600/40 underline-offset-2;
+  }
+
+  .toc-sublist {
+    @apply mt-2 pl-4 list-disc space-y-1 text-[10px] text-black/60;
+  }
+
+  .toc-subitem {
+    @apply marker:text-[8px] marker:text-black/30;
+  }
+
+  .body-text {
+    @apply text-gray-700 leading-relaxed text-justify;
+  }
+
+  .title-2 {
+    @apply text-2xl font-semibold;
+  }
+
+  .title-3 {
+    @apply text-xl font-semibold;
+  }
+
+  .title-4 {
+    @apply text-lg font-semibold;
+  }
+
+  .title-5 {
+    @apply text-base font-semibold text-black/70;
+  }
+
+  .toc-active {
+    @apply text-cobalt-600 font-bold;
+  }
+}
