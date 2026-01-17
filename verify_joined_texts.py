@@ -3,13 +3,11 @@ import re
 
 
 def join_article_texts(articles_dir):
-    files = sorted(
-        [f for f in os.listdir(articles_dir) if f.endswith(".txt")],
-        key=lambda name: (
-            int(re.search(r"articulo_(\d+)", name).group(1)),
-            name,
-        ),
-    )
+    files = [
+        f for f in os.listdir(articles_dir)
+        if f.endswith(".txt") and re.match(r"^\d+_articulo_", f)
+    ]
+    files.sort(key=lambda name: int(name.split("_", 1)[0]))
     parts = []
     for name in files:
         path = os.path.join(articles_dir, name)

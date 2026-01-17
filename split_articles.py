@@ -98,9 +98,16 @@ def split_articles(text_file="extracted_text.txt", metadata_file="extracted_meta
 
     print(f"Found {len(articles)} articles")
 
+    # Order numbering should start at LIBRO PRIMERO (skip front matter)
+    libro_lines = [h["line"] for h in metadata["headers"] if h["type"] == "LIBRO"]
+    first_libro_line = min(libro_lines) if libro_lines else None
+    libro_articles = [a for a in articles if first_libro_line is None or a["line"] >= first_libro_line]
+    order_width = len(str(len(libro_articles))) if libro_articles else 1
+
     # Process each article
     prev_end_line = 0
-    order_width = len(str(len(articles)))
+    pre_count = 0
+    libro_count = 0
     for i, art in enumerate(articles):
         art_line = art["line"]
         art_num = art["num"]
@@ -171,7 +178,12 @@ def split_articles(text_file="extracted_text.txt", metadata_file="extracted_meta
         content = '\n'.join(lines[title_start:end_line]).strip()
 
         # Save
-        order_prefix = f"{i + 1:0{order_width}d}"
+        if first_libro_line is not None and art_line < first_libro_line:
+            pre_count += 1
+            order_prefix = f"pre_{pre_count:0{order_width}d}"
+        else:
+            libro_count += 1
+            order_prefix = f"{libro_count:0{order_width}d}"
         if '-' in art_num:
             base_num = int(art_num.split('-')[0])
             suffix = art_num.split('-')[1]
