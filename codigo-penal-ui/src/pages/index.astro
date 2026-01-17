@@ -12,6 +12,16 @@ import Articulo007 from "../components/articulos/Articulo007.astro";
 import Articulo008 from "../components/articulos/Articulo008.astro";
 import Articulo009 from "../components/articulos/Articulo009.astro";
 import Articulo010 from "../components/articulos/Articulo010.astro";
+import Articulo011 from "../components/articulos/Articulo011.astro";
+import Articulo012 from "../components/articulos/Articulo012.astro";
+import Articulo013 from "../components/articulos/Articulo013.astro";
+import Articulo014 from "../components/articulos/Articulo014.astro";
+import Articulo015 from "../components/articulos/Articulo015.astro";
+import Articulo016 from "../components/articulos/Articulo016.astro";
+import Articulo017 from "../components/articulos/Articulo017.astro";
+import Articulo018 from "../components/articulos/Articulo018.astro";
+import Articulo019 from "../components/articulos/Articulo019.astro";
+import Articulo020 from "../components/articulos/Articulo020.astro";
 import decretoHtml from "../content/1_decreto_legislativo.html?raw";
 import exposicionHtml from "../content/2_exposicion_motivos.html?raw";
 import tituloPreliminarHtml from "../content/3_titulo_preliminar.html?raw";
@@ -37,8 +47,9 @@ const tocGroups = [
         title: "Del Hecho Punible",
         href: "#titulo-II",
         subitems: [
-          { title: "Bases de punibilidad", href: "#capitulo-III-bases" },
-          { title: "Tentativa", href: "#capitulo-IV-tentativa" },
+          { title: "Bases de punibilidad", href: "#capitulo-I-bases-punibilidad" },
+          { title: "Tentativa", href: "#capitulo-II-tentativa" },
+          { title: "Causas que Eximen o Atenúan", href: "#capitulo-III-causas-eximen" },
         ],
       },
     ],
@@ -131,6 +142,31 @@ const tocGroups = [
               <h5 class="mb-6 title-5">APLICACIÓN PERSONAL</h5>
 
               <Articulo010 />
+
+              <h3 class="mb-4 mt-12 title-3" id="titulo-II">TÍTULO II</h3>
+              <h4 class="mb-6 title-4">DEL HECHO PUNIBLE</h4>
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-I-bases-punibilidad">CAPÍTULO I</h4>
+              <h5 class="mb-6 title-5">BASES DE LA PUNIBILIDAD</h5>
+
+              <Articulo011 />
+              <Articulo012 />
+              <Articulo013 />
+              <Articulo014 />
+              <Articulo015 />
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-II-tentativa">CAPÍTULO II</h4>
+              <h5 class="mb-6 title-5">TENTATIVA</h5>
+
+              <Articulo016 />
+              <Articulo017 />
+              <Articulo018 />
+              <Articulo019 />
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-III-causas-eximen">CAPÍTULO III</h4>
+              <h5 class="mb-6 title-5">CAUSAS QUE EXIMEN O ATENÚAN LA RESPONSABILIDAD PENAL</h5>
+
+              <Articulo020 />
             </section>
 
             <section class="w-full max-w-prose" id="libro-tercero">
