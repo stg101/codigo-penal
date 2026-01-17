@@ -1,12 +1,8 @@
 ---
-const { id, title, subtitle, blocks = [] } = Astro.props;
+const { id, title, subtitle } = Astro.props;
 ---
 <section class="w-full max-w-prose" id={id}>
   <h2 class="mt-12 mb-8 title-2">{title}</h2>
   {subtitle ? <h3 class="mb-6 mt-10 title-3">{subtitle}</h3> : null}
-  {blocks.map((block) => (
-    <p class={`body-text ${block.emphasis ? "font-semibold" : ""} ${block.margin ?? "mb-4"}`}>
-      {block.text}
-    </p>
-  ))}
+  <slot />
 </section>
