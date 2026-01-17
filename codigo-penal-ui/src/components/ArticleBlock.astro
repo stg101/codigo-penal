@@ -2,8 +2,8 @@
 const { id, label, heading } = Astro.props;
 ---
 {heading ? <h5 class="mb-4 mt-6 title-5">{heading}</h5> : null}
-<div class="mb-4">
-  <p class="body-text">
+<div class="mb-4 body-text">
+  <p>
     <strong id={id}>{label}</strong> <slot name="lead" />
   </p>
   <slot />
