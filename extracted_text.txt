@@ -1,3 +1,4 @@
+CÓDIGO PENAL
 DECRETO LEGISLATIVO
 Nº 635
 (Publicado en el Diario Oficial El Peruano
@@ -46,6 +47,8 @@ ALBERTO FUJIMORI FUJIMORI
 Presidente Constitucional de la República
 AUGUSTO ANTONIOLI VASQUEZ
 Ministro de Justicia
+EXPOSICIÓN DE MOTIVOS
+ANTECEDENTES
 Exactamente al año y medio de vigencia del
 Código Penal y por Ley Nº 5168 de 31 de julio de
 1925, se designó una comisión compuesta por el
@@ -96,7 +99,8 @@ Oficial “El Peruano” en setiembre y octubre de 1984.
 Con algunas enmiendas se publica nuevamente del
 19 al 21 de agosto de 1985.
 La Comisión Consultiva del Ministerio de Justicia,
-conformada por Resolución Ministerial Nº 19385-JUS, de 31 de julio de 1985, contando con la
+conformada por Resolución Ministerial Nº 193-
+85-JUS, de 31 de julio de 1985, contando con la
 colaboración de sus miembros Edmundo Haya de la
 Torre, Luis Bramont Arias, Juan Portocarrero Hidalgo
 y José Tello Campodónico, sobre la base de los
@@ -171,6 +175,7 @@ su estructura funcional. El fenómeno criminal con
 los índices alarmantes y las nuevas modalidades
 violentas de la desviación social presionaban por
 mejores propuestas de reacción punitiva.
+CONTENIDO
 Hasta hace poco la tendencia era la de hacer una
 reforma parcial del Código Penal; pero desde 1979,
 con la promulgación de la Constitución Política del
@@ -1086,24 +1091,8 @@ Aplicación Supletoria de la Ley Penal
 Artículo X.- Las normas generales de este Código
 son aplicables a los hechos punibles previstos en
 leyes especiales.
-Principio de Representación
-Artículo 3.- La Ley Penal peruana podrá aplicarse
-cuando, solicitada la extradición, no se entregue al
-agente a la autoridad competente de un Estado
-extranjero.
-Excepciones al Principio de
-Extraterritorialidad
-Artículo 4.- Las disposiciones contenidas en el
-Artículo 2, incisos 2, 3, 4 y 5, no se aplican:
 LIBRO PRIMERO
 PARTE GENERAL
-1. Cuando se ha extinguido la acción penal
-conforme a una u otra legislación;
-2. Cuando se trata de delitos políticos o hechos
-conexos con ellos; y,
-3. Cuando el procesado ha sido absuelto en el
-extranjero o el condenado ha cumplido la pena o
-ésta se halla prescrita o remitida.
 TÍTULO I
 DE LA LEY PENAL
 CAPÍTULO I
@@ -1120,18 +1109,6 @@ en donde se encuentren; y,
 2. Las naves o aeronaves nacionales privadas,
 que se encuentren en alta mar o en espacio aéreo
 donde ningún Estado ejerza soberanía.
-Si el agente no ha cumplido totalmente la pena
-impuesta, puede renovarse el proceso ante los
-tribunales de la República, pero se computará la
-parte de la pena cumplida.
-Principio de Ubicuidad
-Artículo 5.- El lugar de comisión de un delito
-es aquél en el cual el autor o partícipe ha actuado
-u omitido la obligación de actuar o en el que se
-producen sus efectos.
-CAPÍTULO II
-APLICACIÓN TEMPORAL
-Principio de Combinación
 “Principio de Extraterritorialidad,
 Principio Real o de Defensa y
 Principio de Personalidad Activa y Pasiva
@@ -1159,6 +1136,34 @@ de una persona jurídica domiciliada en el Perú.
 tratados internacionales.” (*) Artículo modificado
 por el artículo 1 de la Ley N° 31501, publicada el 29 de
 junio de 2022.
+Principio de Representación
+Artículo 3.- La Ley Penal peruana podrá aplicarse
+cuando, solicitada la extradición, no se entregue al
+agente a la autoridad competente de un Estado
+extranjero.
+Excepciones al Principio de
+Extraterritorialidad
+Artículo 4.- Las disposiciones contenidas en el
+Artículo 2, incisos 2, 3, 4 y 5, no se aplican:
+1. Cuando se ha extinguido la acción penal
+conforme a una u otra legislación;
+2. Cuando se trata de delitos políticos o hechos
+conexos con ellos; y,
+3. Cuando el procesado ha sido absuelto en el
+extranjero o el condenado ha cumplido la pena o
+ésta se halla prescrita o remitida.
+Si el agente no ha cumplido totalmente la pena
+impuesta, puede renovarse el proceso ante los
+tribunales de la República, pero se computará la
+parte de la pena cumplida.
+Principio de Ubicuidad
+Artículo 5.- El lugar de comisión de un delito
+es aquél en el cual el autor o partícipe ha actuado
+u omitido la obligación de actuar o en el que se
+producen sus efectos.
+CAPÍTULO II
+APLICACIÓN TEMPORAL
+Principio de Combinación
 Artículo 6.- La Ley Penal aplicable es la vigente
 en el momento de la comisión del hecho punible. No
 obstante, se aplicará la más favorable al reo, en caso
@@ -1191,23 +1196,8 @@ cargo se reconocen a ciertas personas habrán de
 estar taxativamente previstas en las leyes o tratados
 internacionales.
 TÍTULO II
-de responsabilidad. Cuando por igual razón, esa
-posibilidad se halla disminuida, se atenuará la pena.
-Lo dispuesto en el primer párrafo será aplicable
-siguiendo los lineamientos para procesos penales
-interculturales señalados por la judicatura para los
-casos de la comisión de los delitos previstos en los
-capítulos IX, X y XI del Título IV del Libro Segundo
-cometidos en perjuicio de menores de catorce años
-y de mayores de catorce años cuando estos no
-hayan prestado su libre consentimiento.” (*) Artículo
-modificado por el artículo 1 de la Ley N° 30838,
-publicada el 4 de agosto 2018.
-CAPÍTULO II
 DEL HECHO PUNIBLE
-TENTATIVA
 CAPÍTULO I
-Tentativa
 BASES DE LA PUNIBILIDAD
 Delitos y faltas
 Artículo 11.- Son delitos y faltas las acciones u
@@ -1239,6 +1229,27 @@ El error invencible sobre la ilicitud del hecho
 constitutivo de la infracción penal, excluye la
 responsabilidad. Si el error fuere vencible se
 atenuará la pena.
+“Error de comprensión culturalmente
+condicionado
+Artículo 15.- El que por su cultura o costumbres
+comete un hecho punible sin poder comprender
+el carácter delictuoso de su acto o determinarse
+de acuerdo con esa comprensión, será eximido
+de responsabilidad. Cuando por igual razón, esa
+posibilidad se halla disminuida, se atenuará la pena.
+Lo dispuesto en el primer párrafo será aplicable
+siguiendo los lineamientos para procesos penales
+interculturales señalados por la judicatura para los
+casos de la comisión de los delitos previstos en los
+capítulos IX, X y XI del Título IV del Libro Segundo
+cometidos en perjuicio de menores de catorce años
+y de mayores de catorce años cuando estos no
+hayan prestado su libre consentimiento.” (*) Artículo
+modificado por el artículo 1 de la Ley N° 30838,
+publicada el 4 de agosto 2018.
+CAPÍTULO II
+TENTATIVA
+Tentativa
 Artículo 16.- En la tentativa el agente comienza
 la ejecución de un delito, que decidió cometer,
 sin consumarlo. El juez reprimirá la tentativa
@@ -1256,7 +1267,8 @@ Artículo 17.- No es punible la tentativa cuando es
 imposible la consumación del delito, por la ineficacia
 absoluta del medio empleado o absoluta impropiedad
 del objeto.
-Desistimiento voluntario Arrepentimiento activo
+Desistimiento voluntario -
+Arrepentimiento activo
 Artículo 18.- Si el agente desiste voluntariamente
 de proseguir los actos de ejecución del delito o
 impide que se produzca el resultado, será penado
@@ -1271,14 +1283,8 @@ que se esforzara seriamente por impedir la ejecución
 del delito aunque los otros partícipes prosigan en su
 ejecución o consumación.
 CAPÍTULO III
-“Error de comprensión culturalmente
-condicionado
 CAUSAS QUE EXIMEN O ATENÚAN
 LA RESPONSABILIDAD PENAL
-Artículo 15.- El que por su cultura o costumbres
-comete un hecho punible sin poder comprender
-el carácter delictuoso de su acto o determinarse
-de acuerdo con esa comprensión, será eximido
 Inimputabilidad
 Artículo 20.- Está exento de responsabilidad
 penal:
@@ -1410,10 +1416,6 @@ desaparición forzada, tortura, atentado contra la
 seguridad nacional, traición a la Patria u otro delito
 sancionado con pena privativa de libertad no menor
 de veinticinco años o cadena perpetua.” (*) Artículo
-especiales que fundamentan la penalidad de este
-tipo no concurran en él, pero sí en la representada.
-TÍTULO III
-DE LAS PENAS
 modificado por la única disposición complementaria
 modificatoria del Decreto Legislativo N° 1181,
 publicado el 27 de julio de 2015.
@@ -1423,19 +1425,9 @@ los alcances del artículo 288 o del artículo 290 del
 Nuevo Código Procesal Penal, Decreto Legislativo
 957.” (*) Párrafo incorporado por el artículo 1 de la Ley
 32181, publicada el 11 de diciembre de 2024.
-CAPÍTULO I
-CLASES DE PENA
-Clases de pena
-Artículo 28.- Las penas aplicables de conformidad
-con este Código son:
-AUTORÍA Y PARTICIPACIÓN
-- Privativa de libertad;
-- Restrictivas de libertad;
-- Limitativas de derechos; y
-- Multa.
-Autoría, autoría mediata y coautoría
-SECCIÓN I
 CAPÍTULO IV
+AUTORÍA Y PARTICIPACIÓN
+Autoría, autoría mediata y coautoría
 Artículo 23.- El que realiza por sí o por medio
 de otro el hecho punible y los que lo cometan
 conjuntamente serán reprimidos con la pena
@@ -1444,16 +1436,6 @@ Instigación
 Artículo 24.- El que, dolosamente, determina a
 otro a cometer el hecho punible será reprimido con
 la pena que corresponde al autor.
-PENA PRIVATIVA DE LIBERTAD
-“Duración de la pena privativa de libertad
-Artículo 29.- La pena privativa de libertad puede
-ser temporal o de cadena perpetua. En el primer
-caso, tendrá una duración mínima de dos días y
-una máxima de treinta y cinco años.” (*) Artículo
-modificado por el artículo 1 del Decreto Legislativo
-N° 982, publicado el 22 de julio de 2007.
-“Cumplimiento de la pena de vigilancia
-electrónica personal
 “Complicidad primaria y
 complicidad secundaria
 Artículo 25.- El que, dolosamente, preste auxilio
@@ -1481,6 +1463,30 @@ representación autorizado de una persona jurídica
 o como socio representante autorizado de una
 sociedad y realiza el tipo legal de un delito es
 responsable como autor, aunque los elementos
+especiales que fundamentan la penalidad de este
+tipo no concurran en él, pero sí en la representada.
+TÍTULO III
+DE LAS PENAS
+CAPÍTULO I
+CLASES DE PENA
+Clases de pena
+Artículo 28.- Las penas aplicables de conformidad
+con este Código son:
+- Privativa de libertad;
+- Restrictivas de libertad;
+- Limitativas de derechos; y
+- Multa.
+SECCIÓN I
+PENA PRIVATIVA DE LIBERTAD
+“Duración de la pena privativa de libertad
+Artículo 29.- La pena privativa de libertad puede
+ser temporal o de cadena perpetua. En el primer
+caso, tendrá una duración mínima de dos días y
+una máxima de treinta y cinco años.” (*) Artículo
+modificado por el artículo 1 del Decreto Legislativo
+N° 982, publicado el 22 de julio de 2007.
+“Cumplimiento de la pena de vigilancia
+electrónica personal
 Artículo 29-A.- La pena de vigilancia electrónica
 personal se cumplé de la siguiente forma:
 1. La ejecución se realiza en el domicilio o
@@ -1546,6 +1552,28 @@ modificado por el artículo 1 de la Ley N° 32372,
 publicada el 7 de junio de 2025.
 “Aplicación de la pena restrictiva
 de libertad como pena accesoria
+Artículo 30-A.- La expulsión regulada en el
+artículo 30 se aplica como pena accesoria en los
+delitos tipifi cados en los siguientes artículos: 106,
+107, 108, 108-A, 108- B, 108-C, 108-D, 111, 121,
+122, 122-B, 129-A, 129- B, 129-C, 129-D, 129-F, 129-
+G, 129-H, 129-I, 129-J, 129-K, 129-L, 129-M, 129-N,
+129-Ñ, 129-O, 148-A, 152, 170, 171, 172, 173, 174,
+176-A, 176-B, 176-C, 177, 179, 180, 181, 181-B, 185,
+186, 188, 189, 194, 195, 196, 196-A, 200, 204, 273,
+275, 279, 279-A, 279-B, 279-D, 279-G, 280, 281,
+283, 294-A, 294-B, 296, 296-A, 296-B, 297, 303-A,
+303-B, 303-C, 307- A, 307-B, 315, 317, 317-A, 317-
+B, 428 y en los tipos penales agravados de la Ley
+30096, Ley de Delitos Informáticos. Asimismo, esta
+expulsión conlleva lo siguiente:
+a) La imposibilidad de retornar al territorio
+nacional por un tiempo igual a la duración de la
+pena máxima del delito cometido.
+b) El archivo de cualquier otro procedimiento
+administrativo con el mismo propósito.
+c) La reparación civil se obtiene de sus bienes
+mediante el decomiso o la extinción de dominio
 sobre los bienes del agente. La reparación civil no
 prescribe.” (*) Artículo modificado por el artículo 1 de
 la Ley N° 32372, publicada el 7 de junio de 2025.
@@ -1577,26 +1605,6 @@ acuerdo con las equivalencias establecidas en el
 artículo 52.
 “Prestación de servicios a la comunidad
 Artículo 34.-
-Artículo 30-A.- La expulsión regulada en el
-artículo 30 se aplica como pena accesoria en los
-delitos tipifi cados en los siguientes artículos: 106,
-107, 108, 108-A, 108- B, 108-C, 108-D, 111, 121,
-122, 122-B, 129-A, 129- B, 129-C, 129-D, 129-F, 129G, 129-H, 129-I, 129-J, 129-K, 129-L, 129-M, 129-N,
-129-Ñ, 129-O, 148-A, 152, 170, 171, 172, 173, 174,
-176-A, 176-B, 176-C, 177, 179, 180, 181, 181-B, 185,
-186, 188, 189, 194, 195, 196, 196-A, 200, 204, 273,
-275, 279, 279-A, 279-B, 279-D, 279-G, 280, 281,
-283, 294-A, 294-B, 296, 296-A, 296-B, 297, 303-A,
-303-B, 303-C, 307- A, 307-B, 315, 317, 317-A, 317B, 428 y en los tipos penales agravados de la Ley
-30096, Ley de Delitos Informáticos. Asimismo, esta
-expulsión conlleva lo siguiente:
-a) La imposibilidad de retornar al territorio
-nacional por un tiempo igual a la duración de la
-pena máxima del delito cometido.
-b) El archivo de cualquier otro procedimiento
-administrativo con el mismo propósito.
-c) La reparación civil se obtiene de sus bienes
-mediante el decomiso o la extinción de dominio
 34.1. La pena de prestación de servicios a la
 comunidad obliga al condenado a trabajos gratuitos
 en entidades asistenciales, hospitalarias, escuelas,
@@ -1625,7 +1633,8 @@ por la única disposición complementaria modificatoria
 del Decreto Legislativo N° 1191, publicado el 22 de
 agosto de 2015
 “Limitación de días libres
-Artículo 35.35.1. La limitación de días libres consiste en
+Artículo 35.-
+35.1. La limitación de días libres consiste en
 la obligación de permanecer los días sábados,
 domingos y feriados, hasta por un máximo de diez
 horas semanales, a disposición de una institución
@@ -1777,6 +1786,26 @@ del Decreto Ley 25475 y en los artículos 1, 2, 3 y 4
 del Decreto Legislativo 1106.” (*) Artículo modificado
 por el artículo 2 de la Ley N° 31178, publicada el 28 de
 abril 2021.
+Inhabilitación accesoria
+Artículo 39.- La inhabilitación se impondrá como
+pena accesoria cuando el hecho punible cometido
+por el condenado constituye abuso de autoridad,
+de cargo, de profesión, oficio, poder o violación de
+un deber inherente a la función pública, comercio,
+industria, patria potestad, tutela, curatela, o actividad
+regulada por ley. Se extiende por igual tiempo que
+la pena principal.
+Inhabilitación accesoria en los
+delitos culposos de tránsito
+Artículo 40.- La pena de inhabilitación prevista en
+el artículo 36 inciso 7, de este Código podrá aplicarse
+como accesoria en los delitos culposos de tránsito.
+SECCIÓN IV
+PENA DE MULTA
+Concepto
+Artículo 41.- La pena de multa obliga al
+condenado a pagar al Estado una suma de dinero
+fijada en días-multa.
 El importe del día-multa es equivalente al
 ingreso promedio diario del condenado y se
 determina atendiendo a su patrimonio, rentas,
@@ -1810,22 +1839,6 @@ indispensables para el sustento del condenado y
 su familia.
 CAPÍTULO II
 APLICACIÓN DE LA PENA
-Inhabilitación accesoria
-Artículo 39.- La inhabilitación se impondrá como
-pena accesoria cuando el hecho punible cometido
-por el condenado constituye abuso de autoridad,
-de cargo, de profesión, oficio, poder o violación de
-un deber inherente a la función pública, comercio,
-industria, patria potestad, tutela, curatela, o actividad
-regulada por ley. Se extiende por igual tiempo que
-la pena principal.
-Inhabilitación accesoria en los
-delitos culposos de tránsito
-Artículo 40.- La pena de inhabilitación prevista en
-el artículo 36 inciso 7, de este Código podrá aplicarse
-como accesoria en los delitos culposos de tránsito.
-SECCIÓN IV
-PENA DE MULTA
 “Presupuestos para fundamentar
 y determinar la pena
 Artículo 45.- El juez, al momento de fundamentar
@@ -1843,10 +1856,6 @@ por la primera disposición complementaria
 modificatoria de la Ley N° 30364, publicada el 23 de
 noviembre de 2015.
 “Individualización de la pena
-Concepto
-Artículo 41.- La pena de multa obliga al
-condenado a pagar al Estado una suma de dinero
-fijada en días-multa.
 Artículo 45-A.- Toda condena contiene
 fundamentación explícita y suficiente sobre los
 motivos de la determinación cualitativa y cuantitativa
@@ -1858,8 +1867,6 @@ no sean específicamente constitutivas del delito o
 modificatorias de la responsabilidad.
 El juez determina la pena aplicable desarrollando
 las siguientes etapas:
-h) La edad del imputado en tanto que ella hubiere
-influido en la conducta punible.
 1. Identifica el espacio punitivo de determinación
 a partir de la pena prevista en la ley para el delito y
 la divide en tres partes.
@@ -1867,22 +1874,6 @@ la divide en tres partes.
 al condenado evaluando la concurrencia de
 circunstancias agravantes o atenuantes observando
 las siguientes reglas:
-a) Ejecutar la conducta punible sobre bienes o
-recursos destinados a actividades de utilidad común
-o a la satisfacción de necesidades básicas de una
-colectividad;
-b) Ejecutar la conducta punible sobre bienes o
-recursos públicos;
-c) Ejecutar la conducta punible por motivo
-abyecto, fútil o mediante precio, recompensa o
-promesa remuneratoria;
-“d) Ejecutar el delito bajo móviles de intolerancia
-o discriminación, tales como el origen, raza, religión,
-sexo, orientación sexual, identidad de género,
-factor genético, filiación, edad, discapacidad,
-idioma, identidad étnica y cultural, indumentaria,
-opinión, condición económica, o de cualquier otra
-índole.” (*) Literal modificado por el artículo 1 del
 a) Cuando no existan atenuantes ni agravantes o
 concurran únicamente circunstancias atenuantes, la
 pena concreta se determina dentro del tercio inferior.
@@ -1908,7 +1899,8 @@ correspondiente al delito.” (*) Artículo incorporado
 por el artículo 2 de la Ley Nº 30076, publicada el 19 de
 agosto de 2013.
 “Circunstancias de atenuación y agravación
-Artículo 46.1. Constituyen circunstancias de atenuación,
+Artículo 46.-
+1. Constituyen circunstancias de atenuación,
 siempre que no estén previstas específicamente para
 sancionar el delito y no sean elementos constitutivos
 del hecho punible, las siguientes:
@@ -1927,10 +1919,28 @@ las consecuencias derivadas del peligro generado;
 g) Presentarse voluntariamente a las autoridades
 después de haber cometido la conducta punible,
 para admitir su responsabilidad;
+h) La edad del imputado en tanto que ella hubiere
+influido en la conducta punible.
 2. Constituyen circunstancias agravantes,
 siempre que no estén previstas específicamente para
 sancionar el delito y no sean elementos constitutivos
 del hecho punible, las siguientes:
+a) Ejecutar la conducta punible sobre bienes o
+recursos destinados a actividades de utilidad común
+o a la satisfacción de necesidades básicas de una
+colectividad;
+b) Ejecutar la conducta punible sobre bienes o
+recursos públicos;
+c) Ejecutar la conducta punible por motivo
+abyecto, fútil o mediante precio, recompensa o
+promesa remuneratoria;
+“d) Ejecutar el delito bajo móviles de intolerancia
+o discriminación, tales como el origen, raza, religión,
+sexo, orientación sexual, identidad de género,
+factor genético, filiación, edad, discapacidad,
+idioma, identidad étnica y cultural, indumentaria,
+opinión, condición económica, o de cualquier otra
+índole.” (*) Literal modificado por el artículo 1 del
 Decreto Legislativo N° 1323, publicado el 6 de enero
 de 2017.
 “e) Emplear en la ejecución de la conducta punible
@@ -2154,6 +2164,10 @@ disposición complementaria modificatoria de la Ley
 N° 30364, publicada el 23 de noviembre de 2015.
 Cómputo de la detención
 sufrida
+“Artículo 47.- El tiempo de detención que haya
+sufrido el procesado se abonará para el cómputo de
+la pena impuesta a razón de un día de pena privativa
+de libertad por cada día de detención.
 Si la pena correspondiente al hecho punible es
 la de multa o limitativa de derechos, la detención
 se computará a razón de dos días de dichas penas
@@ -2208,10 +2222,6 @@ pena privativa de libertad prevista para este, teniendo
 en cuenta el perjuicio total causado.” (*) Artículo
 incorporado por el artículo 2 de la Ley Nº 29407,
 publicada el 18 de setiembre de 2009.
-“Artículo 47.- El tiempo de detención que haya
-sufrido el procesado se abonará para el cómputo de
-la pena impuesta a razón de un día de pena privativa
-de libertad por cada día de detención.
 “Concurso real retrospectivo
 Artículo 51.- Si después de la sentencia
 condenatoria se descubriere otro hecho punible
@@ -2258,13 +2268,30 @@ artículo 1 de la Ley N° 32372, publicada el 7 de junio
 de 2025.
 “Conversión de la pena privativa
 de libertad en ejecución
+Artículo 52-A.- El juez competente puede
+convertir la pena privativa de libertad en ejecución
+de condena, por una pena limitativa de derechos,
+a razón de siete (7) días de privación de libertad
+por una jornada de prestación de servicios a la
+comunidad o por una jornada de limitación de
+días libres, según corresponda y siempre que se
+cumplan los supuestos de procedencia y requisitos
+establecidos en la ley de la materia.
+El juez también puede convertir la pena privativa
+de libertad no mayor de diez años en ejecución de
+condena por la de expulsión inmediata del país,
+siempre que haya cumplido los dos tercios de la
+condena, con excepción de los delitos tipificados en
+los artículos: 108-C, 129-A, 129-B, 129-C, 129-D,
+129- F, 129-G, 129-H, 129-I, 129-J, 129-K, 129-L,
 129-M, 129-N, 129-Ñ, 129-O, 152, 186, 188, 189,
 200, 296, 297, 303-A, 303-C, 317 y 317-B.” (*) Artículo
 modificado por el artículo 1 de la Ley N° 32372,
 publicada el 7 de junio de 2025.
 “Conversión de la pena privativa de libertad
 por la de vigilancia electrónica personal
-Artículo 52-B.“1. El juez, de oficio o a pedido de parte, puede
+Artículo 52-B.-
+“1. El juez, de oficio o a pedido de parte, puede
 convertir la pena privativa de libertad en pena de
 vigilancia electrónica personal en aquellos casos
 en que:
@@ -2300,22 +2327,6 @@ privativa de libertad a una de vigilancia electrónica
 personal.” (*) Numerales modificados por el artículo
 2 del Decreto Legislativo N° 1585, publicado el 22 de
 noviembre de 2023.
-Artículo 52-A.- El juez competente puede
-convertir la pena privativa de libertad en ejecución
-de condena, por una pena limitativa de derechos,
-a razón de siete (7) días de privación de libertad
-por una jornada de prestación de servicios a la
-comunidad o por una jornada de limitación de
-días libres, según corresponda y siempre que se
-cumplan los supuestos de procedencia y requisitos
-establecidos en la ley de la materia.
-El juez también puede convertir la pena privativa
-de libertad no mayor de diez años en ejecución de
-condena por la de expulsión inmediata del país,
-siempre que haya cumplido los dos tercios de la
-condena, con excepción de los delitos tipificados en
-los artículos: 108-C, 129-A, 129-B, 129-C, 129-D,
-129- F, 129-G, 129-H, 129-I, 129-J, 129-K, 129-L,
 4. En todos los supuestos previstos, el cómputo
 de la conversión de pena privativa de libertad por la
 pena de vigilancia electrónica personal es a razón de
@@ -2339,16 +2350,6 @@ libertad; o
 2. Una jornada de servicio a la comunidad o una
 de limitación de días libres por cada siete días de
 pena privativa de libertad.
-El condenado puede pagar la multa en cualquier
-momento descontándose el equivalente a la pena
-privativa de libertad o prestación de servicios
-comunitarios cumplidos a la fecha.
-Cuando se impone conjuntamente pena privativa
-de libertad y multa, se adiciona a la primera la que
-corresponde a la multa convertida.
-CAPÍTULO IV
-SUSPENSIÓN DE LA EJECUCIÓN
-DE LA PENA
 Revocación de la conversión por la
 comisión de delito doloso
 Artículo 54.- Cuando el condenado cometa,
@@ -2396,6 +2397,16 @@ ajenas a su voluntad, la pena de multa se convierte
 en una limitativa de derechos o de prestación de
 servicios a la comunidad con la equivalencia de una
 jornada por cada siete días-multa impagos.
+El condenado puede pagar la multa en cualquier
+momento descontándose el equivalente a la pena
+privativa de libertad o prestación de servicios
+comunitarios cumplidos a la fecha.
+Cuando se impone conjuntamente pena privativa
+de libertad y multa, se adiciona a la primera la que
+corresponde a la multa convertida.
+CAPÍTULO IV
+SUSPENSIÓN DE LA EJECUCIÓN
+DE LA PENA
 Requisitos
 Artículo 57.- “El juez puede suspender la
 ejecución de la pena siempre que se reúnan los
@@ -2496,6 +2507,11 @@ el condenado cometa nuevo delito doloso, ni infrinja
 de manera persistente y obstinada las reglas de
 conducta establecidas en la sentencia.
 CAPÍTULO V
+RESERVA DEL FALLO CONDENATORIO
+“Reserva del fallo condenatorio.
+Circunstancias y requisitos
+Artículo 62.- El juez puede disponer la reserva del
+fallo condenatorio siempre que de las circunstancias
 individuales, verificables al momento de la expedición
 de la sentencia, pueda colegir que el agente no
 cometerá nuevo delito. Los pronósticos favorables
@@ -2549,15 +2565,10 @@ cancelación.” (*) Artículo modificado por el artículo
 1 de la Ley N° 27868, publicada el 20 de noviembre
 de 2002.
 “Reglas de conducta
-RESERVA DEL FALLO CONDENATORIO
 Artículo 64.- Al disponer la reserva del fallo,
 el juez impone de manera debidamente motivada
 las siguientes reglas de conducta que resulten
 aplicables al caso:
-“Reserva del fallo condenatorio.
-Circunstancias y requisitos
-Artículo 62.- El juez puede disponer la reserva del
-fallo condenatorio siempre que de las circunstancias
 1. Prohibición de frecuentar determinados
 lugares;
 2. Prohibición de ausentarse del lugar donde
@@ -2608,6 +2619,15 @@ Artículo 67.- Si el régimen de prueba no fuera
 revocado será considerado extinguido al cumplirse
 el plazo fijado y el juzgamiento como no efectuado.
 CAPÍTULO VI
+EXENCIÓN DE PENA
+“Exención de pena
+Artículo 68.- El juez puede eximir de sanción
+en los casos en que el delito esté previsto en la
+ley con pena privativa de libertad no mayor de
+dos años o con pena limitativa de derechos o
+con multa si la responsabilidad del agente fuere
+mínima.” (*) Artículo modificado por el artículo 1 de
+la Ley Nº 29407, publicada el 18 de setiembre de 2009.
 CAPÍTULO VII
 REHABILITACIÓN
 “Rehabilitación automática
@@ -2656,16 +2676,7 @@ solicitud del Ministerio Público o del juez.” (*) Artículo
 modificado por el artículo 1 de la Ley Nº 30076,
 publicada el 19 de agosto de 2013.
 TÍTULO IV
-EXENCIÓN DE PENA
 DE LAS MEDIDAS DE SEGURIDAD
-“Exención de pena
-Artículo 68.- El juez puede eximir de sanción
-en los casos en que el delito esté previsto en la
-ley con pena privativa de libertad no mayor de
-dos años o con pena limitativa de derechos o
-con multa si la responsabilidad del agente fuere
-mínima.” (*) Artículo modificado por el artículo 1 de
-la Ley Nº 29407, publicada el 18 de setiembre de 2009.
 Medidas de seguridad. Clases
 Artículo 71.- Las medidas de seguridad que
 establece este Código son:
@@ -2785,8 +2796,6 @@ terminó la actividad delictuosa; y
 cesó la permanencia.
 Interrupción de la prescripción
 de la acción penal
-“Imprescriptibilidad de la pena
-y de la acción penal
 Artículo 83.- La prescripción de la acción se
 interrumpe por las actuaciones del Ministerio Público
 o de las autoridades judiciales, quedando sin efecto
@@ -2810,27 +2819,7 @@ las etapas del proceso penal u otros procedimientos.
 En ningún caso dicha suspensión será mayor a un
 año.” (*) Artículo modificado por el artículo 1 de la Ley
 N° 31751, publicada el 25 de mayo de 2023.
-Artículo 88-A.- La pena y la acción penal son
-imprescriptibles en los delitos previstos en los
-artículos 153, 153-A, 153-B y 153-C y en los capítulos
-IX, X y XI del Título IV del Libro Segundo del Código
-Penal.” (*) Artículo incorporado por el artículo 2 de la
-Ley N° 30838, publicada el 4 de agosto de 2018.
-Amnistía e indulto. Efectos
-Artículo 89.- La amnistía elimina legalmente el
-hecho punible a que se refiere e implica el perpetuo
-silencio respecto a él. El indulto suprime la pena
-impuesta.
-Cosa Juzgada
-Artículo 90.- Nadie puede ser perseguido por
-segunda vez en razón de un hecho punible sobre el
-cual se falló definitivamente.
-Renuncia a la prescripción
-de la acción penal
-Artículo 91.- El imputado tiene derecho a
-renunciar a la prescripción de la acción penal.
 Extinción de la ejecución de la pena. Casos
-TÍTULO VI
 Artículo 85.- La ejecución de la pena se extingue:
 1. Por muerte del condenado, amnistía, indulto
 y prescripción;
@@ -2859,6 +2848,32 @@ la prescripción comienza a correr desde el día de
 la revocación.
 Sin embargo, la pena prescribe, en todo caso, en
 los mismos plazos de la acción penal.
+Individualización de la prescripción
+Artículo 88.- La prescripción corre, se suspende
+o se interrumpe separadamente para cada uno de
+los partícipes del hecho punible.
+“Imprescriptibilidad de la pena
+y de la acción penal
+Artículo 88-A.- La pena y la acción penal son
+imprescriptibles en los delitos previstos en los
+artículos 153, 153-A, 153-B y 153-C y en los capítulos
+IX, X y XI del Título IV del Libro Segundo del Código
+Penal.” (*) Artículo incorporado por el artículo 2 de la
+Ley N° 30838, publicada el 4 de agosto de 2018.
+Amnistía e indulto. Efectos
+Artículo 89.- La amnistía elimina legalmente el
+hecho punible a que se refiere e implica el perpetuo
+silencio respecto a él. El indulto suprime la pena
+impuesta.
+Cosa Juzgada
+Artículo 90.- Nadie puede ser perseguido por
+segunda vez en razón de un hecho punible sobre el
+cual se falló definitivamente.
+Renuncia a la prescripción
+de la acción penal
+Artículo 91.- El imputado tiene derecho a
+renunciar a la prescripción de la acción penal.
+TÍTULO VI
 DE LA REPARACIÓN CIVIL Y
 CONSECUENCIAS ACCESORIAS
 CAPÍTULO I
@@ -2882,10 +2897,6 @@ mismo bien aunque se halle en poder de terceros,
 sin perjuicio del derecho de éstos para reclamar su
 valor contra quien corresponda.
 Responsabilidad solidaria
-Individualización de la prescripción
-Artículo 88.- La prescripción corre, se suspende
-o se interrumpe separadamente para cada uno de
-los partícipes del hecho punible.
 Artículo 95.- La reparación civil es solidaria entre
 los responsables del hecho punible y los terceros
 civilmente obligados.
@@ -3021,28 +3032,9 @@ la Ley N° 32054, publicada el 10 de junio de 2024.
 manera individual a los sujetos implicados en el
 ilícito.” (*) Párrafo incorporado por el artículo 1 de la
 Ley N° 32054, publicada el 10 de junio de 2024.
-“Parricidio
-Artículo 107.- El que, a sabiendas, mata a su
-ascendiente, descendiente, natural o adoptivo, o a
-una persona con quien sostiene o haya sostenido
-una relación conyugal o de convivencia, será
-reprimido con pena privativa de libertad no menor
-de quince años.
-La pena privativa de libertad será no menor de
-veinticinco años, cuando concurra cualquiera de las
-circunstancias agravantes previstas en los numerales
-1, 2, 3 y 4 del artículo 108.” (*) Artículo modificado
-por el artículo 1 de la Ley Nº 30068, publicada el 18 de
-julio de 2013.
-“En caso de que el agente tenga hijos con la
-víctima, además será reprimido con la pena de
-inhabilitación prevista en el inciso 5 del artículo
-36.” (*) Párrafo incorporado por el artículo 1 de la Ley
-Nº 30323, publicada el 7 de mayo de 2015.
 “Criterios para la determinación de las
 consecuencias aplicables
 a las personas jurídicas
-“Homicidio calificado
 Artículo 105-A.- Las medidas contempladas
 en el artículo anterior son aplicadas de forma
 motivada por el juez, en atención a los siguientes
@@ -3065,6 +3057,37 @@ operó habitualmente para favorecer, facilitar o encubrir
 actividades delictivas.” (*) Artículo incorporado por la
 segunda disposición complementaria modificatoria
 de la Ley Nº 30077, publicada el 20 de agosto de 2013.
+LIBRO SEGUNDO
+PARTE ESPECIAL
+DELITOS
+TÍTULO I
+DELITOS CONTRA LA VIDA,
+EL CUERPO Y LA SALUD
+CAPÍTULO I
+HOMICIDIO
+Homicidio Simple
+Artículo 106.- El que mata a otro será reprimido
+con pena privativa de libertad no menor de seis ni
+mayor de veinte años.
+“Parricidio
+Artículo 107.- El que, a sabiendas, mata a su
+ascendiente, descendiente, natural o adoptivo, o a
+una persona con quien sostiene o haya sostenido
+una relación conyugal o de convivencia, será
+reprimido con pena privativa de libertad no menor
+de quince años.
+La pena privativa de libertad será no menor de
+veinticinco años, cuando concurra cualquiera de las
+circunstancias agravantes previstas en los numerales
+1, 2, 3 y 4 del artículo 108.” (*) Artículo modificado
+por el artículo 1 de la Ley Nº 30068, publicada el 18 de
+julio de 2013.
+“En caso de que el agente tenga hijos con la
+víctima, además será reprimido con la pena de
+inhabilitación prevista en el inciso 5 del artículo
+36.” (*) Párrafo incorporado por el artículo 1 de la Ley
+Nº 30323, publicada el 7 de mayo de 2015.
+“Homicidio calificado
 Artículo 108.- Será reprimido con pena privativa
 de libertad no menor de quince años el que mate a
 otro concurriendo cualquiera de las circunstancias
@@ -3091,23 +3114,11 @@ menor de 25 años ni mayor de 35 años.” (*) Artículo
 incorporado por el artículo 1 de la Ley N° 30054, y
 modificado por el artículo único del Decreto Legislativo
 N° 1237, publicado el 26 de setiembre de 2015.
-LIBRO SEGUNDO
-PARTE ESPECIAL
 “Feminicidio
-DELITOS
 Artículo 108-B.- Será reprimido con pena
 privativa de libertad no menor de veinte años el
 que mata a una mujer por su condición de tal, en
 cualquiera de los siguientes contextos:
-TÍTULO I
-DELITOS CONTRA LA VIDA,
-EL CUERPO Y LA SALUD
-CAPÍTULO I
-HOMICIDIO
-Homicidio Simple
-Artículo 106.- El que mata a otro será reprimido
-con pena privativa de libertad no menor de seis ni
-mayor de veinte años.
 1. Violencia familiar.
 2. Coacción, hostigamiento o acoso sexual.
 3. Abuso de poder, confianza o de cualquier
@@ -3250,35 +3261,15 @@ y consciente para poner fin a sus intolerables dolores,
 será reprimido con pena privativa de libertad no
 mayor de tres años.
 Instigación o ayuda al suicidio
-Aborto terapéutico
-Artículo 119.- No es punible el aborto practicado
-por un médico con el consentimiento de la mujer
-embarazada o de su representante legal, si lo
-tuviere, cuando es el único medio para salvar la
-vida de la gestante o para evitar en su salud un mal
-grave y permanente.
-Aborto sentimental y eugenésico
-Artículo 120.- El aborto será reprimido con pena
-privativa de libertad no mayor de tres meses:
-CAPÍTULO II
-1. Cuando el embarazo sea consecuencia de
-violación sexual fuera de matrimonio o inseminación
-artificial no consentida y ocurrida fuera de matrimonio,
-siempre que los hechos hubieren sido denunciados o
-investigados, cuando menos policialmente; o
-2. Cuando es probable que el ser en formación
-conlleve al nacimiento graves taras físicas o
-psíquicas, siempre que exista diagnóstico médico.
-ABORTO
-CAPÍTULO III
 Artículo 113.- El que instiga a otro al suicidio o
 lo ayuda a cometerlo, será reprimido, si el suicidio
 se ha consumado o intentado, con pena privativa de
 libertad no menor de uno ni mayor de cuatro años.
 La pena será no menor de dos ni mayor de cinco
 años, si el agente actuó por un móvil egoísta.
+CAPÍTULO II
+ABORTO
 Autoaborto
-LESIONES
 Artículo 114.- La mujer que causa su aborto,
 o consiente que otro le practique, será reprimida
 con pena privativa de libertad no mayor de dos
@@ -3313,6 +3304,26 @@ siendo notorio o constándole el embarazo, será
 reprimido con pena privativa de libertad no mayor de
 dos años, o con prestación de servicio comunitario
 de cincuentidós a ciento cuatro jornadas.
+Aborto terapéutico
+Artículo 119.- No es punible el aborto practicado
+por un médico con el consentimiento de la mujer
+embarazada o de su representante legal, si lo
+tuviere, cuando es el único medio para salvar la
+vida de la gestante o para evitar en su salud un mal
+grave y permanente.
+Aborto sentimental y eugenésico
+Artículo 120.- El aborto será reprimido con pena
+privativa de libertad no mayor de tres meses:
+1. Cuando el embarazo sea consecuencia de
+violación sexual fuera de matrimonio o inseminación
+artificial no consentida y ocurrida fuera de matrimonio,
+siempre que los hechos hubieren sido denunciados o
+investigados, cuando menos policialmente; o
+2. Cuando es probable que el ser en formación
+conlleve al nacimiento graves taras físicas o
+psíquicas, siempre que exista diagnóstico médico.
+CAPÍTULO III
+LESIONES
 “Lesiones graves
 Artículo 121.- El que causa a otro daño grave en
 el cuerpo o en la salud física o mental, será reprimido
@@ -3438,7 +3449,8 @@ mayor de veinte años.” (*) Artículo modificado por el
 artículo 1 de la Ley N° 30819, publicada el 13 de julio
 de 2018.
 “Lesiones leves
-Artículo 122.1. El que causa a otro lesiones en el cuerpo o en
+Artículo 122.-
+1. El que causa a otro lesiones en el cuerpo o en
 la salud física o mental que requiera más de diez
 y menos de veinte días de asistencia o descanso,
 según prescripción facultativa, o nivel moderado de
@@ -3627,6 +3639,25 @@ estén legalmente bajo su protección o que se hallen
 de hecho bajo su cuidado, será reprimido con pena
 privativa de libertad no menor de uno ni mayor de
 cuatro años.” (*) Artículo modificado por el artículo 2
+de la Ley Nº 26926, publicada el 21 de febrero de 1998.
+Omisión de socorro y exposición a peligro
+Artículo 126.- El que omite prestar socorro a una
+persona que ha herido o incapacitado, poniendo en
+peligro su vida o su salud, será reprimido con pena
+privativa de libertad no mayor de tres años.
+Omisión de auxilio o aviso a la autoridad
+Artículo 127.- El que encuentra a un herido
+o a cualquier otra persona en estado de grave e
+inminente peligro y omite prestarle auxilio inmediato
+pudiendo hacerlo sin riesgo propio o de tercero o se
+abstiene de dar aviso a la autoridad, será reprimido
+con pena privativa de libertad no mayor de un año o
+con treinta a ciento veinte días-multa.
+“Exposición a peligro de persona
+dependiente
+Artículo 128.- El que expone a peligro la vida o
+la salud de una persona colocada bajo su autoridad,
+dependencia, tutela, curatela o vigilancia, sea
 privándola de alimentos o cuidados indispensables,
 sea abusando de los medios de corrección o
 disciplina, o cualquier acto análogo, será reprimido
@@ -3661,29 +3692,11 @@ febrero de 1998.
 DELITOS CONTRA LA DIGNIDAD HUMANA”
 (*) Título incorporado por el artículo 3 de la
 Ley N° 31146, publicada el 30 de marzo de 2021
-de la Ley Nº 26926, publicada el 21 de febrero de 1998.
 CAPÍTULO I
-Omisión de socorro y exposición a peligro
 TRATA DE PERSONAS
-Artículo 126.- El que omite prestar socorro a una
-persona que ha herido o incapacitado, poniendo en
-peligro su vida o su salud, será reprimido con pena
-privativa de libertad no mayor de tres años.
-Omisión de auxilio o aviso a la autoridad
-Artículo 127.- El que encuentra a un herido
-o a cualquier otra persona en estado de grave e
-inminente peligro y omite prestarle auxilio inmediato
-pudiendo hacerlo sin riesgo propio o de tercero o se
-abstiene de dar aviso a la autoridad, será reprimido
-con pena privativa de libertad no mayor de un año o
-con treinta a ciento veinte días-multa.
-“Exposición a peligro de persona
-dependiente
-Artículo 128.- El que expone a peligro la vida o
-la salud de una persona colocada bajo su autoridad,
-dependencia, tutela, curatela o vigilancia, sea
 “Trata de personas
-Artículo 129-A.1. El que mediante violencia, amenaza u otras
+Artículo 129-A.-
+1. El que mediante violencia, amenaza u otras
 formas de coacción, privación de la libertad, fraude,
 engaño, abuso de poder o de una situación de
 vulnerabilidad, concesión o recepción de pagos o
@@ -4172,18 +4185,8 @@ por cualquier motivo, o mantiene con ella un vínculo
 de superioridad, autoridad, poder o cualquier otra
 circunstancia que impulse a depositar la confianza
 en él.
-La pena privativa de libertad será no menor
-de diez ni mayor de quince años y de cincuenta a
-trescientos sesenta y cinco días multa cuando:
 La pena privativa de libertad será no menor de
 treinta ni mayor de treinta y cinco años cuando:
-1. La víctima tenga menos de catorce años de
-edad.
-2. El material se difunda a través de cualquier
-tecnología de la información o de la comunicación
-o cualquier otro medio que genere difusión masiva.
-3. El agente actúe como miembro o integrante de
-una banda u organización criminal.
 1. El agente sea ascendiente por consanguinidad,
 adopción o por afinidad, pariente colateral hasta
 el cuarto grado de consanguinidad o adopción,
@@ -4238,6 +4241,16 @@ libertad no menor de seis ni mayor de diez años y
 con ciento veinte a trescientos sesenta y cinco días
 multa.” (*) Párrafo modificado por el artículo 1 de la
 Ley N° 32314, publicada el 29 de abril de 2025.
+La pena privativa de libertad será no menor
+de diez ni mayor de quince años y de cincuenta a
+trescientos sesenta y cinco días multa cuando:
+1. La víctima tenga menos de catorce años de
+edad.
+2. El material se difunda a través de cualquier
+tecnología de la información o de la comunicación
+o cualquier otro medio que genere difusión masiva.
+3. El agente actúe como miembro o integrante de
+una banda u organización criminal.
 En todos los casos se impone, además, la pena
 de inhabilitación conforme al artículo 36, incisos 1,
 2, 3, 4, 5, 6, 8, 9,10 y 11.” (*) Artículo incorporado
@@ -4413,19 +4426,6 @@ persona con palabras, gestos o vías de hecho, será
 reprimido con prestación de servicio comunitario de
 diez a cuarenta jornadas o con sesenta a noventa
 días-multa.
-2. Cuando por los hechos imputados está aún
-abierto un proceso penal contra la persona ofendida.
-3. Cuando es evidente que el autor del delito ha
-actuado en interés de causa pública o en defensa
-propia.
-4. Cuando el querellante pide formalmente que
-el proceso se siga hasta establecer la verdad o
-falsedad de los hechos o de la cualidad o conducta
-que se le haya atribuido.
-Si la verdad de los hechos, cualidad o conducta
-resulta probada, el autor de la imputación estará
-exento de pena.
-Inadmisibilidad de la prueba
 Calumnia
 Artículo 131.- El que atribuye falsamente a otro
 un delito, será reprimido con noventa a ciento veinte
@@ -4454,6 +4454,37 @@ tres años y de ciento veinte a trescientos sesenticinco
 días-multa.” (*) Párrafo modificado por el artículo 1 de
 la Ley N° 32314, publicada el 29 de abril de 2025.
 Conductas atípicas
+Artículo 133.- No se comete injuria ni difamación
+cuando se trata de:
+1. Ofensas proferidas con ánimo de defensa
+por los litigantes, apoderados o abogados en sus
+intervenciones orales o escritas ante el Juez.
+2. Críticas literarias, artísticas o científicas.
+3. Apreciaciones o informaciones que contengan
+conceptos desfavorables cuando sean realizadas
+por un funcionario público en cumplimiento de sus
+obligaciones.
+Prueba de la verdad de las imputaciones
+Artículo 134.- El autor del delito previsto en
+el artículo 132 puede probar la veracidad de sus
+imputaciones sólo en los casos siguientes:
+1. Cuando la persona ofendida es un funcionario
+público y los hechos, cualidades o conductas que
+se le hubieran atribuido se refieren al ejercicio de
+sus funciones.
+2. Cuando por los hechos imputados está aún
+abierto un proceso penal contra la persona ofendida.
+3. Cuando es evidente que el autor del delito ha
+actuado en interés de causa pública o en defensa
+propia.
+4. Cuando el querellante pide formalmente que
+el proceso se siga hasta establecer la verdad o
+falsedad de los hechos o de la cualidad o conducta
+que se le haya atribuido.
+Si la verdad de los hechos, cualidad o conducta
+resulta probada, el autor de la imputación estará
+exento de pena.
+Inadmisibilidad de la prueba
 Artículo 135.- No se admite en ningún caso la
 prueba:
 1. Sobre imputación de cualquier hecho punible
@@ -4478,16 +4509,6 @@ a las partes o a una de ellas.
 No es punible la injuria verbal provocada por
 ofensas personales.
 Ejercicio privado de la acción penal
-Artículo 133.- No se comete injuria ni difamación
-cuando se trata de:
-1. Ofensas proferidas con ánimo de defensa
-por los litigantes, apoderados o abogados en sus
-intervenciones orales o escritas ante el Juez.
-2. Críticas literarias, artísticas o científicas.
-3. Apreciaciones o informaciones que contengan
-conceptos desfavorables cuando sean realizadas
-por un funcionario público en cumplimiento de sus
-obligaciones.
 Artículo 138.- En los delitos previstos en este
 Título sólo se procederá por acción privada.
 Si la injuria, difamación o calumnia ofende a la
@@ -4498,14 +4519,6 @@ o continuada por su cónyuge, ascendientes,
 descendientes o hermanos.
 TÍTULO III
 DELITOS CONTRA LA FAMILIA
-Prueba de la verdad de las imputaciones
-Artículo 134.- El autor del delito previsto en
-el artículo 132 puede probar la veracidad de sus
-imputaciones sólo en los casos siguientes:
-1. Cuando la persona ofendida es un funcionario
-público y los hechos, cualidades o conductas que
-se le hubieran atribuido se refieren al ejercicio de
-sus funciones.
 CAPÍTULO I
 MATRIMONIOS ILEGALES
 Bigamia
@@ -4516,10 +4529,6 @@ Si, respecto a su estado civil, induce a error a la
 persona con quien contrae el nuevo matrimonio la
 pena será privativa de libertad no menor de dos ni
 mayor de cinco años.
-por un móvil de honor la pena será de prestación
-de servicio comunitario de veinte a treinta jornadas.
-CAPÍTULO III
-ATENTADOS CONTRA LA PATRIA POTESTAD
 Matrimonio con persona casada
 Artículo 140.- El no casado que, a sabiendas,
 contrae matrimonio con persona casada será
@@ -4569,6 +4578,10 @@ libertad no menor de uno ni mayor de cinco años.
 Móvil de honor
 Artículo 146.- Si el agente de alguno de los
 delitos previstos en este Capítulo comete el hecho
+por un móvil de honor la pena será de prestación
+de servicio comunitario de veinte a treinta jornadas.
+CAPÍTULO III
+ATENTADOS CONTRA LA PATRIA POTESTAD
 “Sustracción de menor
 Artículo 147.- El que, mediando relación parental,
 sustrae a un menor de edad o rehúsa entregarlo a
@@ -4856,14 +4869,6 @@ en el caso del delito previsto en los artículos 154-A,
 3 del Decreto Legislativo N° 1625, publicado el 8 de
 agosto de 2024.
 CAPÍTULO III
-hasta en un tercio por encima del máximo legal
-previsto en los supuestos anteriores.” (*) Artículo
-modificado por la primera disposición complementaria
-modificatoria del Decreto Legislativo N° 1182, publicado
-el 27 de julio de 2015.
-“Posesión o comercialización de equipos
-destinados a la interceptación telefónica
-o similar
 VIOLACIÓN DE DOMICILIO
 Violación de domicilio
 Artículo 159.- El que, sin derecho, penetra en
@@ -4912,6 +4917,14 @@ y Acceso a la Información Pública.
 seguridad o soberanía nacionales.
 Si el agente comete el delito como integrante de
 una organización criminal, la pena se incrementa
+hasta en un tercio por encima del máximo legal
+previsto en los supuestos anteriores.” (*) Artículo
+modificado por la primera disposición complementaria
+modificatoria del Decreto Legislativo N° 1182, publicado
+el 27 de julio de 2015.
+“Posesión o comercialización de equipos
+destinados a la interceptación telefónica
+o similar
 Artículo 162-A.- El que fabrica, adquiere, introduce
 al territorio nacional, posee o comercializa equipos
 o softwares destinados a interceptar ilegalmente
@@ -4970,25 +4983,9 @@ causar daño, los revela sin consentimiento del
 interesado, será reprimido con pena privativa de
 libertad no mayor de dos años y con sesenta a ciento
 veinte días-multa.
-con pena privativa de libertad no menor de uno ni
-mayor de cuatro años.
-Si, como consecuencia de la inobservancia
-deliberada de las normas de seguridad y salud en el
-trabajo, se causa la muerte del trabajador o terceros
-o le producen lesión grave, y el agente pudo prever
-este resultado, la pena privativa de libertad será no
-menor de cuatro ni mayor de ocho años en caso de
-muerte y, no menor de tres ni mayor de seis años
-en caso de lesión grave.” (*) Artículo modificado por
-la primera disposición complementaria modificatoria
-del Decreto de Urgencia N° 044-2019, publicado el 30
-de diciembre de 2019.
 CAPÍTULO VI
-CAPÍTULO VIII
 VIOLACIÓN DE LA LIBERTAD
 DE REUNIÓN
-VIOLACIÓN DE LA LIBERTAD DE EXPRESIÓN
-Violación de la libertad de expresión
 Perturbación de reunión pública
 Artículo 166.- El que, con violencia o amenaza,
 impide o perturba una reunión pública lícita, será
@@ -4996,13 +4993,6 @@ reprimido con pena privativa de libertad no mayor de
 un año y con sesenta a noventa días-multa.
 Prohibición de reunión pública lícita por
 funcionario público
-Artículo 169.- El funcionario público que,
-abusando de su cargo, suspende o clausura algún
-medio de comunicación social o impide su circulación
-o difusión, será reprimido con pena privativa de
-libertad no menor de tres ni mayor de seis años e
-inhabilitación conforme al artículo 36, incisos 1 y 2.
-CAPÍTULO IX
 Artículo 167.- El funcionario público que
 abusando de su cargo no autoriza, no garantiza,
 prohíbe o impide una reunión pública, lícitamente
@@ -5034,6 +5024,29 @@ infringiendo las normas de seguridad y salud en el
 trabajo y estando legalmente obligado, ponga en
 peligro inminente la vida, salud o integridad física
 de sus trabajadores de forma grave, será reprimido
+con pena privativa de libertad no menor de uno ni
+mayor de cuatro años.
+Si, como consecuencia de la inobservancia
+deliberada de las normas de seguridad y salud en el
+trabajo, se causa la muerte del trabajador o terceros
+o le producen lesión grave, y el agente pudo prever
+este resultado, la pena privativa de libertad será no
+menor de cuatro ni mayor de ocho años en caso de
+muerte y, no menor de tres ni mayor de seis años
+en caso de lesión grave.” (*) Artículo modificado por
+la primera disposición complementaria modificatoria
+del Decreto de Urgencia N° 044-2019, publicado el 30
+de diciembre de 2019.
+CAPÍTULO VIII
+VIOLACIÓN DE LA LIBERTAD DE EXPRESIÓN
+Violación de la libertad de expresión
+Artículo 169.- El funcionario público que,
+abusando de su cargo, suspende o clausura algún
+medio de comunicación social o impide su circulación
+o difusión, será reprimido con pena privativa de
+libertad no menor de tres ni mayor de seis años e
+inhabilitación conforme al artículo 36, incisos 1 y 2.
+CAPÍTULO IX
 VIOLACIÓN DE LA LIBERTAD SEXUAL
 “Violación sexual
 Artículo 170.- El que con violencia, física o
@@ -5454,51 +5467,14 @@ Artículo 182.- (*) Artículo derogado por la quinta
 disposición complementaria, transitoria y final de la Ley
 N° 28950, publicada el 16 de enero de 2007.
 CAPÍTULO XI
-de edad o una persona en situación de especial
-vulnerabilidad.” (*) Numeral incorporado por la única
-disposición complementaria modificatoria de la Ley
-N° 32331, publicada el 12 de mayo de 2025.
-“6. Cuando la conducta es realizada por un
-servidor o funcionario público, docente o personal
-administrativo de una institución educativa.” (*) Numeral
-incorporado por la única disposición complementaria
-modificatoria de la Ley N° 32331, publicada el 12 de
-mayo de 2025.
-En todos los casos se impone, además, la pena
-de inhabilitación conforme al artículo 36, incisos 1,
-2, 3, 4, 6, 8, 9, 10 y 11.” (*) Artículo modificado por el
-artículo 1 de la Ley N° 30963, publicada el 18 de junio
-de 2019.
-Artículo 183-A.- (*) Artículo eliminado por la
-reubicación dispuesta por el artículo 2 de la Ley
-N° 31146, publicada el 30 de marzo de 2021.
-“Proposiciones a niños, niñas y
-adolescentes con fines sexuales
-Artículo 183-B.- El que contacta con un menor
-de catorce años para solicitar u obtener de él
-material pornográfico, o para proponerle llevar a
-cabo cualquier acto de connotación sexual con él
-o con tercero, será reprimido con pena privativa de
-libertad no menor de seis ni mayor de nueve años.
-Cuando la víctima tiene entre catorce y menos
-de dieciocho años, y medie engaño, la pena será no
-menor de tres ni mayor de seis años.
-En todos los casos se impone, además, la pena
-de inhabilitación conforme al artículo 36, incisos 1,
-2, 3, 4, 5, 6, 8, 9, 10 y 11.” (*) Artículo incorporado
-por el artículo 5 de la Ley N° 30171, publicada el 10 de
-marzo de 2014, y modificado por el artículo 1 de la Ley
-N° 30963, publicada el 18 de junio de 2019.
 OFENSAS AL PUDOR PÚBLICO
 “Exhibiciones y publicaciones obscenas
-CAPÍTULO XII
 Artículo 183.- Será reprimido con pena privativa
 de libertad no menor de dos ni mayor de cuatro años
 el que, en lugar público, realiza exhibiciones, gestos,
 tocamientos u otra conducta de índole obscena.
 Será reprimido con pena privativa de libertad no
 menor de cuatro ni mayor de seis años:
-DISPOSICIÓN COMÚN
 1. El que muestra, vende o entrega a un menor
 de dieciocho años, por cualquier medio, objetos,
 libros, escritos, imágenes, visuales o auditivas, que
@@ -5518,6 +5494,43 @@ N° 32331, publicada el 12 de mayo de 2025.
 “5. Cuando la conducta es realizada por
 quien tiene una posición de garante y el deber de
 custodia, protección o cuidado sobre un menor
+de edad o una persona en situación de especial
+vulnerabilidad.” (*) Numeral incorporado por la única
+disposición complementaria modificatoria de la Ley
+N° 32331, publicada el 12 de mayo de 2025.
+“6. Cuando la conducta es realizada por un
+servidor o funcionario público, docente o personal
+administrativo de una institución educativa.” (*) Numeral
+incorporado por la única disposición complementaria
+modificatoria de la Ley N° 32331, publicada el 12 de
+mayo de 2025.
+En todos los casos se impone, además, la pena
+de inhabilitación conforme al artículo 36, incisos 1,
+2, 3, 4, 6, 8, 9, 10 y 11.” (*) Artículo modificado por el
+artículo 1 de la Ley N° 30963, publicada el 18 de junio
+de 2019.
+Artículo 183-A.- (*) Artículo eliminado por la
+reubicación dispuesta por el artículo 2 de la Ley
+N° 31146, publicada el 30 de marzo de 2021.
+“Proposiciones a niños, niñas y
+adolescentes con fines sexuales
+Artículo 183-B.- El que contacta con un menor
+de catorce años para solicitar u obtener de él
+material pornográfico, o para proponerle llevar a
+cabo cualquier acto de connotación sexual con él
+o con tercero, será reprimido con pena privativa de
+libertad no menor de seis ni mayor de nueve años.
+Cuando la víctima tiene entre catorce y menos
+de dieciocho años, y medie engaño, la pena será no
+menor de tres ni mayor de seis años.
+En todos los casos se impone, además, la pena
+de inhabilitación conforme al artículo 36, incisos 1,
+2, 3, 4, 5, 6, 8, 9, 10 y 11.” (*) Artículo incorporado
+por el artículo 5 de la Ley N° 30171, publicada el 10 de
+marzo de 2014, y modificado por el artículo 1 de la Ley
+N° 30963, publicada el 18 de junio de 2019.
+CAPÍTULO XII
+DISPOSICIÓN COMÚN
 Castigo a cómplices
 Artículo 184.- Los ascendientes, descendientes,
 afines en línea recta, hermanos y cualquier
@@ -5540,16 +5553,9 @@ según corresponda al momento procesal.” (*) Artículo
 incorporado por el artículo 2 de la Ley N° 30838,
 publicada el 4 de agosto de 2018.
 TÍTULO V
-electricidad o telecomunicaciones.” (*) Numeral
-modificado por el artículo 2 del Decreto Legislativo
-N° 1245, publicado el 6 de noviembre de 2016.
 DELITOS CONTRA EL PATRIMONIO
-11. En agravio de menores de edad, personas
-con discapacidad, mujeres en estado de gravidez o
-adulto mayor.” (*) Artículo modificado por el artículo 1
 CAPÍTULO I
 HURTO
-de la Ley Nº 30076, publicada el 19 de agosto de 2013.
 “Hurto simple
 Artículo 185.- El que, para obtener provecho, se
 apodera ilegítimamente de un bien mueble, total o
@@ -5603,6 +5609,13 @@ accesorios.
 infraestructura o instalaciones de transportes de uso
 público, de sus equipos o elementos de seguridad, o
 de prestación de servicios públicos de saneamiento,
+electricidad o telecomunicaciones.” (*) Numeral
+modificado por el artículo 2 del Decreto Legislativo
+N° 1245, publicado el 6 de noviembre de 2016.
+11. En agravio de menores de edad, personas
+con discapacidad, mujeres en estado de gravidez o
+adulto mayor.” (*) Artículo modificado por el artículo 1
+de la Ley Nº 30076, publicada el 19 de agosto de 2013.
 “12. Sobre bienes que forman parte de la
 infraestructura o instalaciones públicas o privadas
 para la exploración, explotación, procesamiento,
@@ -5786,24 +5799,8 @@ la vida, el cuerpo y la salud, la pena se aplica sin
 perjuicio de otra más grave que pudiera corresponder
 en cada caso.
 CAPÍTULO III
-1. Se apropia de un bien que encuentra perdido o
-de un tesoro, o de la parte del tesoro correspondiente
-al propietario del suelo, sin observar las normas del
-Código Civil.
-2. Se apropia de un bien ajeno en cuya tenencia
-haya entrado a consecuencia de un error, caso
-fortuito o por cualquier otro motivo independiente
-de su voluntad.
-Apropiación de prenda
-Artículo 193.- El que vende la prenda constituida
-en su favor o se apropia o dispone de ella sin
-observar las formalidades legales, será reprimido
-con pena privativa de libertad no menor de uno ni
-mayor de cuatro años.
 APROPIACIÓN ILÍCITA
-CAPÍTULO IV
 “Apropiación ilícita común
-RECEPTACIÓN
 Artículo 190.- El que, en su provecho o de
 un tercero, se apropia indebidamente de un bien
 mueble, una suma de dinero o un valor que ha
@@ -5834,6 +5831,33 @@ de tres ni mayor de seis años y la inhabilitación
 a que se refieren los incisos 1, 2 y 8 del artículo
 36.” (*) Artículo modificado por el artículo único de la
 Ley N° 31823, publicada el 8 de julio de 2023.
+Sustracción de bien propio
+Artículo 191.- El propietario de un bien mueble
+que lo sustrae de quien lo tenga legítimamente en
+su poder, con perjuicio de éste o de un tercero, será
+reprimido con pena privativa de libertad no mayor
+de cuatro años.
+Apropiación irregular
+Artículo 192.- Será reprimido con pena privativa
+de libertad no mayor de dos años o con limitación de
+días libres de diez a veinte jornadas, quien realiza
+cualquiera de las acciones siguientes:
+1. Se apropia de un bien que encuentra perdido o
+de un tesoro, o de la parte del tesoro correspondiente
+al propietario del suelo, sin observar las normas del
+Código Civil.
+2. Se apropia de un bien ajeno en cuya tenencia
+haya entrado a consecuencia de un error, caso
+fortuito o por cualquier otro motivo independiente
+de su voluntad.
+Apropiación de prenda
+Artículo 193.- El que vende la prenda constituida
+en su favor o se apropia o dispone de ella sin
+observar las formalidades legales, será reprimido
+con pena privativa de libertad no menor de uno ni
+mayor de cuatro años.
+CAPÍTULO IV
+RECEPTACIÓN
 “Receptación
 Articulo 194.- El que adquiere, recibe en
 donación, en prenda, guarda, esconde, expone
@@ -5842,7 +5866,8 @@ desensambla o utiliza, un bien o sus partes de cuya
 procedencia delictuosa tenía conocimiento o debía
 presumir que provenía de un delito, será reprimido
 con pena privativa de libertad no menor de dos ni
-mayor de cuatro años y con treinta a noventa díasmulta e inhabilitación, conforme al numeral 4 del
+mayor de cuatro años y con treinta a noventa días-
+multa e inhabilitación, conforme al numeral 4 del
 artículo 36 del Código Penal.
 La misma pena se aplica al que provea
 documentos para ocultar, encubrir o disimular el
@@ -5862,17 +5887,6 @@ menor de dos años ni mayor de seis años y con
 treinta a noventa días multa.” (*) Artículo incorporado
 por el artículo 1 de la Ley N° 29316, publicada el 14 de
 enero de 2009.
-Sustracción de bien propio
-Artículo 191.- El propietario de un bien mueble
-que lo sustrae de quien lo tenga legítimamente en
-su poder, con perjuicio de éste o de un tercero, será
-reprimido con pena privativa de libertad no mayor
-de cuatro años.
-Apropiación irregular
-Artículo 192.- Será reprimido con pena privativa
-de libertad no mayor de dos años o con limitación de
-días libres de diez a veinte jornadas, quien realiza
-cualquiera de las acciones siguientes:
 “Formas agravadas
 Artículo 195.- La pena privativa de libertad será
 no menor de cuatro ni mayor de seis años y de
@@ -5918,6 +5932,31 @@ agravado, secuestro, extorsión, trata de personas y
 trabajo forzoso.” (*) Párrafo modificado por el artículo
 único de la Ley N° 30924, publicada el 29 de marzo de
 2019.
+CAPÍTULO V
+ESTAFA Y OTRAS DEFRAUDACIONES
+Estafa
+Artículo 196.- El que procura para sí o para otro
+un provecho ilícito en perjuicio de tercero, induciendo
+o manteniendo en error al agraviado mediante
+engaño, astucia, ardid u otra forma fraudulenta, será
+reprimido con pena privativa de libertad no menor de
+uno ni mayor de seis años.
+“Estafa agravada
+Artículo 196-A.- La pena será privativa de
+libertad no menor de cuatro ni mayor de ocho años
+y con noventa a doscientos días-multa, cuando la
+estafa:
+1. Se cometa en agravio de menores de edad,
+personas con discapacidad, mujeres en estado de
+gravidez o adulto mayor.
+2. Se realice con la participación de dos o más
+personas.
+3. Se cometa en agravio de pluralidad de víctimas.
+4. Se realice con ocasión de compra-venta de
+vehículos motorizados o bienes inmuebles.
+5. Se realice para sustraer o acceder a los datos
+de tarjetas de ahorro o de crédito, emitidos por el
+sistema financiero o bancario.
 6. Se realice con aprovechamiento de la
 situación de vulnerabilidad de la víctima.” (*) Artículo
 incorporado por el artículo 2 de la Ley Nº 30076,
@@ -5951,32 +5990,7 @@ los bienes ajenos.
 CAPÍTULO VI
 FRAUDE EN LA ADMINISTRACIÓN
 DE PERSONAS JURÍDICAS
-CAPÍTULO V
-ESTAFA Y OTRAS DEFRAUDACIONES
 “Administración fraudulenta
-Estafa
-Artículo 196.- El que procura para sí o para otro
-un provecho ilícito en perjuicio de tercero, induciendo
-o manteniendo en error al agraviado mediante
-engaño, astucia, ardid u otra forma fraudulenta, será
-reprimido con pena privativa de libertad no menor de
-uno ni mayor de seis años.
-“Estafa agravada
-Artículo 196-A.- La pena será privativa de
-libertad no menor de cuatro ni mayor de ocho años
-y con noventa a doscientos días-multa, cuando la
-estafa:
-1. Se cometa en agravio de menores de edad,
-personas con discapacidad, mujeres en estado de
-gravidez o adulto mayor.
-2. Se realice con la participación de dos o más
-personas.
-3. Se cometa en agravio de pluralidad de víctimas.
-4. Se realice con ocasión de compra-venta de
-vehículos motorizados o bienes inmuebles.
-5. Se realice para sustraer o acceder a los datos
-de tarjetas de ahorro o de crédito, emitidos por el
-sistema financiero o bancario.
 Artículo 198.- Será reprimido con pena privativa
 de libertad no menor de dos ni mayor de cinco
 años y con ciento ochenta a trescientos sesenta y
@@ -6037,7 +6051,8 @@ junio de 2022.
 CAPÍTULO VII
 EXTORSIÓN
 “Extorsión
-Artículo 200.200.1. El que mediante violencia o amenaza
+Artículo 200.-
+200.1. El que mediante violencia o amenaza
 obliga a una persona o a una institución pública o
 privada a otorgar al agente o a un tercero una ventaja
 económica indebida u otra ventaja de cualquier otra
@@ -6168,6 +6183,16 @@ de quienes tengan derecho a oponerse.
 La violencia a la que se hace referencia en los
 numerales 2 y 3 se ejerce tanto sobre las personas
 como sobre los bienes.” (*) Artículo modificado por
+el artículo 1 de la Ley Nº 30076, publicada el 19 de
+agosto de 2013.
+Desvío ilegal del curso de las aguas
+Artículo 203.- El que, con el fin de obtener para
+sí o para otro un provecho ilícito con perjuicio de
+tercero, desvía el curso de las aguas públicas o
+privadas, impide que corran por su cauce o las utiliza
+en una cantidad mayor de la debida, será reprimido
+con pena privativa de libertad no menor de uno ni
+mayor de tres años.
 “Formas agravadas de usurpación
 Artículo 204.- La pena privativa de libertad
 será no menor de cinco ni mayor de doce años
@@ -6219,24 +6244,14 @@ modificado por la tercera disposición complementaria
 modificatoria de la Ley N° 30556, publicada el 29 de
 abril de 2017.
 CAPÍTULO IX
-el artículo 1 de la Ley Nº 30076, publicada el 19 de
-agosto de 2013.
-Desvío ilegal del curso de las aguas
-Artículo 203.- El que, con el fin de obtener para
-sí o para otro un provecho ilícito con perjuicio de
-tercero, desvía el curso de las aguas públicas o
-privadas, impide que corran por su cauce o las utiliza
-en una cantidad mayor de la debida, será reprimido
-con pena privativa de libertad no menor de uno ni
-mayor de tres años.
 DAÑOS
 “Daño simple
 Artículo 205.- El que daña, destruye o inutiliza
 un bien, mueble o inmueble, total o parcialmente
 ajeno, será reprimido con pena privativa de libertad
-no mayor de tres años y con treinta a sesenta díasmulta.” (*) Artículo modificado por el artículo 1 de la
+no mayor de tres años y con treinta a sesenta días-
+multa.” (*) Artículo modificado por el artículo 1 de la
 Ley Nº 30076, publicada el 19 de agosto de 2013.
-CAPÍTULO X
 Formas agravadas
 Artículo 206.- La pena para el delito previsto en
 el artículo 205 será privativa de libertad no menor
@@ -6290,6 +6305,16 @@ de conformidad con el numeral 13 del artículo 36.”
 (*) Artículo incorporado por la segunda disposición
 complementaria modificatoria de la Ley N° 30407,
 publicada el 8 de enero de 2016.
+Producción o venta de alimentos en mal
+estado para los animales
+Artículo 207.- El que produce o vende alimentos,
+preservantes, aditivos y mezclas para consumo
+animal, falsificados, corrompidos o dañados, cuyo
+consumo genere peligro para la vida, la salud o la
+integridad física de los animales, será reprimido con
+pena privativa de libertad no mayor de un año y con
+treinta a cien días-multa.
+CAPÍTULO X
 DELITOS INFORMÁTICOS
 (*) Los artículos de este Capítulo fueron
 derogados por la Ley N° 30096, publicada el
@@ -6332,15 +6357,6 @@ al agraviado, se disminuye a la pena concreta, por
 para el delito.” (*) Artículo incorporado por el artículo
 8 del Decreto Legislativo N° 1585, publicado el 22 de
 noviembre de 2023.
-Producción o venta de alimentos en mal
-estado para los animales
-Artículo 207.- El que produce o vende alimentos,
-preservantes, aditivos y mezclas para consumo
-animal, falsificados, corrompidos o dañados, cuyo
-consumo genere peligro para la vida, la salud o la
-integridad física de los animales, será reprimido con
-pena privativa de libertad no mayor de un año y con
-treinta a cien días-multa.
 TÍTULO VI
 DELITOS CONTRA LA CONFIANZA Y
 LA BUENA FE EN LOS NEGOCIOS
@@ -6408,6 +6424,10 @@ privativas de libertad e inhabilitación se reducirán
 en una mitad.” (*) Artículo modificado por la octava
 disposición final de la Ley Nº 27146, publicada el 24
 de junio de 1999.
+Suspensión ilícita de la exigibilidad de las
+obligaciones del deudor
+“Artículo 211.- El que en un procedimiento de
+insolvencia, procedimiento simplificado, concurso
 preventivo, procedimiento transitorio u otro
 procedimiento de reprogramación de obligaciones
 cualesquiera fuera su denominación, lograre la
@@ -6463,12 +6483,8 @@ todo caso podrá intervenir como parte interesada
 en el proceso penal que se instaure.” (*) Artículo
 modificado por la octava disposición final de la Ley
 Nº 27146, publicada el 24 de junio de 1999.
-Suspensión ilícita de la exigibilidad de las
-obligaciones del deudor
 Manejo ilegal de patrimonio de propósito
 exclusivo
-“Artículo 211.- El que en un procedimiento de
-insolvencia, procedimiento simplificado, concurso
 “Artículo 213-A.- El factor fiduciario o quien
 ejerza el dominio fiduciario sobre un patrimonio
 fideicometido, o el director, gerente o quien ejerza
@@ -6481,22 +6497,10 @@ será reprimido con pena privativa de libertad no
 menor de dos (2), ni mayor de cuatro (4) años e
 inhabilitación de uno a dos (2) años conforme al
 Artículo 36, incisos 2) y 4).” (*) Artículo incorporado
-directa, notarial, judicial o por cualquier otro medio con
-entrega fehaciente que se curse al girador.” (*) Artículo
-modificado por la cuarta disposición modificatoria de
-la Ley Nº 27287 - Ley de Títulos Valores, publicada el
-19 de junio de 2000.
-TÍTULO VII
-DELITOS CONTRA LOS DERECHOS
-INTELECTUALES
 por la décimo segunda disposición final del Decreto
 Legislativo Nº 861, publicado el 22 de octubre de 1996.
-CAPÍTULO I
 CAPÍTULO II
-DELITOS CONTRA LOS DERECHOS
-DE AUTOR Y CONEXOS
 USURA
-Copia o reproducción no autorizada
 Usura
 Artículo 214.- El que, con el fin de obtener
 una ventaja patrimonial, para sí o para otro, en
@@ -6540,6 +6544,18 @@ Con excepción de los incisos 4) y 5), no procederá
 la acción penal si el agente abona el monto total del
 Cheque dentro del tercer día hábil de la fecha de
 requerimiento escrito y fehaciente, sea en forma
+directa, notarial, judicial o por cualquier otro medio con
+entrega fehaciente que se curse al girador.” (*) Artículo
+modificado por la cuarta disposición modificatoria de
+la Ley Nº 27287 - Ley de Títulos Valores, publicada el
+19 de junio de 2000.
+TÍTULO VII
+DELITOS CONTRA LOS DERECHOS
+INTELECTUALES
+CAPÍTULO I
+DELITOS CONTRA LOS DERECHOS
+DE AUTOR Y CONEXOS
+Copia o reproducción no autorizada
 “Artículo 216.- Será reprimido con pena privativa
 de la libertad no menor de dos ni mayor de cuatro
 años y de diez a sesenta días-multa, a quien estando
@@ -6641,6 +6657,11 @@ como si fueran propios, o como de persona distinta
 del verdadero titular de los derechos.” (*) Artículo
 modificado por el artículo 1 de la Ley N° 28289,
 publicada el 20 de julio de 2004.
+“Plagio
+Artículo 219.- Será reprimido con pena privativa
+de libertad no menor de tres ni mayor de seis años
+y noventa a ciento ochenta días multa, el que,
+con respecto a una obra de autoría humana, la
 difunda como propia, en todo o en parte, copiándola
 o reproduciéndola textualmente, o tratando de
 disimular la copia mediante ciertas alteraciones,
@@ -6650,7 +6671,8 @@ titularidad ajena.” (*) Artículo modificado por el artículo
 Formas agravadas
 “Artículo 220.- Será reprimido con pena privativa
 de libertad no menor de cuatro ni mayor de ocho
-años y noventa a trescientos sesenticinco díasmulta:
+años y noventa a trescientos sesenticinco días-
+multa:
 a. Quien se atribuya falsamente la calidad de
 titular originario o derivado, de cualquiera de los
 derechos protegidos en la legislación del derecho
@@ -6694,13 +6716,9 @@ artistas, intérpretes o ejecutantes, así como los
 autores de cualquier obra protegida por derechos
 de propiedad intelectual, será reprimido con pena
 privativa de libertad no menor de dos ni mayor
-de cuatro años y de sesenta a ciento veinte díasmulta.” (*) Artículo modificado por el artículo 1 de la
+de cuatro años y de sesenta a ciento veinte días-
+multa.” (*) Artículo modificado por el artículo 1 de la
 Ley N° 32314, publicada el 29 de abril de 2025.
-“Plagio
-Artículo 219.- Será reprimido con pena privativa
-de libertad no menor de tres ni mayor de seis años
-y noventa a ciento ochenta días multa, el que,
-con respecto a una obra de autoría humana, la
 “Productos destinados a la elusión de
 medidas tecnológicas
 Artículo 220-B.- El que, con fines de
@@ -6728,7 +6746,8 @@ artistas intérpretes o ejecutantes, así como los
 autores de cualquier obra protegida por derechos
 de propiedad intelectual, será reprimido con pena
 privativa de libertad no menor de dos ni mayor
-de cuatro y de sesenta a ciento veinte días multa.” (*) Artículo modificado por el artículo 1 de la
+de cuatro y de sesenta a ciento veinte días -
+multa.” (*) Artículo modificado por el artículo 1 de la
 Ley N° 32314, publicada el 29 de abril de 2025.
 “Delitos contra la información sobre gestión
 de derechos
@@ -6750,6 +6769,20 @@ a sabiendas que la información sobre gestión
 de derechos ha sido suprimida o alterada sin
 autorización.” (*) Artículo incorporado por el artículo
 2 de la Ley N° 29263, publicada el 2 de octubre de 2008.
+“Etiquetas, carátulas o empaques
+Artículo 220-E.- El que fabrique, comercialice,
+distribuya, almacene, transporte, transfiera o de
+otra manera disponga con fines comerciales u otro
+tipo de ventaja económica etiquetas o carátulas no
+auténticas adheridas o diseñadas para ser adheridas
+a un fonograma, copia de un programa de ordenador,
+documentación o empaque de un programa de
+ordenador o a la copia de una obra cinematográfica
+o cualquier otra obra audiovisual, será reprimido con
+pena privativa de libertad no menor de tres años ni
+mayor de seis años y de y de sesenta a ciento veinte
+días multa.” (*) Artículo incorporado por el artículo
+2 de la Ley N° 29263, publicada el 2 de octubre de
 2008, y modificado por el artículo 2 de la Ley N° 29316,
 publicada el 14 de enero de 2009.
 “Manuales, licencias u otra documentación,
@@ -6797,21 +6830,7 @@ En ningún caso procederá la devolución de
 los ejemplares ilícitos al encausado.” (*) Artículo
 modificado por el artículo 1 de la Ley N° 29263,
 publicada el 2 de octubre de 2008.
-“Etiquetas, carátulas o empaques
 CAPÍTULO II
-Artículo 220-E.- El que fabrique, comercialice,
-distribuya, almacene, transporte, transfiera o de
-otra manera disponga con fines comerciales u otro
-tipo de ventaja económica etiquetas o carátulas no
-auténticas adheridas o diseñadas para ser adheridas
-a un fonograma, copia de un programa de ordenador,
-documentación o empaque de un programa de
-ordenador o a la copia de una obra cinematográfica
-o cualquier otra obra audiovisual, será reprimido con
-pena privativa de libertad no menor de tres años ni
-mayor de seis años y de y de sesenta a ciento veinte
-días multa.” (*) Artículo incorporado por el artículo
-2 de la Ley N° 29263, publicada el 2 de octubre de
 DELITOS CONTRA LA
 PROPIEDAD INDUSTRIAL
 Fabricación o uso no autorizado de patente
@@ -6847,30 +6866,6 @@ la Ley N° 27729, publicada el 24 de mayo de 2002.
 “Penalización de la clonación o
 adulteración de equipos terminales de
 telecomunicaciones
-modificados, será reprimido con pena privativa de
-libertad no menor de dos ni mayor de cuatro años,
-e inhabilitación conforme al numeral 4 del artículo
-36 del Código Penal.” (*) Artículo incorporado por el
-artículo 3 del Decreto Legislativo N° 1578, publicado el
-18 de octubre de 2023.
-“Posesión ilegítima de dispositivos para
-adulterar, reemplazar, duplicar o modificar
-IMEI
-Artículo 222-D.- El que posea dispositivos,
-aparatos, herramientas, instrumentos o programas
-informáticos con la finalidad de ser utilizados en la
-adulteración, reemplazo, duplicación o modificación
-de IMEI lógico o físico de terminales móviles de
-comunicación, será reprimido con pena privativa
-de libertad no menor de cuatro años ni mayor de
-seis años e inhabilitación conforme al inciso 4 del
-artículo 36.
-La misma pena se aplica al que, promueva, facilite
-o financie la obtención de los aparatos, herramientas,
-instrumentos o programas informáticos para la
-finalidad señalada en el primer párrafo.” (*) Artículo
-incorporado por el Decreto Legislativo N° 1596,
-publicado el 17 de diciembre de 2023.
 Artículo 222-A.- Será reprimido con pena
 privativa de libertad no menor de cuatro ni mayor
 de seis años, con sesenta (60) a trescientos sesenta
@@ -6907,6 +6902,30 @@ o comercialización, equipos terminales móviles,
 número de línea, o de serie electrónico, o de serie
 mecánico, o de IMEI lógico o físico, alterado,
 reemplazado, duplicado o de cualquier modo
+modificados, será reprimido con pena privativa de
+libertad no menor de dos ni mayor de cuatro años,
+e inhabilitación conforme al numeral 4 del artículo
+36 del Código Penal.” (*) Artículo incorporado por el
+artículo 3 del Decreto Legislativo N° 1578, publicado el
+18 de octubre de 2023.
+“Posesión ilegítima de dispositivos para
+adulterar, reemplazar, duplicar o modificar
+IMEI
+Artículo 222-D.- El que posea dispositivos,
+aparatos, herramientas, instrumentos o programas
+informáticos con la finalidad de ser utilizados en la
+adulteración, reemplazo, duplicación o modificación
+de IMEI lógico o físico de terminales móviles de
+comunicación, será reprimido con pena privativa
+de libertad no menor de cuatro años ni mayor de
+seis años e inhabilitación conforme al inciso 4 del
+artículo 36.
+La misma pena se aplica al que, promueva, facilite
+o financie la obtención de los aparatos, herramientas,
+instrumentos o programas informáticos para la
+finalidad señalada en el primer párrafo.” (*) Artículo
+incorporado por el Decreto Legislativo N° 1596,
+publicado el 17 de diciembre de 2023.
 Uso o venta no autorizada de diseño o
 modelo industrial
 “Artículo 223.- Serán reprimidos con pena
@@ -6958,23 +6977,6 @@ En ningún caso procederá la devolución de
 los ejemplares ilícitos al encausado.” (*) Artículo
 modificado por el artículo 1 de la Ley N° 29263,
 publicada el 2 de octubre de 2008.
-Inducción a la comisión de atentados contra sitios
-arqueológicos, así como zonas paleontológicas
-declaradas como patrimonio paleontológico
-del Perú.” (*) Artículo modificado por la segunda
-disposición complementaria final de la Ley N° 31204,
-publicada el 29 de mayo de 2021.
-Inducción a la comisión de atentados contra
-yacimientos arqueológicos
-“Artículo 227.- El que promueve, organiza,
-financia o dirige grupos de personas para la comisión
-de los delitos previstos en el artículo 226 será
-reprimido con pena privativa de libertad no menor
-de tres ni mayor de ocho años y con ciento ochenta
-a trescientos sesenta y cinco días multa.” (*) Artículo
-modificado por la segunda disposición complementaria
-final de la Ley N° 31204, publicada el 29 de mayo de
-2021.
 “Condición y grado de participación del
 agente
 Artículo 225.- Será reprimido con pena privativa
@@ -7017,6 +7019,23 @@ de patrimonio cultural o de patrimonio paleontológico
 del Perú, será reprimido con pena privativa de libertad
 no menor de tres ni mayor de seis años y con ciento
 veinte a trescientos sesenta y cinco días multa.
+Inducción a la comisión de atentados contra sitios
+arqueológicos, así como zonas paleontológicas
+declaradas como patrimonio paleontológico
+del Perú.” (*) Artículo modificado por la segunda
+disposición complementaria final de la Ley N° 31204,
+publicada el 29 de mayo de 2021.
+Inducción a la comisión de atentados contra
+yacimientos arqueológicos
+“Artículo 227.- El que promueve, organiza,
+financia o dirige grupos de personas para la comisión
+de los delitos previstos en el artículo 226 será
+reprimido con pena privativa de libertad no menor
+de tres ni mayor de ocho años y con ciento ochenta
+a trescientos sesenta y cinco días multa.” (*) Artículo
+modificado por la segunda disposición complementaria
+final de la Ley N° 31204, publicada el 29 de mayo de
+2021.
 “Extracción ilegal de bienes culturales y del
 patrimonio paleontológico del Perú
 Artículo 228.- El que destruye, altera, extrae del
@@ -7093,6 +7112,26 @@ junio de 2023.
 CAPÍTULO II
 ACAPARAMIENTO, ESPECULACIÓN,
 ADULTERACIÓN
+Acaparamiento
+“Artículo 233.- El que provoca escasez o
+desabastecimiento de bienes y servicios esenciales
+para la vida y la salud de las personas, mediante
+la sustracción o acaparamiento, con la finalidad de
+alterar los precios habituales en su beneficio, y con
+perjuicio de los consumidores, será reprimido con
+pena privativa de libertad no menor de cuatro ni
+mayor de seis años y con ciento ochenta a trescientos
+sesenta y cinco días-multa.” (*) Articulo modificado
+por el artículo 1 de la Ley N° 31040, publicada el 29 de
+agosto de 2020.
+Especulación y alteración de pesos y
+medidas
+“Artículo 234.- El productor, fabricante, proveedor
+o comerciante que incrementa los precios de bienes
+y servicios habituales, que son esenciales para
+la vida o salud de la persona, utilizando prácticas
+ilícitas que no se sustente en una real estructura de
+costos y el correcto funcionamiento del mercado,
 aprovechando una situación de mayor demanda
 por causas de emergencia, conmoción o calamidad
 pública será reprimido con pena privativa de libertad
@@ -7135,26 +7174,6 @@ de seis años y con ciento ochenta a trescientos
 sesenta y cinco días multa.” (*) Artículo modificado
 por el artículo 2 de la Ley N° 31040, publicada el 29 de
 agosto de 2020.
-Acaparamiento
-“Artículo 233.- El que provoca escasez o
-desabastecimiento de bienes y servicios esenciales
-para la vida y la salud de las personas, mediante
-la sustracción o acaparamiento, con la finalidad de
-alterar los precios habituales en su beneficio, y con
-perjuicio de los consumidores, será reprimido con
-pena privativa de libertad no menor de cuatro ni
-mayor de seis años y con ciento ochenta a trescientos
-sesenta y cinco días-multa.” (*) Articulo modificado
-por el artículo 1 de la Ley N° 31040, publicada el 29 de
-agosto de 2020.
-Especulación y alteración de pesos y
-medidas
-“Artículo 234.- El productor, fabricante, proveedor
-o comerciante que incrementa los precios de bienes
-y servicios habituales, que son esenciales para
-la vida o salud de la persona, utilizando prácticas
-ilícitas que no se sustente en una real estructura de
-costos y el correcto funcionamiento del mercado,
 Artículo 236.- (*) Artículo derogado por la única
 disposición derogatoria final de la Ley N° 31040
 publicada el 29 de agosto de 2020.
@@ -7260,7 +7279,8 @@ u omitir un acto en perjuicio de la persona jurídica,
 será reprimido con pena privativa de libertad no
 mayor de cuatro años e inhabilitación conforme
 al inciso 4 del artículo 36 del Código Penal y con
-ciento ochenta a trescientos sesenta y cinco díasmulta.
+ciento ochenta a trescientos sesenta y cinco días-
+multa.
 Será reprimido con las mismas penas previstas
 en el párrafo anterior quien, directa o indirectamente,
 promete, ofrece o concede a accionistas, gerentes,
@@ -7311,7 +7331,8 @@ Reserva del Perú.
 Funcionamiento ilegal de casinos de juego
 “Artículo 243-A.- Será reprimido con pena
 privativa de la libertad no menor de uno ni mayor
-de seis años y con trescientos sesenticinco díasmulta, el que organiza o conduce Casinos de
+de seis años y con trescientos sesenticinco días-
+multa, el que organiza o conduce Casinos de
 Juego sujetos a autorización sin haber cumplido los
 requisitos que exijan las leyes o reglamentos para
 su funcionamiento; sin perjuicio del decomiso de los
@@ -7422,7 +7443,8 @@ Artículo 245-A.- El que ejerce funciones de
 administración, de un emisor con valores inscritos
 en el Registro Público del Mercado de Valores, que
 deliberadamente proporcione o consigne información
-o documentación falsas de carácter económicofinanciera, contable o societaria referida al emisor,
+o documentación falsas de carácter económico-
+financiera, contable o societaria referida al emisor,
 a los valores que emita, a la oferta que se haga
 de estos, y que el emisor se encuentre obligado
 a presentar o revelar conforme a la normatividad
@@ -7573,6 +7595,19 @@ privativa de libertad no menor de uno ni mayor
 de tres años y con ciento ochenta a trescientos
 sesenticinco días-multa.
 Desvío fraudulento de crédito promocional
+Artículo 251.- El que aplica o desvía
+fraudulentamente un crédito promocional hacia una
+finalidad distinta a la que motivó su otorgamiento,
+será reprimido con pena privativa de libertad no
+mayor de dos años.
+Uso indebido de información privilegiada -
+Formas agravadas
+“Artículo 251-A.- El que obtiene un beneficio o
+se evita un perjuicio de carácter económico en forma
+directa o a través de terceros, mediante el uso de
+información privilegiada, será reprimido con pena
+privativa de la libertad no menor de uno (1) ni mayor
+de cinco (5) años.
 Si el delito a que se refiere el párrafo anterior es
 cometido por un director, funcionario o empleado
 de una Bolsa de Valores, de un agente de
@@ -7621,30 +7656,18 @@ Previamente a que el Ministerio Público formalice la
 denuncia respectiva, se deberá contar con un informe
 técnico emitido por la Comisión Nacional Supervisora
 de Empresas y Valores (Conasev).” (*) Artículo
-Artículo 251.- El que aplica o desvía
-fraudulentamente un crédito promocional hacia una
-finalidad distinta a la que motivó su otorgamiento,
-será reprimido con pena privativa de libertad no
-mayor de dos años.
 incorporado por el artículo 4 de la Ley Nº 29660,
 publicado el 4 de febrero de 2011.
-Uso indebido de información privilegiada Formas agravadas
+CAPÍTULO II
+DELITOS MONETARIOS
 Fabricación y falsificación de moneda de
 curso legal
-“Artículo 251-A.- El que obtiene un beneficio o
-se evita un perjuicio de carácter económico en forma
-directa o a través de terceros, mediante el uso de
-información privilegiada, será reprimido con pena
-privativa de la libertad no menor de uno (1) ni mayor
-de cinco (5) años.
 “Artículo 252.- El que falsifica billetes o monedas
 será reprimido con pena privativa de libertad no
 menor de cinco ni mayor de doce años y con ciento
 veinte a trescientos días-multa.
 El que falsifica billetes o monedas separando el
 anverso y el reverso de los auténticos, superponiendo
-CAPÍTULO II
-DELITOS MONETARIOS
 sus fragmentos, recurriendo al empleo de disolventes
 químicos, usando los fabricados por otros países,
 recurriendo a aleaciones distintas o valiéndose de
@@ -7702,7 +7725,8 @@ multa.” (*) Artículo modificado por el artículo 1 de la
 Ley Nº 27593, publicada el 13 de diciembre de 2001.
 Alteración de billetes o monedas
 “Artículo 256.- Será reprimido con pena de multa
-no menor de treinta ni mayor de ciento veinte díasmulta:
+no menor de treinta ni mayor de ciento veinte días-
+multa:
 1.- El que escribe sobre billetes, imprime sellos en
 ellos o de cualquier manera daña intencionalmente
 billetes o monedas.
@@ -7807,6 +7831,11 @@ Artículo 270.- (*) Artículo derogado por el artículo
 segundo del Decreto Ley Nº 25495, publicado el 14 de
 mayo de 1992.
 CAPÍTULO III
+ELABORACIÓN Y COMERCIO
+CLANDESTINO DE PRODUCTOS
+Elaboración clandestina de productos
+Artículo 271.- Será reprimido con pena privativa
+de libertad no menor de uno ni mayor de cuatro años,
 sin perjuicio del decomiso cuando ello proceda, el
 que:
 1. Elabora mercaderías gravadas cuya
@@ -7862,11 +7891,6 @@ a) Por el Consumidor Directo de acuerdo con lo
 dispuesto en las normas tributarias;
 b) Utilizando documento falso o falsificado; o
 “c) Por una organización criminal;” (*) Literal
-ELABORACIÓN Y COMERCIO
-CLANDESTINO DE PRODUCTOS
-Elaboración clandestina de productos
-Artículo 271.- Será reprimido con pena privativa
-de libertad no menor de uno ni mayor de cuatro años,
 modificado por la primera disposición complementaria
 modificatoria de la Ley Nº 30077, publicada el 20 de
 agosto de 2013.
@@ -7963,12 +7987,14 @@ la Ley N° 29439, publicada el 19 de noviembre de 2009.
 drogadicción
 Artículo 274-A.- El que encontrándose en
 estado de ebriedad, con presencia de alcohol en
-la sangre en proporción mayor de 0.5 gramoslitro, o bajo el efecto de estupefacientes, drogas
+la sangre en proporción mayor de 0.5 gramos-
+litro, o bajo el efecto de estupefacientes, drogas
 tóxicas, sustancias psicotrópicas o sintéticas, opera
 o maniobra instrumento, herramienta, máquina u
 otro análogo que represente riesgo o peligro, será
 reprimido con pena privativa de la libertad no menor
-de seis meses ni mayor de un año o treinta díasmulta como mínimo a cincuenta días-multa como
+de seis meses ni mayor de un año o treinta días-
+multa como mínimo a cincuenta días-multa como
 máximo e inhabilitación, conforme al artículo 36,
 inciso 4).” (*) Artículo incorporado por el artículo 2 de
 la Ley N° 29439, publicada el 19 de noviembre de 2009.
@@ -8380,6 +8406,22 @@ privativa de libertad no menor de cuatro ni mayor
 de ocho años.” (*) Artículo incorporado por la única
 disposición complementaria modificatoria de la Ley
 Nº 29632, publicada el 17 de diciembre de 2010.
+Propagación de enfermedad
+peligrosa o contagiosa
+Artículo 289.- El que, a sabiendas, propaga una
+enfermedad peligrosa o contagiosa para la salud de
+las personas, será reprimido con pena privativa de
+libertad no menor de tres ni mayor de diez años.
+Si resultan lesiones graves o muerte y el agente
+pudo prever estos resultados, la pena será no menor
+de diez ni mayor de veinte años.
+“Ejercicio ilegal de la medicina
+Artículo 290.- Será reprimido con pena privativa
+de libertad no menor de un año ni mayor de cuatro
+años, el que simulando calidad de médico u otra
+profesión de las ciencias médicas, que sin tener
+título profesional, realiza cualquiera de las acciones
+siguientes:
 1. Anuncia, emite diagnósticos, prescribe,
 administra o aplica cualquier medio supuestamente
 destinado al cuidado de la salud, aunque obre de
@@ -8422,22 +8464,6 @@ sesenticinco días-multa.
 “Suministro infiel de productos
 farmacéuticos, dispositivos médicos o
 productos sanitarios
-Propagación de enfermedad
-peligrosa o contagiosa
-Artículo 289.- El que, a sabiendas, propaga una
-enfermedad peligrosa o contagiosa para la salud de
-las personas, será reprimido con pena privativa de
-libertad no menor de tres ni mayor de diez años.
-Si resultan lesiones graves o muerte y el agente
-pudo prever estos resultados, la pena será no menor
-de diez ni mayor de veinte años.
-“Ejercicio ilegal de la medicina
-Artículo 290.- Será reprimido con pena privativa
-de libertad no menor de un año ni mayor de cuatro
-años, el que simulando calidad de médico u otra
-profesión de las ciencias médicas, que sin tener
-título profesional, realiza cualquiera de las acciones
-siguientes:
 Artículo 294.- El que teniendo o no autorización
 para la venta de productos farmacéuticos,
 dispositivos médicos o productos sanitarios, a
@@ -8588,7 +8614,7 @@ la comercialización o producción farmacológica o
 artesanal de los derivados del cannabis con fines
 medicinales y terapéuticos. De incumplirse con la
 finalidad de la licencia señalada, se deja sin efecto
-la presente exclusión. Será reprimido con la pena
+la presente exclusión. Será reprimido con la pena
 máxima más el cincuenta por ciento de la misma
 al funcionario público que otorga irregularmente
 la licencia o autorización referida. (*) La única
@@ -8651,7 +8677,8 @@ setiembre de 2015.
 Formas agravadas
 Artículo 297.- La pena será privativa de libertad
 no menor de quince ni mayor de veinticinco años, de
-ciento ochenta a trescientos sesenta y cinco díasmulta e inhabilitación conforme al artículo 36, incisos
+ciento ochenta a trescientos sesenta y cinco días-
+multa e inhabilitación conforme al artículo 36, incisos
 1), 2), 4), 5) y 8) cuando:
 1. El agente comete el hecho abusando del
 ejercicio de la función pública.
@@ -8829,19 +8856,6 @@ involucrados supere las quinientas unidades
 impositivas tributarias.” (*) Artículo incorporado por
 el artículo 3 de la Ley N° 31178, publicada el 28 de
 abril 2021.
-La pena será privativa de libertad no menor de
-25 años, cuando:
-1. Se produzca la muerte de la víctima, lesión
-grave que ponga en peligro la vida o la seguridad
-de los migrantes afectados;
-2. Las condiciones de transporte ponen en grave
-peligro su integridad física o psíquica.
-3. La víctima es menor de catorce años o
-padece, temporal o permanentemente, de alguna
-discapacidad física o mental.
-4. El agente es parte de una organización
-criminal.” (*) Artículo incorporado por el artículo 2
-de la Ley N° 28950, publicada el 16 de enero de 2007.
 “Pena de expulsión
 Artículo 303.- El extranjero que haya cumplido
 la pena privativa de libertad impuesta o se le haya
@@ -8864,6 +8878,42 @@ fin de obtener directa o indirectamente, cualquier
 beneficio para sí o para tercero; será reprimido con
 pena privativa de la libertad no menor de 4 ni mayor
 de 6 años.” (*) Artículo modificado por el artículo
+2 del Decreto Legislativo N° 1573, publicado el 5 de
+octubre de 2023.
+“Formas agravadas del tráfico ilícito de
+migrantes
+Artículo 303-B.- La pena será no menor de cinco
+ni mayor de ocho años de pena privativa de libertad
+e inhabilitación conforme al artículo 36 incisos 1, 2,
+3, 4 y 5 del Código Penal, cuando:
+1. El agente comete el hecho abusando del
+ejercicio de la función pública.
+2. El agente es promotor, integrante o
+representante de una organización social, tutelar
+o empresarial, que aprovecha de esta condición y
+actividades para perpetrar este delito.
+3. Exista pluralidad de víctimas.
+4. La víctima tiene entre catorce y menos de
+dieciocho años de edad, o es incapaz.
+5. El hecho es cometido por dos o más personas.
+6. El agente es cónyuge, conviviente, adoptante,
+tutor, curador, pariente hasta el cuarto grado de
+consanguinidad o segundo de afinidad, o tiene a la
+víctima a su cuidado por cualquier motivo o habitan
+en el mismo hogar.
+La pena será privativa de libertad no menor de
+25 años, cuando:
+1. Se produzca la muerte de la víctima, lesión
+grave que ponga en peligro la vida o la seguridad
+de los migrantes afectados;
+2. Las condiciones de transporte ponen en grave
+peligro su integridad física o psíquica.
+3. La víctima es menor de catorce años o
+padece, temporal o permanentemente, de alguna
+discapacidad física o mental.
+4. El agente es parte de una organización
+criminal.” (*) Artículo incorporado por el artículo 2
+de la Ley N° 28950, publicada el 16 de enero de 2007.
 “Reingreso Clandestino o Ilegal
 Artículo 303-C.- El que, contando con sentencia
 condenatoria consentida o ejecutoriada o sanción
@@ -8889,30 +8939,7 @@ octubre de 2023.
 (*) Título XIII modificado por el artículo 3
 de la Ley N° 29263, publicada el
 2 de octubre de 2008.
-2 del Decreto Legislativo N° 1573, publicado el 5 de
-octubre de 2023.
 DELITOS AMBIENTALES
-“Formas agravadas del tráfico ilícito de
-migrantes
-Artículo 303-B.- La pena será no menor de cinco
-ni mayor de ocho años de pena privativa de libertad
-e inhabilitación conforme al artículo 36 incisos 1, 2,
-3, 4 y 5 del Código Penal, cuando:
-1. El agente comete el hecho abusando del
-ejercicio de la función pública.
-2. El agente es promotor, integrante o
-representante de una organización social, tutelar
-o empresarial, que aprovecha de esta condición y
-actividades para perpetrar este delito.
-3. Exista pluralidad de víctimas.
-4. La víctima tiene entre catorce y menos de
-dieciocho años de edad, o es incapaz.
-5. El hecho es cometido por dos o más personas.
-6. El agente es cónyuge, conviviente, adoptante,
-tutor, curador, pariente hasta el cuarto grado de
-consanguinidad o segundo de afinidad, o tiene a la
-víctima a su cuidado por cualquier motivo o habitan
-en el mismo hogar.
 CAPÍTULO I
 DELITOS DE CONTAMINACIÓN
 “Contaminación del ambiente
@@ -8958,7 +8985,8 @@ aprobado.
 Si por efecto de la actividad contaminante se
 producen lesiones graves o muerte, la pena será:
 1. Privativa de libertad no menor de cinco años
-ni mayor de ocho años y con seiscientos a mil díasmulta, en caso de lesiones graves.
+ni mayor de ocho años y con seiscientos a mil días-
+multa, en caso de lesiones graves.
 2. Privativa de libertad no menor de seis años
 ni mayor de diez años y con setecientos cincuenta
 a tres mil quinientos días-multa, en caso de
@@ -8981,8 +9009,13 @@ reglamentos o disposiciones establecidas, utiliza
 desechos sólidos para la alimentación de animales
 destinados al consumo humano, la pena será no
 menor de tres años ni mayor de seis años y con
-doscientos sesenta a cuatrocientos cincuenta díasmulta.” (*) Artículo modificado por el artículo 3 de la
+doscientos sesenta a cuatrocientos cincuenta días-
+multa.” (*) Artículo modificado por el artículo 3 de la
 Ley N° 29263, publicada el 2 de octubre de 2008.
+“Tráfico ilegal de residuos peligrosos
+Artículo 307.- El que ingrese ilegalmente al
+territorio nacional, use, emplee, coloque, traslade
+o disponga sin la debida autorización, residuos o
 desechos tóxicos o peligrosos para el ambiente,
 resultantes de un proceso de producción, extracción,
 transformación, utilización o consumo, será reprimido
@@ -9041,16 +9074,13 @@ del delito a menores de edad u otra persona
 inimputable.” (*) Artículo incorporado por el artículo
 primero del Decreto Legislativo Nº 1102, publicado el
 29 de febrero de 2012.
-“Tráfico ilegal de residuos peligrosos
-Artículo 307.- El que ingrese ilegalmente al
-territorio nacional, use, emplee, coloque, traslade
-o disponga sin la debida autorización, residuos o
 “Delito de financiamiento de la minería ilegal
 Artículo 307-C.- El que financia la comisión
 de los delitos previstos en los artículos 307-A o
 sus formas agravadas, será reprimido con pena
 privativa de libertad no menor de cuatro años ni
-mayor de doce años y con cien a seiscientos díasmulta.” (*) Artículo incorporado por el artículo primero
+mayor de doce años y con cien a seiscientos días-
+multa.” (*) Artículo incorporado por el artículo primero
 del Decreto Legislativo Nº 1102, publicado el 29 de
 febrero de 2012.
 “Delito de obstaculización de la fiscalización
@@ -9079,14 +9109,16 @@ transporta, importa, posee o almacena maquinarias,
 a sabiendas de que serán destinadas a la comisión
 de los delitos de minería ilegal, será reprimido con
 pena privativa de libertad no menor de tres años ni
-mayor de seis años y con cien a seiscientos díasmulta.” (*) Artículo incorporado por el artículo primero
+mayor de seis años y con cien a seiscientos días-
+multa.” (*) Artículo incorporado por el artículo primero
 del Decreto Legislativo Nº 1102, publicado el 29 de
 febrero de 2012, y modificado por la única disposición
 complementaria modificatoria del Decreto Legislativo
 Nº 1107, publicado el 20 de abril de 2012.
 “Inhabilitación
 Artículo 307-F.- El agente de los delitos previstos
-en los artículos 307-A, 307-B, 307-C, 307-D y 307E, será además sancionado, de conformidad con el
+en los artículos 307-A, 307-B, 307-C, 307-D y 307-
+E, será además sancionado, de conformidad con el
 artículo 36, inciso 4, con la pena de inhabilitación
 para obtener, a nombre propio o a través de terceros,
 concesiones mineras, de labor general, de beneficio
@@ -9107,7 +9139,8 @@ maderable y/o fauna silvestre, sin un permiso o
 certificado válido, cuyo origen no autorizado conoce
 o puede presumir, será reprimido con pena privativa
 de libertad no menor de tres años ni mayor de cinco
-años y con ciento ochenta a cuatrocientos díasmulta.” (*) Artículo modificado por el artículo único
+años y con ciento ochenta a cuatrocientos días-
+multa.” (*) Artículo modificado por el artículo único
 del Decreto Legislativo N° 1237, publicado el 26 de
 setiembre de 2015.
 “Tráfico ilegal de especies acuáticas de la
@@ -9171,7 +9204,8 @@ de forma no autorizada, recursos genéticos de
 especies de flora y/o fauna silvestre, incluyendo
 las acuáticas, será reprimido con pena privativa de
 libertad no menor de tres años ni mayor de cinco
-años y con ciento ochenta a cuatrocientos díasmulta. La misma pena será aplicable para el que a
+años y con ciento ochenta a cuatrocientos días-
+multa. La misma pena será aplicable para el que a
 sabiendas financia, de modo que sin su cooperación
 no se hubiera podido cometer las actividades
 señaladas en el primer párrafo.” (*) Artículo
@@ -9186,7 +9220,8 @@ de bodega, durante periodos de prohibición o sin
 contar con la autorización respectiva de la autoridad
 competente, será reprimido con pena privativa de
 libertad no menor de tres años ni mayor de cinco
-años y con ciento ochenta a cuatrocientos díasmulta.
+años y con ciento ochenta a cuatrocientos días-
+multa.
 La misma pena será aplicable para el que,
 infringiendo las leyes o los reglamentos, adquiere,
 custodia, o transporta una embarcación pesquera,
@@ -9679,6 +9714,25 @@ armas, vehículos, teléfonos u otros instrumentos
 idóneos.
 La pena privativa de libertad será no menor de
 seis ni mayor de diez años cuando el agente:
+1. Es funcionario o servidor público y aprovecha
+su cargo para la comisión del delito.
+2. Mantiene o mantuvo vínculo laboral con la
+víctima u otro vínculo que la impulse a esta última a
+depositar su confianza en el agente.
+3. Utilice a un menor de edad.
+4. Labora, pertenece o está vinculado a una
+empresa del sistema financiero y, por razón de su
+cargo u oficio, tiene conocimiento de los ingresos
+económicos, operaciones bancarias u otros datos
+sobre el patrimonio de la víctima.
+5. Actúa en condición de integrante de una
+organización criminal.” (*) Artículo incorporado por
+el artículo único de la Ley Nº 29859, publicada el 3 de
+mayo de 2012, y modificado por el artículo 1 de la Ley
+Nº 30076, publicada el 19 de agosto de 2013.
+“Banda Criminal
+Artículo 317-B.- El que constituya o integre una
+unión de dos a más personas; que sin reunir alguna
 o algunas de las características de la organización
 criminal dispuestas en el artículo 317, tenga
 por finalidad o por objeto la comisión de delitos
@@ -9717,25 +9771,6 @@ el artículo único de la Ley Nº 32446, publicado el 22 de
 setiembre de 2025.
 CAPÍTULO II
 TERRORISMO
-1. Es funcionario o servidor público y aprovecha
-su cargo para la comisión del delito.
-2. Mantiene o mantuvo vínculo laboral con la
-víctima u otro vínculo que la impulse a esta última a
-depositar su confianza en el agente.
-3. Utilice a un menor de edad.
-4. Labora, pertenece o está vinculado a una
-empresa del sistema financiero y, por razón de su
-cargo u oficio, tiene conocimiento de los ingresos
-económicos, operaciones bancarias u otros datos
-sobre el patrimonio de la víctima.
-5. Actúa en condición de integrante de una
-organización criminal.” (*) Artículo incorporado por
-el artículo único de la Ley Nº 29859, publicada el 3 de
-mayo de 2012, y modificado por el artículo 1 de la Ley
-Nº 30076, publicada el 19 de agosto de 2013.
-“Banda Criminal
-Artículo 317-B.- El que constituya o integre una
-unión de dos a más personas; que sin reunir alguna
 (*) Capítulo II derogado por el artículo 22 del
 Decreto Ley Nº 25475, publicado el
 6 de mayo de 1992.
@@ -9762,20 +9797,7 @@ física de manera total o parcial.
 en el seno del grupo.
 5. Transferencia forzada de niños a otro grupo.
 CAPÍTULO II
-Si se produce la muerte de la víctima y el agente
-pudo prever ese resultado, la pena privativa de
-libertad es no menor de veinte ni mayor de veinticinco
-años.” (*) Artículo modificado por el artículo 2 del
-Decreto Legislativo N° 1351, publicado el 7 de enero
-de 2017.
-Cooperación de profesional
-Artículo 322.- El médico o cualquier profesional
-sanitario que cooperara en la perpetración del delito
-señalado en el artículo anterior, será reprimido con
-la misma pena de los autores.
-“CAPÍTULO IV
 DESAPARICIÓN FORZADA
-DISCRIMINACIÓN”
 “Desaparición forzada de personas
 Artículo 320.- El funcionario o servidor público,
 o cualquier persona con el consentimiento o
@@ -9818,6 +9840,19 @@ d. Se encuentra en estado de gestación.
 e. Se encuentra detenida o recluida, y el agente
 abusa de su condición de autoridad para cometer
 el delito.
+Si se produce la muerte de la víctima y el agente
+pudo prever ese resultado, la pena privativa de
+libertad es no menor de veinte ni mayor de veinticinco
+años.” (*) Artículo modificado por el artículo 2 del
+Decreto Legislativo N° 1351, publicado el 7 de enero
+de 2017.
+Cooperación de profesional
+Artículo 322.- El médico o cualquier profesional
+sanitario que cooperara en la perpetración del delito
+señalado en el artículo anterior, será reprimido con
+la misma pena de los autores.
+“CAPÍTULO IV
+DISCRIMINACIÓN”
 (*) Capítulo incorporado por el artículo 1
 de la Ley Nº 27270, publicada
 el 29 de mayo de 2000.
@@ -9862,11 +9897,8 @@ Artículo 36, incisos 4 y 8.” (*) Artículo modificado
 por el artículo 1 de la Ley Nº 27636, publicada el 16 de
 enero de 2002.
 TÍTULO XV
-Cuando el agente actúa por culpa, la pena será
-no mayor de cuatro años.
 DELITOS CONTRA EL ESTADO
 Y LA DEFENSA NACIONAL
-Espionaje
 CAPÍTULO I
 ATENTADOS CONTRA LA SEGURIDAD
 NACIONAL Y TRAICIÓN A LA PATRIA
@@ -9916,6 +9948,9 @@ guardarlos, será reprimido con pena privativa de
 libertad no menor de cinco ni mayor de quince años.
 Si el agente obra por lucro o por cualquier otro
 móvil innoble, la pena será no menor de diez años.
+Cuando el agente actúa por culpa, la pena será
+no mayor de cuatro años.
+Espionaje
 Artículo 331.- El que espía para comunicar o
 comunica o hace accesibles a un Estado extranjero
 o al público, hechos, disposiciones u objetos
@@ -10020,6 +10055,13 @@ convenciones de paz vigentes entre el Perú y
 otros Estados o las treguas o los armisticios, será
 reprimido con pena privativa de libertad no menor
 de uno ni mayor de cuatro años.
+Espionaje militar en perjuicio de Estado
+extranjero
+Artículo 341.- El que, en territorio peruano, recoge
+informaciones militares para un Estado extranjero,
+en perjuicio de otro Estado, será reprimido con pena
+privativa de libertad no menor de dos ni mayor de
+cuatro años.
 Ejecución de actos de autoridad extranjera
 en el territorio nacional
 Artículo 342.- El que, prescindiendo de la
@@ -10072,14 +10114,7 @@ N° 32251, publicada el 19 de enero de 2025.
 TÍTULO XVI
 DELITOS CONTRA LOS PODERES DEL
 ESTADO Y EL ORDEN CONSTITUCIONAL
-Espionaje militar en perjuicio de Estado
-extranjero
 CAPÍTULO I
-Artículo 341.- El que, en territorio peruano, recoge
-informaciones militares para un Estado extranjero,
-en perjuicio de otro Estado, será reprimido con pena
-privativa de libertad no menor de dos ni mayor de
-cuatro años.
 REBELIÓN, SEDICIÓN Y MOTÍN
 “Rebelión
 Artículo 346.- El que se alza en armas para
@@ -10098,20 +10133,6 @@ o resoluciones o impedir las elecciones generales,
 parlamentarias, regionales o locales, será reprimido
 con pena privativa de libertad no menor de cinco ni
 mayor de diez años.
-Omisión de resistencia a
-rebelión, sedición o motín
-Artículo 352.- El funcionario o servidor público
-que, pudiendo hacerlo, no oponga resistencia a una
-rebelión, sedición o motín, será reprimido con pena
-privativa de libertad no mayor de cuatro años.
-Inhabilitación
-Artículo 353.- Los funcionarios, servidores
-públicos o miembros de las Fuerzas Armadas o de
-la Policía Nacional, que sean culpables de los delitos
-previstos en este Título, serán reprimidos, además,
-con inhabilitación de uno a cuatro años conforme al
-artículo 36, incisos 1, 2 y 8.
-TÍTULO XVII
 Motín
 Artículo 348.- El que, en forma tumultuaria,
 empleando violencia contra las personas o fuerza
@@ -10139,6 +10160,33 @@ motín, será reprimido con pena privativa de libertad
 no mayor a los dos tercios del máximo de la señalada
 para el delito que se trataba de perpetrar.
 CAPÍTULO II
+DISPOSICIONES COMUNES
+Exención de la pena y
+responsabilidad de promotores
+Artículo 351.- Los rebeldes, sediciosos
+o amotinados que se someten a la autoridad
+legítima o se disuelven antes de que ésta les haga
+intimaciones, o lo hacen a consecuencia de ellas,
+sin haber causado otro mal que la perturbación
+momentánea del orden, están exentos de pena. Se
+exceptúan a los promotores o directores, quienes
+serán reprimidos con pena privativa de libertad no
+mayor de la mitad del máximo de la señalada para
+el delito que se trataba de perpetrar.
+Omisión de resistencia a
+rebelión, sedición o motín
+Artículo 352.- El funcionario o servidor público
+que, pudiendo hacerlo, no oponga resistencia a una
+rebelión, sedición o motín, será reprimido con pena
+privativa de libertad no mayor de cuatro años.
+Inhabilitación
+Artículo 353.- Los funcionarios, servidores
+públicos o miembros de las Fuerzas Armadas o de
+la Policía Nacional, que sean culpables de los delitos
+previstos en este Título, serán reprimidos, además,
+con inhabilitación de uno a cuatro años conforme al
+artículo 36, incisos 1, 2 y 8.
+TÍTULO XVII
 DELITOS CONTRA LA VOLUNTAD POPULAR
 “CAPÍTULO I”
 (*) Denominación modificada por el artículo 1
@@ -10165,19 +10213,6 @@ determinado, será reprimido con pena privativa de
 libertad no menor de uno ni mayor de cuatro años.
 Inducción a no votar o hacerlo en sentido
 determinado
-DISPOSICIONES COMUNES
-Exención de la pena y
-responsabilidad de promotores
-Artículo 351.- Los rebeldes, sediciosos
-o amotinados que se someten a la autoridad
-legítima o se disuelven antes de que ésta les haga
-intimaciones, o lo hacen a consecuencia de ellas,
-sin haber causado otro mal que la perturbación
-momentánea del orden, están exentos de pena. Se
-exceptúan a los promotores o directores, quienes
-serán reprimidos con pena privativa de libertad no
-mayor de la mitad del máximo de la señalada para
-el delito que se trataba de perpetrar.
 Artículo 356.- El que, mediante dádivas, ventajas
 o promesas trata de inducir a un elector a no votar
 o a votar en un sentido determinado, será reprimido
@@ -10234,6 +10269,19 @@ residencia habitual, induciendo a error en la formación
 del Registro Electoral.” (*) Numeral incorporado por
 el artículo único de la Ley Nº 29287, publicada el 6 de
 diciembre de 2008.
+“CAPÍTULO II
+DELITOS CONTRA LA
+PARTICIPACIÓN DEMOCRÁTICA”
+(*) Capítulo II incorporado por el artículo
+2 de la Ley N° 30997, publicada el 27 de
+agosto de 2019.
+“Financiamiento prohibido de
+organizaciones políticas
+Artículo 359-A.- El que, de manera directa o
+indirecta, solicita, acepta, entrega o recibe aportes,
+donaciones, contribuciones o cualquier otro tipo de
+beneficio proveniente de fuente de financiamiento
+legalmente prohibida, conociendo o debiendo
 conocer su origen, en beneficio de una organización
 política o alianza electoral, registrada o en proceso de
 registro, será reprimido con pena privativa de libertad
@@ -10279,23 +10327,10 @@ e inhabilitación conforme al artículo 36, incisos 1,
 2, 3 y 4, del Código Penal.” (*) Artículo incorporado
 por el artículo 2 de la Ley N° 30997, publicada el 27 de
 agosto de 2019.
-“CAPÍTULO II
 “Fuentes de financiamiento legalmente
 prohibidas
-DELITOS CONTRA LA
-PARTICIPACIÓN DEMOCRÁTICA”
 Artículo 359-C.- Son fuentes de financiamiento
 legalmente prohibidas aquellas que provengan de:
-(*) Capítulo II incorporado por el artículo
-2 de la Ley N° 30997, publicada el 27 de
-agosto de 2019.
-“Financiamiento prohibido de
-organizaciones políticas
-Artículo 359-A.- El que, de manera directa o
-indirecta, solicita, acepta, entrega o recibe aportes,
-donaciones, contribuciones o cualquier otro tipo de
-beneficio proveniente de fuente de financiamiento
-legalmente prohibida, conociendo o debiendo
 1. Cualquier entidad de derecho público o
 empresa de propiedad del Estado o con participación
 de este, distintas del financiamiento público directo
@@ -10329,6 +10364,38 @@ Nacional que incurra en uno de los delitos previstos
 en este Título sufrirá, además, inhabilitación de uno
 a tres años conforme al artículo 36, incisos 1 y 2.
 TÍTULO XVIII
+DELITOS CONTRA LA
+ADMINISTRACIÓN PÚBLICA
+CAPÍTULO I
+DELITOS COMETIDOS
+POR PARTICULARES
+SECCIÓN I
+USURPACIÓN DE AUTORIDAD,
+TÍTULOS Y HONORES
+Usurpación de función pública
+“Artículo 361.- El que, sin título o nombramiento,
+usurpa una función pública, o la facultad de dar
+órdenes militares o policiales, o el que hallándose
+destituido, cesado, suspendido o subrogado de
+su cargo continúa ejerciéndolo, o el que ejerce
+funciones correspondientes a cargo diferente del
+que tiene, será reprimido con pena privativa de
+libertad no menor de cuatro ni mayor de siete años, e
+inhabilitación de uno a dos años conforme al artículo
+36, incisos 1 y 2.
+Si para perpetrar la comisión del delito, el agente
+presta resistencia o se enfrenta a las Fuerzas del
+Orden, la pena será privativa de libertad no menor de
+cinco ni mayor de ocho años.” (*) Artículo modificado
+por el artículo 1 del Decreto Ley Nº 25444, publicado el
+23 de abril de 1992.
+Ostentación de distintivos de función o
+cargos que no ejerce
+Artículo 362.- El que, públicamente, ostenta
+insignias o distintivos de una función o cargo que
+no ejerce o se arroga grado académico, título
+profesional u honores que no le corresponden, será
+reprimido con pena privativa de libertad no mayor de
 un año o con prestación de servicio comunitario de
 diez a veinte jornadas.
 “Artículo 363.- Ejercicio ilegal de profesión
@@ -10352,14 +10419,9 @@ será reprimido con pena privativa de libertad no
 mayor de cuatro años e inhabilitación de uno a tres
 años conforme al artículo 36, incisos 1 y 2.
 SECCIÓN II
-DELITOS CONTRA LA
-ADMINISTRACIÓN PÚBLICA
 VIOLENCIA Y RESISTENCIA A LA AUTORIDAD
-CAPÍTULO I
 Violencia contra la autoridad
 para obligarle a algo
-DELITOS COMETIDOS
-POR PARTICULARES
 Artículo 365.- El que, sin alzamiento público,
 mediante violencia o amenaza, impide a una
 autoridad o a un funcionario o servidor público ejercer
@@ -10367,26 +10429,6 @@ sus funciones o le obliga a practicar un determinado
 acto de sus funciones o le estorba en el ejercicio de
 éstas, será reprimido con pena privativa de libertad
 no mayor de dos años.
-SECCIÓN I
-USURPACIÓN DE AUTORIDAD,
-TÍTULOS Y HONORES
-Usurpación de función pública
-“Artículo 361.- El que, sin título o nombramiento,
-usurpa una función pública, o la facultad de dar
-órdenes militares o policiales, o el que hallándose
-destituido, cesado, suspendido o subrogado de
-su cargo continúa ejerciéndolo, o el que ejerce
-funciones correspondientes a cargo diferente del
-que tiene, será reprimido con pena privativa de
-libertad no menor de cuatro ni mayor de siete años, e
-inhabilitación de uno a dos años conforme al artículo
-36, incisos 1 y 2.
-Si para perpetrar la comisión del delito, el agente
-presta resistencia o se enfrenta a las Fuerzas del
-Orden, la pena será privativa de libertad no menor de
-cinco ni mayor de ocho años.” (*) Artículo modificado
-por el artículo 1 del Decreto Ley Nº 25444, publicado el
-23 de abril de 1992.
 “Violencia contra la autoridad para impedir
 el ejercicio de sus funciones
 Artículo 366.- El que emplea intimidación o
@@ -10404,13 +10446,6 @@ de la Ley N° 27937, publicada el 12 de febrero de 2003.
 Artículo 367.- En los casos de los artículos 365
 y 366, la pena privativa de libertad será no menor de
 cuatro ni mayor de ocho años cuando:
-Ostentación de distintivos de función o
-cargos que no ejerce
-Artículo 362.- El que, públicamente, ostenta
-insignias o distintivos de una función o cargo que
-no ejerce o se arroga grado académico, título
-profesional u honores que no le corresponden, será
-reprimido con pena privativa de libertad no mayor de
 1. El hecho se realiza por dos o más personas.
 2. El autor es funcionario o servidor público.
 La pena privativa de libertad será no menor de
@@ -10547,15 +10582,11 @@ Si se demuestra que del uso de estos aparatos
 se cometió o intentó cometer un ilícito penal, la
 pena será no menor de diez ni mayor de quince
 años.” (*) Artículo incorporado por el artículo único
-artículo único de la Ley N° 29519, publicada el 16 de
-abril de 2010.
+de la Ley Nº 29867, publicada el 22 de mayo de 2012.
 “Ingreso indebido de armas, municiones
 o materiales explosivos, inflamables,
 asfixiantes o tóxicos en establecimientos
 penitenciarios
-Negativa a colaborar con la administración
-de justicia
-de la Ley Nº 29867, publicada el 22 de mayo de 2012.
 Artículo 368-E.- El que indebidamente ingresa,
 intenta ingresar o permite el ingreso a un centro
 de detención o reclusión, un arma de fuego o
@@ -10600,6 +10631,8 @@ menor de dos ni mayor de cuatro años. Si el agente
 es funcionario o servidor público sufrirá, además,
 inhabilitación de uno a tres años conforme al artículo
 36, incisos 1, 2 y 8.” (*) Artículo modificado por el
+artículo único de la Ley N° 29519, publicada el 16 de
+abril de 2010.
 Atentado contra la conservación
 e identidad de objeto
 Artículo 370.- El que destruye o arranca
@@ -10608,6 +10641,8 @@ para conservar o identificar un objeto, será reprimido
 con pena privativa de libertad no mayor de dos años
 o con prestación de servicio comunitario de veinte a
 treinta jornadas.
+Negativa a colaborar con la administración
+de justicia
 Artículo 371.- El testigo, perito, traductor o
 intérprete que, siendo legalmente requerido, se
 abstiene de comparecer o prestar la declaración,
@@ -10655,13 +10690,6 @@ comunitario de veinte a treinta jornadas.
 CAPÍTULO II
 DELITOS COMETIDOS POR
 FUNCIONARIOS PÚBLICOS
-que ilegalmente ocupan o usurpan los bienes o
-zonas referidas en el tercer párrafo.” (*) Artículo
-modificado por la primera disposición complementaria
-modificatoria del Decreto Legislativo N° 1688, publicado
-el 2 de octubre de 2024.
-“Omisión, rehusamiento o demora de actos
-funcionales
 SECCIÓN I
 ABUSO DE AUTORIDAD
 “Abuso de autoridad
@@ -10714,6 +10742,13 @@ pena privativa de libertad será no menor de cinco ni
 mayor de ocho años.
 La pena privativa de libertad será no menor de
 seis ni mayor de diez años, si se otorgan a personas
+que ilegalmente ocupan o usurpan los bienes o
+zonas referidas en el tercer párrafo.” (*) Artículo
+modificado por la primera disposición complementaria
+modificatoria del Decreto Legislativo N° 1688, publicado
+el 2 de octubre de 2024.
+“Omisión, rehusamiento o demora de actos
+funcionales
 Artículo 377.- El funcionario público que,
 ilegalmente, omite, rehúsa o retarda algún acto
 de su cargo será reprimido con pena privativa de
@@ -10896,7 +10931,8 @@ caudales o efectos estuvieran destinados a fines
 asistenciales o a programas de apoyo o inclusión
 social. En estos casos, la pena privativa de libertad
 será no menor de tres ni mayor de cinco años y
-con ciento cincuenta a doscientos treinta díasmulta.” (*) Artículo modificado por el artículo 2 de la
+con ciento cincuenta a doscientos treinta días-
+multa.” (*) Artículo modificado por el artículo 2 de la
 Ley N° 31178, publicada el 28 de abril 2021
 “Peculado de uso
 Artículo 388.- El funcionario o servidor público
@@ -10918,6 +10954,28 @@ vehículos motorizados destinados al servicio
 personal por razón del cargo.” (*) Artículo modificado
 por el artículo 2 del Decreto Legislativo N° 1243,
 publicado el 22 de octubre de 2016.
+“Malversación
+Artículo 389.- El funcionario o servidor público
+que da al dinero o bienes que administra una
+aplicación definitiva diferente de aquella a los que
+están destinados, afectando el servicio o la función
+encomendada, será reprimido con pena privativa de
+libertad no menor de uno ni mayor de cuatro años;
+inhabilitación a que se refieren los incisos 1, 2 y 8 del
+artículo 36, de cinco a veinte años, y ciento ochenta
+a trescientos sesenta y cinco días-multa.
+La pena será privativa de libertad no menor de
+cuatro ni mayor de ocho años; inhabilitación a que
+se refieren los incisos 1, 2 y 8 del artículo 36, de
+naturaleza perpetua, y, con trescientos sesenta y
+cinco a setecientos treinta días-multa, cuando ocurra
+cualquiera de los siguientes supuestos:
+1. El agente actúe como integrante de una
+organización criminal, como persona vinculada o
+actúe por encargo de ella.
+2. La conducta recaiga sobre programas con
+fines asistenciales, de apoyo o inclusión social
+o de desarrollo, siempre que el valor del dinero,
 bienes, efectos o ganancias involucrados supere las
 diezunidades impositivas tributarias.
 3. El agente se aproveche de una situación
@@ -10955,28 +11013,6 @@ apoyo social.” (*) Artículo modificado por la sétima
 disposición final de la Ley N° 28165, publicada el 10
 de enero de 2004.
 SECCIÓN IV
-“Malversación
-Artículo 389.- El funcionario o servidor público
-que da al dinero o bienes que administra una
-aplicación definitiva diferente de aquella a los que
-están destinados, afectando el servicio o la función
-encomendada, será reprimido con pena privativa de
-libertad no menor de uno ni mayor de cuatro años;
-inhabilitación a que se refieren los incisos 1, 2 y 8 del
-artículo 36, de cinco a veinte años, y ciento ochenta
-a trescientos sesenta y cinco días-multa.
-La pena será privativa de libertad no menor de
-cuatro ni mayor de ocho años; inhabilitación a que
-se refieren los incisos 1, 2 y 8 del artículo 36, de
-naturaleza perpetua, y, con trescientos sesenta y
-cinco a setecientos treinta días-multa, cuando ocurra
-cualquiera de los siguientes supuestos:
-1. El agente actúe como integrante de una
-organización criminal, como persona vinculada o
-actúe por encargo de ella.
-2. La conducta recaiga sobre programas con
-fines asistenciales, de apoyo o inclusión social
-o de desarrollo, siempre que el valor del dinero,
 CORRUPCIÓN DE FUNCIONARIOS
 “Cohecho pasivo propio
 Artículo 393.- El funcionario o servidor público
@@ -11045,7 +11081,8 @@ o como consecuencia del ya realizado, será reprimido
 con pena privativa de libertad no menor de cinco ni
 mayor de ocho años e inhabilitación conforme a los
 incisos 1 y 2 del artículo 36 del Código Penal y con
-trescientos sesenta y cinco a setecientos treinta díasmulta.” (*) Artículo modificado por el artículo único de
+trescientos sesenta y cinco a setecientos treinta días-
+multa.” (*) Artículo modificado por el artículo único de
 la Ley N° 30111, publicada el 26 de noviembre de 2013.
 “Cohecho pasivo específico
 Artículo 395.- El Magistrado, Árbitro, Fiscal,
@@ -11250,7 +11287,8 @@ que interviene por razón de su cargo, será reprimido
 con pena privativa de libertad no menor de cuatro ni
 mayor de seis años e inhabilitación conforme a los
 incisos 1 y 2 del artículo 36 del Código Penal y con
-ciento ochenta a trescientos sesenta y cinco díasmulta.” (*) Artículo modificado por el artículo único de
+ciento ochenta a trescientos sesenta y cinco días-
+multa.” (*) Artículo modificado por el artículo único de
 la Ley N° 30111, publicada el 26 de noviembre de 2013.
 “Tráfico de influencias
 Artículo 400.- El que, invocando o teniendo
@@ -11271,6 +11309,32 @@ de cuatro ni mayor de ocho años; inhabilitación,
 según corresponda, conforme a los incisos 1,
 2 y 8 del artículo 36; y, con trescientos sesenta y
 cinco a setecientos treinta días-multa.” (*) Artículo
+modificado por el artículo 2 del Decreto Legislativo
+N° 1243, publicado el 22 de octubre de 2016.
+“Enriquecimiento ilícito
+Artículo 401.- El funcionario o servidor público
+que, abusando de su cargo, incrementa ilícitamente
+su patrimonio respecto de sus ingresos legítimos será
+reprimido con pena privativa de libertad no menor de
+cinco ni mayor de diez años; inhabilitación, según
+corresponda, conforme a los incisos 1, 2 y 8 del
+artículo 36; y, con trescientos sesenta y cinco a
+setecientos treinta días-multa.
+Si el agente es un funcionario público que ha
+ocupado cargos de alta dirección en las entidades,
+organismos o empresas del Estado, o está sometido
+a la prerrogativa del antejuicio y la acusación
+constitucional, será reprimido con pena privativa
+de libertad será no menor de diez ni mayor de
+quince años; inhabilitación, según corresponda,
+conforme a los incisos 1, 2 y 8 del artículo 36; y,
+con trescientos sesenta y cinco a setecientos treinta
+días-multa.
+Se considera que existe indicio de enriquecimiento
+ilícito cuando el aumento del patrimonio o del gasto
+económico personal del funcionario o servidor
+público, en consideración a su declaración jurada
+de bienes y rentas, es notoriamente superior al
 que normalmente haya podido tener en virtud de
 sus sueldos o emolumentos percibidos o de los
 incrementos de su capital o de sus ingresos por
@@ -11303,35 +11367,9 @@ publicado el 10 de mayo de 1992.
 CAPÍTULO III
 DELITOS CONTRA LA
 ADMINISTRACIÓN DE JUSTICIA
-modificado por el artículo 2 del Decreto Legislativo
-N° 1243, publicado el 22 de octubre de 2016.
 SECCIÓN I
 DELITOS CONTRA LA
 FUNCIÓN JURISDICCIONAL
-“Enriquecimiento ilícito
-Artículo 401.- El funcionario o servidor público
-que, abusando de su cargo, incrementa ilícitamente
-su patrimonio respecto de sus ingresos legítimos será
-reprimido con pena privativa de libertad no menor de
-cinco ni mayor de diez años; inhabilitación, según
-corresponda, conforme a los incisos 1, 2 y 8 del
-artículo 36; y, con trescientos sesenta y cinco a
-setecientos treinta días-multa.
-Si el agente es un funcionario público que ha
-ocupado cargos de alta dirección en las entidades,
-organismos o empresas del Estado, o está sometido
-a la prerrogativa del antejuicio y la acusación
-constitucional, será reprimido con pena privativa
-de libertad será no menor de diez ni mayor de
-quince años; inhabilitación, según corresponda,
-conforme a los incisos 1, 2 y 8 del artículo 36; y,
-con trescientos sesenta y cinco a setecientos treinta
-días-multa.
-Se considera que existe indicio de enriquecimiento
-ilícito cuando el aumento del patrimonio o del gasto
-económico personal del funcionario o servidor
-público, en consideración a su declaración jurada
-de bienes y rentas, es notoriamente superior al
 “Denuncia calumniosa
 Artículo 402.- El que denuncia a la autoridad
 un hecho punible, a sabiendas de que no se ha
@@ -11498,6 +11536,34 @@ ley, será reprimido con pena privativa de libertad no
 menor de uno ni mayor de cuatro años.
 Expedición de prueba o informe falso en
 proceso judicial
+Artículo 412.- El que, legalmente requerido en
+causa judicial en la que no es parte, expide una
+prueba o un informe falsos, niega o calla la verdad,
+en todo o en parte, será reprimido con pena privativa
+de libertad no mayor de tres años.
+Evasión mediante violencia o amenaza
+Artículo 413.- El que, estando legalmente privado
+de su libertad, se evade por medio de violencia
+o amenaza, será reprimido con pena privativa de
+libertad no mayor de tres años.
+“Afectación al sistema de vigilancia
+electrónica personal
+Artículo 413-A.- El que, estando legalmente
+procesado o condenado bajo la aplicación de
+vigilancia electrónica personal, daña, destruye,
+inutiliza el dispositivo electrónico que porta, o
+bloquea o altera su funcionamiento, para dificultar
+su ubicación, sustraerse de la persecución penal
+o a la ejecución de una pena o de otra medida
+ordenada por la justicia, será reprimido con pena
+privativa de la libertad no menor de dos ni mayor de
+cuatro años.” (*) Artículo incorporado por el artículo
+8 del Decreto Legislativo N° 1585, publicado el 22 de
+noviembre de 2023.
+Favorecimiento a la fuga
+Artículo 414.- El que, por violencia, amenaza o
+astucia, hace evadir a un preso, detenido o interno o
+le presta asistencia en cualquier forma para evadirse,
 será reprimido con pena privativa de libertad no
 menor de dos ni mayor de cuatro años.
 Si el agente que hace evadir, o presta asistencia
@@ -11527,34 +11593,6 @@ en una tercera parte.” (*) Artículo modificado por el
 artículo único de la Ley Nº 29867, publicada el 22 de
 mayo de 2012.
 Fraude procesal
-Artículo 412.- El que, legalmente requerido en
-causa judicial en la que no es parte, expide una
-prueba o un informe falsos, niega o calla la verdad,
-en todo o en parte, será reprimido con pena privativa
-de libertad no mayor de tres años.
-Evasión mediante violencia o amenaza
-Artículo 413.- El que, estando legalmente privado
-de su libertad, se evade por medio de violencia
-o amenaza, será reprimido con pena privativa de
-libertad no mayor de tres años.
-“Afectación al sistema de vigilancia
-electrónica personal
-Artículo 413-A.- El que, estando legalmente
-procesado o condenado bajo la aplicación de
-vigilancia electrónica personal, daña, destruye,
-inutiliza el dispositivo electrónico que porta, o
-bloquea o altera su funcionamiento, para dificultar
-su ubicación, sustraerse de la persecución penal
-o a la ejecución de una pena o de otra medida
-ordenada por la justicia, será reprimido con pena
-privativa de la libertad no menor de dos ni mayor de
-cuatro años.” (*) Artículo incorporado por el artículo
-8 del Decreto Legislativo N° 1585, publicado el 22 de
-noviembre de 2023.
-Favorecimiento a la fuga
-Artículo 414.- El que, por violencia, amenaza o
-astucia, hace evadir a un preso, detenido o interno o
-le presta asistencia en cualquier forma para evadirse,
 Artículo 416.- El que, por cualquier medio
 fraudulento, induce a error a un funcionario o servidor
 público para obtener resolución contraria a la ley,
@@ -11733,6 +11771,25 @@ o soberanía nacional.” (*) Artículo modificado por el
 artículo 2 de la Ley N° 31178, publicada el 28 de abril
 2021.
 TÍTULO XIX
+DELITOS CONTRA LA FE PÚBLICA
+CAPÍTULO I
+FALSIFICACIÓN DE
+DOCUMENTOS EN GENERAL
+Falsificación de documentos
+Artículo 427.- El que hace, en todo o en parte,
+un documento falso o adultera uno verdadero que
+pueda dar origen a derecho u obligación o servir
+para probar un hecho, con el propósito de utilizar
+el documento, será reprimido, si de su uso puede
+resultar algún perjuicio, con pena privativa de libertad
+no menor de dos ni mayor de diez años y con treinta
+a noventa días-multa si se trata de un documento
+público, registro público, título auténtico o cualquier
+otro trasmisible por endoso o al portador y con pena
+privativa de libertad no menor de dos ni mayor de
+cuatro años, y con ciento ochenta a trescientos
+sesenticinco días-multa, si se trata de un documento
+privado.
 El que hace uso de un documento falso o
 falsificado, como si fuese legítimo, siempre que de
 su uso pueda resultar algún perjuicio, será reprimido,
@@ -11773,25 +11830,6 @@ capturado.” (*) Artículo incorporado por el numeral
 publicado el 28 de junio de 2008.
 Omisión de consignar declaraciones
 en documentos
-DELITOS CONTRA LA FE PÚBLICA
-CAPÍTULO I
-FALSIFICACIÓN DE
-DOCUMENTOS EN GENERAL
-Falsificación de documentos
-Artículo 427.- El que hace, en todo o en parte,
-un documento falso o adultera uno verdadero que
-pueda dar origen a derecho u obligación o servir
-para probar un hecho, con el propósito de utilizar
-el documento, será reprimido, si de su uso puede
-resultar algún perjuicio, con pena privativa de libertad
-no menor de dos ni mayor de diez años y con treinta
-a noventa días-multa si se trata de un documento
-público, registro público, título auténtico o cualquier
-otro trasmisible por endoso o al portador y con pena
-privativa de libertad no menor de dos ni mayor de
-cuatro años, y con ciento ochenta a trescientos
-sesenticinco días-multa, si se trata de un documento
-privado.
 Artículo 429.- El que omite en un documento
 público o privado declaraciones que deberían
 constar o expide duplicados con igual omisión, al
@@ -11822,16 +11860,6 @@ conforme al artículo 36, incisos 1 y 2.
 El que haga uso malicioso de la certificación,
 según el caso de que se trate, será reprimido con
 las mismas penas privativas de libertad.
-o el que da a dichos sellos o timbres oficiales ya
-usados la apariencia de validez para emplearlos
-nuevamente, será reprimido con pena privativa de
-libertad no menor de dos ni mayor de cinco años y
-con noventa a ciento ochenta días-multa.
-Cuando el agente emplea como auténticos o
-todavía válidos los sellos o timbres oficiales de valor
-que son falsos, falsificados o ya usados, la pena será
-privativa de libertad no menor de uno ni mayor de
-tres años y de sesenta a noventa días-multa.
 “Artículo 431-A.- El que, con el propósito de
 gozar de los beneficios o coberturas del Seguro
 Obligatorio de Accidentes de Tránsito, incita a la
@@ -11855,31 +11883,8 @@ tres (3) ni mayor de seis (6) años, imponiéndosele
 además la pena accesoria de inhabilitación para el
 ejercicio del cargo por un periodo similar a la pena
 principal.” (*) Artículo incorporado por el artículo 3 de
-Artículo 435.- El que fabrica, fraudulentamente,
-o falsifica marcas o contraseñas oficiales destinadas
-a hacer constar el resultado de un examen de
-la autoridad o la concesión de un permiso o la
-identidad de un objeto o el que a sabiendas de su
-procedencia ilícita hace uso de tales marcas, será
-reprimido con pena privativa de libertad no mayor
-de tres años.
-Fabricación fraudulenta o falsificación
-de marcas o contraseñas oficiales
-Inhabilitación
-Artículo 436.- Cuando el agente de alguno de los
-delitos comprendidos en este Capítulo es funcionario
-o servidor público, será reprimido, además, con
-pena de inhabilitación de uno a tres años conforme
-al artículo 36 incisos 1 y 2.
-Marcas y sellos extranjeros
-equiparados a los nacionales
-Artículo 437.- Las disposiciones de este Capítulo
-son aplicables a los sellos, marcas oficiales y timbres
-de procedencia extranjera.
 la Ley N° 28839, publicada el 24 de julio de 2006.
-CAPÍTULO III
 Inhabilitación
-DISPOSICIONES COMUNES
 Artículo 432.- Cuando algunos de los delitos
 previstos en este Capítulo sea cometido por un
 funcionario o servidor público o notario, con abuso
@@ -11900,6 +11905,39 @@ Artículo 434.- El que fabrica, fraudulentamente,
 o falsifica sellos o timbres oficiales de valor,
 especialmente estampillas de correos, con el objeto
 de emplearlos o hacer que los empleen otras personas
+o el que da a dichos sellos o timbres oficiales ya
+usados la apariencia de validez para emplearlos
+nuevamente, será reprimido con pena privativa de
+libertad no menor de dos ni mayor de cinco años y
+con noventa a ciento ochenta días-multa.
+Cuando el agente emplea como auténticos o
+todavía válidos los sellos o timbres oficiales de valor
+que son falsos, falsificados o ya usados, la pena será
+privativa de libertad no menor de uno ni mayor de
+tres años y de sesenta a noventa días-multa.
+Fabricación fraudulenta o falsificación
+de marcas o contraseñas oficiales
+Artículo 435.- El que fabrica, fraudulentamente,
+o falsifica marcas o contraseñas oficiales destinadas
+a hacer constar el resultado de un examen de
+la autoridad o la concesión de un permiso o la
+identidad de un objeto o el que a sabiendas de su
+procedencia ilícita hace uso de tales marcas, será
+reprimido con pena privativa de libertad no mayor
+de tres años.
+Inhabilitación
+Artículo 436.- Cuando el agente de alguno de los
+delitos comprendidos en este Capítulo es funcionario
+o servidor público, será reprimido, además, con
+pena de inhabilitación de uno a tres años conforme
+al artículo 36 incisos 1 y 2.
+Marcas y sellos extranjeros
+equiparados a los nacionales
+Artículo 437.- Las disposiciones de este Capítulo
+son aplicables a los sellos, marcas oficiales y timbres
+de procedencia extranjera.
+CAPÍTULO III
+DISPOSICIONES COMUNES
 Falsedad genérica
 Artículo 438.- El que de cualquier otro modo que
 no esté especificado en los Capítulos precedentes,
@@ -11933,23 +11971,7 @@ o cualquier especie valorada, será reprimido con
 pena privativa de libertad no menor de tres ni mayor
 de seis años.
 LIBRO TERCERO
-daño psíquico, según prescripción facultativa, será
-reprimido con prestación de servicio comunitario
-de cuarenta a sesenta jornadas, siempre que no
-concurran circunstancias o medios que den gravedad
-al hecho, en cuyo caso es considerado como
-delito. Se considera circunstancia agravante y se
-incrementará la prestación de servicios comunitarios
-a ochenta jornadas cuando la víctima sea menor de
-catorce años o el agente sea el tutor, guardador o
-responsable de aquella.
-Cuando la lesión se causa por culpa y ocasiona
-hasta cinco días de incapacidad, la pena será de
-sesenta a ciento veinte días-multa.” (*) Artículo
-modificado por el artículo 1 de la Ley N° 30819,
-publicada el 13 de julio de 2018.
 FALTAS
-“Maltrato
 TÍTULO I
 DISPOSICIONES FUNDAMENTALES
 “Disposiciones comunes
@@ -11992,6 +12014,22 @@ Artículo 441.- El que, de cualquier manera,
 causa a otro una lesión dolosa en el cuerpo o en
 la salud física o mental que requiera hasta diez
 días de asistencia o descanso, o nivel leve de
+daño psíquico, según prescripción facultativa, será
+reprimido con prestación de servicio comunitario
+de cuarenta a sesenta jornadas, siempre que no
+concurran circunstancias o medios que den gravedad
+al hecho, en cuyo caso es considerado como
+delito. Se considera circunstancia agravante y se
+incrementará la prestación de servicios comunitarios
+a ochenta jornadas cuando la víctima sea menor de
+catorce años o el agente sea el tutor, guardador o
+responsable de aquella.
+Cuando la lesión se causa por culpa y ocasiona
+hasta cinco días de incapacidad, la pena será de
+sesenta a ciento veinte días-multa.” (*) Artículo
+modificado por el artículo 1 de la Ley N° 30819,
+publicada el 13 de julio de 2018.
+“Maltrato
 Artículo 442.- El que maltrata a otro física
 o psicológicamente, o lo humilla, denigra o
 menosprecia de modo reiterado, sin causarle lesión
@@ -12051,21 +12089,7 @@ Artículo 443.- (*) Artículo derogado por la única
 disposición complementaria derogatoria de la Ley
 N° 30819, publicada el 13 de julio de 2018.
 TÍTULO III
-Ingreso de animales en inmueble ajeno
-Artículo 447.- El encargado de la custodia de
-ganado o de animal doméstico que lo introduce o lo
-deja entrar en inmueble ajeno sin causar daño, no
-teniendo derecho o permiso para ello, será reprimido
-hasta con veinte días-multa.
-Organización o participación
-en juegos prohibidos
-Artículo 448.- El que organiza o participa en
-juegos prohibidos por la ley, será reprimido hasta
-con sesenta días-multa.
-TÍTULO IV
 FALTAS CONTRA EL PATRIMONIO
-FALTAS CONTRA
-LAS BUENAS COSTUMBRES
 “Hurto simple y daño
 Artículo 444.- El que realiza cualquiera de las
 conductas previstas en los artículos 185 y 205,
@@ -12095,6 +12119,32 @@ sesenta días-multa.” (*) Artículo incorporado por el
 artículo 2 de la Ley N° 29263, publicada el 2 de octubre
 de 2008.
 Hurto famélico
+Artículo 445.- Será reprimido con prestación de
+servicio comunitario de diez a veinte jornadas:
+1. El que se apodera, para su consumo inmediato,
+de comestibles o bebidas de escaso valor o en
+pequeña cantidad.
+2. El que se hace servir alimentos o bebidas en un
+restaurante, con el designio de no pagar o sabiendo
+que no podía hacerlo.
+Usurpación breve
+Artículo 446.- El que penetra, por breve término,
+en terreno cercado, sin permiso del dueño, será
+reprimido con veinte a sesenta días- multa.
+Ingreso de animales en inmueble ajeno
+Artículo 447.- El encargado de la custodia de
+ganado o de animal doméstico que lo introduce o lo
+deja entrar en inmueble ajeno sin causar daño, no
+teniendo derecho o permiso para ello, será reprimido
+hasta con veinte días-multa.
+Organización o participación
+en juegos prohibidos
+Artículo 448.- El que organiza o participa en
+juegos prohibidos por la ley, será reprimido hasta
+con sesenta días-multa.
+TÍTULO IV
+FALTAS CONTRA
+LAS BUENAS COSTUMBRES
 Perturbación de la tranquilidad
 Artículo 449.- El que, en lugar público, perturba
 la tranquilidad de las personas o pone en peligro la
@@ -12120,18 +12170,6 @@ de mayo de 2000.
 jardines, alamedas, parques y avenidas.
 TÍTULO V
 FALTAS CONTRA LA SEGURIDAD PÚBLICA
-Artículo 445.- Será reprimido con prestación de
-servicio comunitario de diez a veinte jornadas:
-1. El que se apodera, para su consumo inmediato,
-de comestibles o bebidas de escaso valor o en
-pequeña cantidad.
-2. El que se hace servir alimentos o bebidas en un
-restaurante, con el designio de no pagar o sabiendo
-que no podía hacerlo.
-Usurpación breve
-Artículo 446.- El que penetra, por breve término,
-en terreno cercado, sin permiso del dueño, será
-reprimido con veinte a sesenta días- multa.
 Faltas contra la seguridad pública
 Artículo 451.- Será reprimido con prestación de
 servicio comunitario de quince a treinta jornadas o
@@ -12162,27 +12200,9 @@ TÍTULO VI
 FALTAS CONTRA
 LA TRANQUILIDAD PÚBLICA
 Faltas contra la tranquilidad pública
-Tráfico Ilícito de Drogas y Terrorismo Vigencia de beneficios
-Segunda.- Continúan vigentes las disposiciones
-legales que restringen los beneficios procesales y de
-ejecución penal, respecto de los agentes de delitos
-de tráfico ilícito de drogas y terrorismo, en cuanto no
-se opongan a este Código.
-Consejo local de patronato - Entrega
-de bienes bajo inventario
-Tercera.- El Consejo Local de Patronato,
-regulado por los artículos 402º al 407º del Código
-Penal de 1924, entregará, bajo inventario, los bienes
-que administra a la respectiva Corte Superior. Los
-fondos en dinero se entregarán al Instituto Nacional
-Penitenciario para su administración.
-Conversión de condenas. Reglas
 Artículo 452.- Será reprimido con prestación de
 servicio comunitario de veinte a cuarenta jornadas
 o con sesenta a noventa días-multa:
-Cuarta.- Las condenas impuestas por sentencias
-firmes, durante la vigencia del anterior Código Penal,
-se sujetan a las siguientes reglas:
 1. El que perturba levemente el orden en los
 actos, espectáculos, solemnidades o reuniones
 públicas.
@@ -12203,6 +12223,33 @@ ruidos o molestias análogas.
 7. El que infringe disposiciones sanitarias dictadas
 por la autoridad para la conducción de cadáveres y
 entierros.
+DISPOSICIONES FINALES
+Y TRANSITORIAS
+Vigencia de la Ley Nº 25103 y del
+D.S. Nº 296-90-EF
+Primera.- Mantiene su vigencia la Ley Nº 25103,
+en cuanto no se oponga a este Código, así como el
+Decreto Supremo Nº 296-90-EF, del 4 de noviembre
+de 1990.
+Tráfico Ilícito de Drogas y Terrorismo -
+Vigencia de beneficios
+Segunda.- Continúan vigentes las disposiciones
+legales que restringen los beneficios procesales y de
+ejecución penal, respecto de los agentes de delitos
+de tráfico ilícito de drogas y terrorismo, en cuanto no
+se opongan a este Código.
+Consejo local de patronato - Entrega
+de bienes bajo inventario
+Tercera.- El Consejo Local de Patronato,
+regulado por los artículos 402º al 407º del Código
+Penal de 1924, entregará, bajo inventario, los bienes
+que administra a la respectiva Corte Superior. Los
+fondos en dinero se entregarán al Instituto Nacional
+Penitenciario para su administración.
+Conversión de condenas. Reglas
+Cuarta.- Las condenas impuestas por sentencias
+firmes, durante la vigencia del anterior Código Penal,
+se sujetan a las siguientes reglas:
 1. Las sentencias a pena de internamiento con
 mínimo de veinticinco años, se convierten en pena
 privativa de libertad de veinticinco años.
@@ -12228,14 +12275,6 @@ habituales, conforme a los artículos 111 al 116 del
 Código Penal de 1924, serán liberados al cumplir la
 mitad de la pena de prisión o penitenciaría; o la mitad
 del mínimo de la pena de relegación.
-DISPOSICIONES FINALES
-Y TRANSITORIAS
-Vigencia de la Ley Nº 25103 y del
-D.S. Nº 296-90-EF
-Primera.- Mantiene su vigencia la Ley Nº 25103,
-en cuanto no se oponga a este Código, así como el
-Decreto Supremo Nº 296-90-EF, del 4 de noviembre
-de 1990.
 “Quinta.- Los delitos de terrorismo se regirán por
 sus leyes especiales.” (*) Disposición incorporada
 por el artículo 7 de la Ley Nº 26926, publicada el 21 de
