@@ -100,6 +100,7 @@ def split_articles(text_file="extracted_text.txt", metadata_file="extracted_meta
 
     # Process each article
     prev_end_line = 0
+    order_width = len(str(len(articles)))
     for i, art in enumerate(articles):
         art_line = art["line"]
         art_num = art["num"]
@@ -170,12 +171,13 @@ def split_articles(text_file="extracted_text.txt", metadata_file="extracted_meta
         content = '\n'.join(lines[title_start:end_line]).strip()
 
         # Save
+        order_prefix = f"{i + 1:0{order_width}d}"
         if '-' in art_num:
             base_num = int(art_num.split('-')[0])
             suffix = art_num.split('-')[1]
-            filename = f"articulo_{base_num:03d}_{suffix}.txt"
+            filename = f"{order_prefix}_articulo_{base_num:03d}_{suffix}.txt"
         else:
-            filename = f"articulo_{int(art_num):03d}.txt"
+            filename = f"{order_prefix}_articulo_{int(art_num):03d}.txt"
 
         with open(f"{output_dir}/{filename}", "w", encoding="utf-8") as f:
             f.write(content)
@@ -191,8 +193,13 @@ def verify_articles(output_dir="codigo_penal_split/articulos", sample_articles=[
     print("\n=== Verification ===\n")
 
     for art_num in sample_articles:
-        filename = f"{output_dir}/articulo_{art_num:03d}.txt"
-        if os.path.exists(filename):
+        pattern = f"*_articulo_{art_num:03d}*.txt"
+        matches = sorted(
+            name for name in os.listdir(output_dir) if name.endswith(".txt")
+            and re.match(pattern.replace("*", ".*"), name)
+        )
+        if matches:
+            filename = os.path.join(output_dir, matches[0])
             with open(filename) as f:
                 content = f.read()
             print(f"--- Article {art_num} ---")
