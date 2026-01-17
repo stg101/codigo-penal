@@ -1,8 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import SidebarNav from "../components/SidebarNav.astro";
-import ArticleHeader from "../components/ArticleHeader.astro";
+import DocumentHeader from "../components/DocumentHeader.astro";
 import ContentSection from "../components/ContentSection.astro";
+import ArticleBlock from "../components/ArticleBlock.astro";
 
 const tocGroups = [
   { title: "Decreto Legislativo N° 999", href: "#decreto-999" },
@@ -94,7 +95,7 @@ const motivesBlocks = [
           </div>
 
           <article class="prose relative mb-30 grid justify-items-center rounded-xs p-8 md:bg-white md:shadow-[0px_1px_4px_1px_rgba(0,_0,_0,_0.05),_0px_1px_1px_0px_rgba(0,_0,_0,_0.50),_0px_-1px_1px_1px_#FFF_inset] lg:px-16 lg:py-20">
-            <ArticleHeader
+            <DocumentHeader
               updated="02/02/2026"
               title="Código Penal."
               subtitle="Edición de práctica Nº 999"
@@ -123,11 +124,17 @@ const motivesBlocks = [
                 consistencia tipográfica con el fin de asegurar una lectura fluida.
               </p>
               <p class="body-text mb-4 font-semibold">HA DADO EL SIGUIENTE TEXTO:</p>
-              <p class="body-text mb-4">
-                <strong id="articulo-1">Artículo 1.-</strong> Se adopta esta
-                compilación de referencia compuesta por módulos, títulos y
-                artículos de práctica.
-              </p>
+              <ArticleBlock
+                id="articulo-1"
+                label="Artículo 1.-"
+                text="Se adopta esta compilación de referencia compuesta por módulos, títulos y artículos de práctica."
+              />
+              <ArticleBlock
+                heading="AGRAVACIÓN DE LA PENA POR LA CALIDAD DEL SUJETO"
+                id="articulo-117"
+                label="Artículo 117.-"
+                text="El profesional sanitario que abusa de su cargo para causar un daño será reprimido conforme a los artículos 115 y 116."
+              />
               <div class="pl-6 mb-6 text-gray-700">
                 <p class="body-text font-semibold">TÍTULO PRELIMINAR:</p>
                 <p class="body-text">
