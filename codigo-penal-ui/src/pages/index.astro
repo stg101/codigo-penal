@@ -2,6 +2,16 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import SidebarNav from "../components/SidebarNav.astro";
 import DocumentHeader from "../components/DocumentHeader.astro";
+import Articulo001 from "../components/articulos/Articulo001.astro";
+import Articulo002 from "../components/articulos/Articulo002.astro";
+import Articulo003 from "../components/articulos/Articulo003.astro";
+import Articulo004 from "../components/articulos/Articulo004.astro";
+import Articulo005 from "../components/articulos/Articulo005.astro";
+import Articulo006 from "../components/articulos/Articulo006.astro";
+import Articulo007 from "../components/articulos/Articulo007.astro";
+import Articulo008 from "../components/articulos/Articulo008.astro";
+import Articulo009 from "../components/articulos/Articulo009.astro";
+import Articulo010 from "../components/articulos/Articulo010.astro";
 import decretoHtml from "../content/1_decreto_legislativo.html?raw";
 import exposicionHtml from "../content/2_exposicion_motivos.html?raw";
 import tituloPreliminarHtml from "../content/3_titulo_preliminar.html?raw";
@@ -15,11 +25,12 @@ const tocGroups = [
     href: "#libro-primero",
     items: [
       {
-        title: "De la Norma Penal",
+        title: "De la Ley Penal",
         href: "#titulo-I",
         subitems: [
-          { title: "Aplicación espacial", href: "#capitulo-I-espacial" },
-          { title: "Aplicación temporal", href: "#capitulo-II-temporal" },
+          { title: "Aplicación espacial", href: "#capitulo-I-aplicacion-espacial" },
+          { title: "Aplicación temporal", href: "#capitulo-II-aplicacion-temporal" },
+          { title: "Aplicación personal", href: "#capitulo-III-aplicacion-personal" },
         ],
       },
       {
@@ -94,22 +105,32 @@ const tocGroups = [
             <section class="w-full max-w-prose" id="titulo-preliminar" set:html={tituloPreliminarHtml} />
 
             <section class="w-full max-w-prose" id="libro-primero">
-              <h2 class="mt-12 mb-8 title-2">LIBRO I — PARTE GENERAL</h2>
-              <h3 class="mb-6 title-3" id="titulo-I">De la Norma Penal</h3>
-              <p class="body-text mb-4">
-                Se agrupan principios de interpretación, alcance territorial y
-                reglas de temporalidad para casos excepcionales.
-              </p>
-              <h4 class="mb-4 mt-8 title-4" id="capitulo-I-espacial">Aplicación espacial</h4>
-              <p class="body-text mb-4">
-                Define criterios sobre la jurisdicción y la cooperación entre
-                autoridades competentes.
-              </p>
-              <h4 class="mb-4 mt-8 title-4" id="capitulo-II-temporal">Aplicación temporal</h4>
-              <p class="body-text mb-4">
-                Precisa cómo se interpretan las reformas cuando un proceso está
-                en curso o ya ha concluido.
-              </p>
+              <h2 class="mt-12 mb-2 title-2">LIBRO PRIMERO</h2>
+              <p class="font-mono text-sm text-black/50 uppercase mb-6">Parte General</p>
+              <h3 class="mb-4 mt-8 title-3" id="titulo-I">TÍTULO I</h3>
+              <h4 class="mb-6 title-4">DE LA LEY PENAL</h4>
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-I-aplicacion-espacial">CAPÍTULO I</h4>
+              <h5 class="mb-6 title-5">APLICACIÓN ESPACIAL</h5>
+
+              <Articulo001 />
+              <Articulo002 />
+              <Articulo003 />
+              <Articulo004 />
+              <Articulo005 />
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-II-aplicacion-temporal">CAPÍTULO II</h4>
+              <h5 class="mb-6 title-5">APLICACIÓN TEMPORAL</h5>
+
+              <Articulo006 />
+              <Articulo007 />
+              <Articulo008 />
+              <Articulo009 />
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-III-aplicacion-personal">CAPÍTULO III</h4>
+              <h5 class="mb-6 title-5">APLICACIÓN PERSONAL</h5>
+
+              <Articulo010 />
             </section>
 
             <section class="w-full max-w-prose" id="libro-tercero">
