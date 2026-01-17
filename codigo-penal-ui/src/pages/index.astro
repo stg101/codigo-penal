@@ -22,6 +22,28 @@ import Articulo017 from "../components/articulos/Articulo017.astro";
 import Articulo018 from "../components/articulos/Articulo018.astro";
 import Articulo019 from "../components/articulos/Articulo019.astro";
 import Articulo020 from "../components/articulos/Articulo020.astro";
+import Articulo021 from "../components/articulos/Articulo021.astro";
+import Articulo022 from "../components/articulos/Articulo022.astro";
+import Articulo023 from "../components/articulos/Articulo023.astro";
+import Articulo024 from "../components/articulos/Articulo024.astro";
+import Articulo025 from "../components/articulos/Articulo025.astro";
+import Articulo026 from "../components/articulos/Articulo026.astro";
+import Articulo027 from "../components/articulos/Articulo027.astro";
+import Articulo028 from "../components/articulos/Articulo028.astro";
+import Articulo029 from "../components/articulos/Articulo029.astro";
+import Articulo029A from "../components/articulos/Articulo029A.astro";
+import Articulo030 from "../components/articulos/Articulo030.astro";
+import Articulo030A from "../components/articulos/Articulo030A.astro";
+import Articulo031 from "../components/articulos/Articulo031.astro";
+import Articulo032 from "../components/articulos/Articulo032.astro";
+import Articulo033 from "../components/articulos/Articulo033.astro";
+import Articulo034 from "../components/articulos/Articulo034.astro";
+import Articulo035 from "../components/articulos/Articulo035.astro";
+import Articulo036 from "../components/articulos/Articulo036.astro";
+import Articulo037 from "../components/articulos/Articulo037.astro";
+import Articulo038 from "../components/articulos/Articulo038.astro";
+import Articulo039 from "../components/articulos/Articulo039.astro";
+import Articulo040 from "../components/articulos/Articulo040.astro";
 import decretoHtml from "../content/1_decreto_legislativo.html?raw";
 import exposicionHtml from "../content/2_exposicion_motivos.html?raw";
 import tituloPreliminarHtml from "../content/3_titulo_preliminar.html?raw";
@@ -50,43 +72,11 @@ const tocGroups = [
           { title: "Bases de punibilidad", href: "#capitulo-I-bases-punibilidad" },
           { title: "Tentativa", href: "#capitulo-II-tentativa" },
           { title: "Causas que Eximen o Atenúan", href: "#capitulo-III-causas-eximen" },
+          { title: "Autoría y Participación", href: "#capitulo-IV-autoria-participacion" },
         ],
       },
     ],
   },
-  {
-    title: "Libro II — Parte Especial",
-    href: "#libro-segundo",
-    note: "Delitos",
-    items: [
-      {
-        title: "Contra la Vida",
-        href: "#delitos-vida",
-        subitems: [
-          { title: "Homicidio", href: "#capitulo-homicidio" },
-          { title: "Lesiones", href: "#capitulo-lesiones" },
-        ],
-      },
-      {
-        title: "Contra la Libertad",
-        href: "#delitos-libertad",
-        subitems: [
-          { title: "Libertad personal", href: "#capitulo-libertad" },
-          { title: "Secreto profesional", href: "#capitulo-secreto" },
-        ],
-      },
-    ],
-  },
-  {
-    title: "Libro III — Faltas",
-    href: "#libro-tercero",
-    items: [
-      { title: "Disposiciones fundamentales", href: "#faltas-base" },
-      { title: "Contra la persona", href: "#faltas-persona" },
-      { title: "Contra el patrimonio", href: "#faltas-patrimonio" },
-    ],
-  },
-  { title: "Disposiciones Finales", href: "#disposiciones-finales" },
 ];
 ---
 <BaseLayout title="Código Penal del Perú">
@@ -167,15 +157,53 @@ const tocGroups = [
               <h5 class="mb-6 title-5">CAUSAS QUE EXIMEN O ATENÚAN LA RESPONSABILIDAD PENAL</h5>
 
               <Articulo020 />
+              <Articulo021 />
+              <Articulo022 />
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-IV-autoria-participacion">CAPÍTULO IV</h4>
+              <h5 class="mb-6 title-5">AUTORÍA Y PARTICIPACIÓN</h5>
+
+              <Articulo023 />
+              <Articulo024 />
+              <Articulo025 />
+              <Articulo026 />
+              <Articulo027 />
+
+              <h3 class="mb-4 mt-12 title-3" id="titulo-III">TÍTULO III</h3>
+              <h4 class="mb-6 title-4">DE LAS PENAS</h4>
+
+              <h4 class="mb-2 mt-10 title-4" id="capitulo-I-clases-pena">CAPÍTULO I</h4>
+              <h5 class="mb-6 title-5">CLASES DE PENA</h5>
+
+              <Articulo028 />
+
+              <h4 class="mb-2 mt-10 title-4" id="seccion-I-pena-privativa">SECCIÓN I</h4>
+              <h5 class="mb-6 title-5">PENA PRIVATIVA DE LIBERTAD</h5>
+
+              <Articulo029 />
+              <Articulo029A />
+
+              <h4 class="mb-2 mt-10 title-4" id="seccion-II-penas-restrictivas">SECCIÓN II</h4>
+              <h5 class="mb-6 title-5">PENAS RESTRICTIVAS DE LIBERTAD</h5>
+
+              <Articulo030 />
+              <Articulo030A />
+
+              <h4 class="mb-2 mt-10 title-4" id="seccion-III-penas-limitativas">SECCIÓN III</h4>
+              <h5 class="mb-6 title-5">PENAS LIMITATIVAS DE DERECHOS</h5>
+
+              <Articulo031 />
+              <Articulo032 />
+              <Articulo033 />
+              <Articulo034 />
+              <Articulo035 />
+              <Articulo036 />
+              <Articulo037 />
+              <Articulo038 />
+              <Articulo039 />
+              <Articulo040 />
             </section>
 
-            <section class="w-full max-w-prose" id="libro-tercero">
-              <h2 class="mt-12 mb-8 title-2">LIBRO III — FALTAS</h2>
-              <p class="body-text mb-4">
-                Las disposiciones sobre faltas se presentan como guías de
-                convivencia y prevención comunitaria.
-              </p>
-            </section>
           </article>
         </div>
       </div>
