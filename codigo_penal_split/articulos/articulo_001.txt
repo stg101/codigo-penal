@@ -1,3 +1,10 @@
+LIBRO PRIMERO
+PARTE GENERAL
+TÍTULO I
+DE LA LEY PENAL
+CAPÍTULO I
+APLICACIÓN ESPACIAL
+Principio de Territorialidad
 Artículo 1.- La Ley Penal peruana se aplica a
 todo el que comete un hecho punible en el territorio
 de la República, salvo las excepciones contenidas
@@ -9,6 +16,3 @@ en donde se encuentren; y,
 2. Las naves o aeronaves nacionales privadas,
 que se encuentren en alta mar o en espacio aéreo
 donde ningún Estado ejerza soberanía.
-“Principio de Extraterritorialidad,
-Principio Real o de Defensa y
-Principio de Personalidad Activa y Pasiva

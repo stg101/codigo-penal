@@ -1,3 +1,4 @@
+Prueba de la verdad de las imputaciones
 Artículo 134.- El autor del delito previsto en
 el artículo 132 puede probar la veracidad de sus
 imputaciones sólo en los casos siguientes:
@@ -17,4 +18,3 @@ que se le haya atribuido.
 Si la verdad de los hechos, cualidad o conducta
 resulta probada, el autor de la imputación estará
 exento de pena.
-Inadmisibilidad de la prueba

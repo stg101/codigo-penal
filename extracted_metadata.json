@@ -1,0 +1,7828 @@
+{
+  "headers": [
+    {
+      "line": 0,
+      "type": "H2",
+      "text": "CÓDIGO PENAL",
+      "page": 8
+    },
+    {
+      "line": 1,
+      "type": "H2",
+      "text": "DECRETO LEGISLATIVO",
+      "page": 8
+    },
+    {
+      "line": 29,
+      "type": "ARTICULO",
+      "text": "Artículo 1.- Promúlgase el CÓDIGO PENAL,",
+      "page": 8
+    },
+    {
+      "line": 34,
+      "type": "TITULO",
+      "text": "TÍTULO PRELIMINAR:",
+      "page": 8
+    },
+    {
+      "line": 37,
+      "type": "ART_TITLE",
+      "text": "LIBRO II : Parte Especial: artículos 106 al 439",
+      "page": 8
+    },
+    {
+      "line": 38,
+      "type": "ART_TITLE",
+      "text": "LIBRO III : Faltas: artículos 440 al 452",
+      "page": 8
+    },
+    {
+      "line": 39,
+      "type": "H2",
+      "text": "DISPOSICIONES FINALES Y TRANSITORIAS:",
+      "page": 8
+    },
+    {
+      "line": 49,
+      "type": "H2",
+      "text": "EXPOSICIÓN DE MOTIVOS",
+      "page": 8
+    },
+    {
+      "line": 50,
+      "type": "H2",
+      "text": "ANTECEDENTES",
+      "page": 8
+    },
+    {
+      "line": 177,
+      "type": "H2",
+      "text": "CONTENIDO",
+      "page": 9
+    },
+    {
+      "line": 218,
+      "type": "ART_TITLE",
+      "text": "Aplicación Espacial",
+      "page": 9
+    },
+    {
+      "line": 224,
+      "type": "ART_TITLE",
+      "text": "Aplicación Temporal",
+      "page": 9
+    },
+    {
+      "line": 252,
+      "type": "ART_TITLE",
+      "text": "Aplicación Personal",
+      "page": 10
+    },
+    {
+      "line": 256,
+      "type": "ART_TITLE",
+      "text": "Hecho Punible",
+      "page": 10
+    },
+    {
+      "line": 257,
+      "type": "ART_TITLE",
+      "text": "Bases de la Punibilidad",
+      "page": 10
+    },
+    {
+      "line": 326,
+      "type": "ART_TITLE",
+      "text": "Tentativa",
+      "page": 10
+    },
+    {
+      "line": 346,
+      "type": "ART_TITLE",
+      "text": "Causas que Eximen o Atenúan la",
+      "page": 10
+    },
+    {
+      "line": 347,
+      "type": "ART_TITLE",
+      "text": "Responsabilidad Penal",
+      "page": 10
+    },
+    {
+      "line": 425,
+      "type": "ART_TITLE",
+      "text": "Autoría y Participación",
+      "page": 11
+    },
+    {
+      "line": 445,
+      "type": "ART_TITLE",
+      "text": "Las Penas",
+      "page": 11
+    },
+    {
+      "line": 461,
+      "type": "ART_TITLE",
+      "text": "Clases de Penas",
+      "page": 11
+    },
+    {
+      "line": 528,
+      "type": "ART_TITLE",
+      "text": "Aplicación de la Pena",
+      "page": 12
+    },
+    {
+      "line": 557,
+      "type": "ART_TITLE",
+      "text": "Conversiones de la Pena",
+      "page": 12
+    },
+    {
+      "line": 558,
+      "type": "ART_TITLE",
+      "text": "Privativa de Libertad",
+      "page": 12
+    },
+    {
+      "line": 579,
+      "type": "ART_TITLE",
+      "text": "Suspensión de la Ejecución de la Pena",
+      "page": 12
+    },
+    {
+      "line": 590,
+      "type": "ART_TITLE",
+      "text": "Reserva del Fallo Condenatorio",
+      "page": 12
+    },
+    {
+      "line": 605,
+      "type": "ART_TITLE",
+      "text": "Exención de Pena",
+      "page": 12
+    },
+    {
+      "line": 620,
+      "type": "ART_TITLE",
+      "text": "Rehabilitación",
+      "page": 13
+    },
+    {
+      "line": 630,
+      "type": "ART_TITLE",
+      "text": "De las Medidas de Seguridad",
+      "page": 13
+    },
+    {
+      "line": 642,
+      "type": "ART_TITLE",
+      "text": "Extinción de la Acción Penal y de la Pena",
+      "page": 13
+    },
+    {
+      "line": 662,
+      "type": "ART_TITLE",
+      "text": "Consecuencias Accesorias",
+      "page": 13
+    },
+    {
+      "line": 673,
+      "type": "ART_TITLE",
+      "text": "Innovaciones propuestas",
+      "page": 13
+    },
+    {
+      "line": 982,
+      "type": "ART_TITLE",
+      "text": "Reincidencia y Habitualidad",
+      "page": 15
+    },
+    {
+      "line": 1015,
+      "type": "H2",
+      "text": "MIEMBROS DE LA COMISIÓN REVISORA",
+      "page": 16
+    },
+    {
+      "line": 1041,
+      "type": "H2",
+      "text": "CÓDIGO PENAL",
+      "page": 16
+    },
+    {
+      "line": 1042,
+      "type": "TITULO",
+      "text": "TÍTULO PRELIMINAR",
+      "page": 16
+    },
+    {
+      "line": 1043,
+      "type": "H2",
+      "text": "PRINCIPIOS GENERALES",
+      "page": 16
+    },
+    {
+      "line": 1044,
+      "type": "ART_TITLE",
+      "text": "Finalidad Preventiva",
+      "page": 16
+    },
+    {
+      "line": 1045,
+      "type": "ART_TITLE",
+      "text": "Artículo I.- Este Código tiene por objeto la",
+      "page": 16
+    },
+    {
+      "line": 1048,
+      "type": "ART_TITLE",
+      "text": "Principio de Legalidad",
+      "page": 16
+    },
+    {
+      "line": 1049,
+      "type": "ART_TITLE",
+      "text": "Artículo II.- Nadie será sancionado por un acto",
+      "page": 16
+    },
+    {
+      "line": 1054,
+      "type": "ART_TITLE",
+      "text": "Prohibición de la Analogía",
+      "page": 16
+    },
+    {
+      "line": 1059,
+      "type": "ART_TITLE",
+      "text": "Principio de Lesividad",
+      "page": 16
+    },
+    {
+      "line": 1063,
+      "type": "ART_TITLE",
+      "text": "Garantía Jurisdiccional",
+      "page": 16
+    },
+    {
+      "line": 1064,
+      "type": "ART_TITLE",
+      "text": "Artículo V.- Sólo el Juez competente puede",
+      "page": 16
+    },
+    {
+      "line": 1067,
+      "type": "ART_TITLE",
+      "text": "Principio de Garantía de Ejecución",
+      "page": 16
+    },
+    {
+      "line": 1068,
+      "type": "ART_TITLE",
+      "text": "Artículo VI.- No puede ejecutarse pena alguna en",
+      "page": 16
+    },
+    {
+      "line": 1072,
+      "type": "ART_TITLE",
+      "text": "Responsabilidad Penal",
+      "page": 16
+    },
+    {
+      "line": 1073,
+      "type": "ART_TITLE",
+      "text": "Artículo VII.- La pena requiere de la",
+      "page": 16
+    },
+    {
+      "line": 1084,
+      "type": "ART_TITLE",
+      "text": "Fines de la Pena y Medidas de Seguridad",
+      "page": 16
+    },
+    {
+      "line": 1085,
+      "type": "ART_TITLE",
+      "text": "Artículo IX.- La pena tiene función preventiva,",
+      "page": 16
+    },
+    {
+      "line": 1089,
+      "type": "ART_TITLE",
+      "text": "Aplicación Supletoria de la Ley Penal",
+      "page": 17
+    },
+    {
+      "line": 1090,
+      "type": "ART_TITLE",
+      "text": "Artículo X.- Las normas generales de este Código",
+      "page": 17
+    },
+    {
+      "line": 1093,
+      "type": "LIBRO",
+      "text": "LIBRO PRIMERO",
+      "page": 17
+    },
+    {
+      "line": 1094,
+      "type": "H2",
+      "text": "PARTE GENERAL",
+      "page": 17
+    },
+    {
+      "line": 1095,
+      "type": "TITULO",
+      "text": "TÍTULO I",
+      "page": 17
+    },
+    {
+      "line": 1096,
+      "type": "H2",
+      "text": "DE LA LEY PENAL",
+      "page": 17
+    },
+    {
+      "line": 1097,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 17
+    },
+    {
+      "line": 1098,
+      "type": "H2",
+      "text": "APLICACIÓN ESPACIAL",
+      "page": 17
+    },
+    {
+      "line": 1099,
+      "type": "ART_TITLE",
+      "text": "Principio de Territorialidad",
+      "page": 17
+    },
+    {
+      "line": 1100,
+      "type": "ARTICULO",
+      "text": "Artículo 1.- La Ley Penal peruana se aplica a",
+      "page": 17
+    },
+    {
+      "line": 1112,
+      "type": "ART_TITLE",
+      "text": "Principio Real o de Defensa y",
+      "page": 17
+    },
+    {
+      "line": 1113,
+      "type": "ART_TITLE",
+      "text": "Principio de Personalidad Activa y Pasiva",
+      "page": 17
+    },
+    {
+      "line": 1114,
+      "type": "ARTICULO",
+      "text": "Artículo 2.- La Ley Penal peruana se aplica a",
+      "page": 17
+    },
+    {
+      "line": 1138,
+      "type": "ART_TITLE",
+      "text": "Principio de Representación",
+      "page": 17
+    },
+    {
+      "line": 1139,
+      "type": "ARTICULO",
+      "text": "Artículo 3.- La Ley Penal peruana podrá aplicarse",
+      "page": 17
+    },
+    {
+      "line": 1143,
+      "type": "ART_TITLE",
+      "text": "Excepciones al Principio de",
+      "page": 17
+    },
+    {
+      "line": 1144,
+      "type": "ART_TITLE",
+      "text": "Extraterritorialidad",
+      "page": 17
+    },
+    {
+      "line": 1145,
+      "type": "ARTICULO",
+      "text": "Artículo 4.- Las disposiciones contenidas en el",
+      "page": 17
+    },
+    {
+      "line": 1158,
+      "type": "ART_TITLE",
+      "text": "Principio de Ubicuidad",
+      "page": 17
+    },
+    {
+      "line": 1159,
+      "type": "ARTICULO",
+      "text": "Artículo 5.- El lugar de comisión de un delito",
+      "page": 17
+    },
+    {
+      "line": 1163,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 17
+    },
+    {
+      "line": 1164,
+      "type": "H2",
+      "text": "APLICACIÓN TEMPORAL",
+      "page": 17
+    },
+    {
+      "line": 1165,
+      "type": "ART_TITLE",
+      "text": "Principio de Combinación",
+      "page": 17
+    },
+    {
+      "line": 1166,
+      "type": "ARTICULO",
+      "text": "Artículo 6.- La Ley Penal aplicable es la vigente",
+      "page": 17
+    },
+    {
+      "line": 1174,
+      "type": "ART_TITLE",
+      "text": "Retroactividad benigna",
+      "page": 17
+    },
+    {
+      "line": 1175,
+      "type": "ARTICULO",
+      "text": "Artículo 7.- Si, según la nueva ley, el hecho",
+      "page": 17
+    },
+    {
+      "line": 1179,
+      "type": "ART_TITLE",
+      "text": "Leyes temporales",
+      "page": 17
+    },
+    {
+      "line": 1180,
+      "type": "ARTICULO",
+      "text": "Artículo 8.- Las leyes destinadas a regir sólo",
+      "page": 17
+    },
+    {
+      "line": 1184,
+      "type": "ART_TITLE",
+      "text": "Momento de comisión del delito",
+      "page": 17
+    },
+    {
+      "line": 1185,
+      "type": "ARTICULO",
+      "text": "Artículo 9.- El momento de la comisión de un delito",
+      "page": 17
+    },
+    {
+      "line": 1189,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 18
+    },
+    {
+      "line": 1190,
+      "type": "H2",
+      "text": "APLICACIÓN PERSONAL",
+      "page": 18
+    },
+    {
+      "line": 1191,
+      "type": "ART_TITLE",
+      "text": "Principio de Igualdad",
+      "page": 18
+    },
+    {
+      "line": 1192,
+      "type": "ARTICULO",
+      "text": "Artículo 10.- La Ley Penal se aplica con igualdad.",
+      "page": 18
+    },
+    {
+      "line": 1197,
+      "type": "TITULO",
+      "text": "TÍTULO II",
+      "page": 18
+    },
+    {
+      "line": 1198,
+      "type": "H2",
+      "text": "DEL HECHO PUNIBLE",
+      "page": 18
+    },
+    {
+      "line": 1199,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 18
+    },
+    {
+      "line": 1200,
+      "type": "H2",
+      "text": "BASES DE LA PUNIBILIDAD",
+      "page": 18
+    },
+    {
+      "line": 1201,
+      "type": "ART_TITLE",
+      "text": "Delitos y faltas",
+      "page": 18
+    },
+    {
+      "line": 1202,
+      "type": "ARTICULO",
+      "text": "Artículo 11.- Son delitos y faltas las acciones u",
+      "page": 18
+    },
+    {
+      "line": 1204,
+      "type": "ART_TITLE",
+      "text": "Delito doloso y delito culposo",
+      "page": 18
+    },
+    {
+      "line": 1205,
+      "type": "ARTICULO",
+      "text": "Artículo 12.- Las penas establecidas por la ley",
+      "page": 18
+    },
+    {
+      "line": 1209,
+      "type": "ART_TITLE",
+      "text": "Omisión impropia",
+      "page": 18
+    },
+    {
+      "line": 1210,
+      "type": "ARTICULO",
+      "text": "Artículo 13 .- El que omite impedir la realización",
+      "page": 18
+    },
+    {
+      "line": 1220,
+      "type": "ART_TITLE",
+      "text": "Error de tipo y error de prohibición",
+      "page": 18
+    },
+    {
+      "line": 1221,
+      "type": "ARTICULO",
+      "text": "Artículo 14.- El error sobre un elemento del tipo",
+      "page": 18
+    },
+    {
+      "line": 1233,
+      "type": "ARTICULO",
+      "text": "Artículo 15.- El que por su cultura o costumbres",
+      "page": 18
+    },
+    {
+      "line": 1249,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 18
+    },
+    {
+      "line": 1250,
+      "type": "H2",
+      "text": "TENTATIVA",
+      "page": 18
+    },
+    {
+      "line": 1251,
+      "type": "ART_TITLE",
+      "text": "Tentativa",
+      "page": 18
+    },
+    {
+      "line": 1252,
+      "type": "ARTICULO",
+      "text": "Artículo 16.- En la tentativa el agente comienza",
+      "page": 18
+    },
+    {
+      "line": 1264,
+      "type": "ART_TITLE",
+      "text": "Tentativa impune",
+      "page": 18
+    },
+    {
+      "line": 1265,
+      "type": "ARTICULO",
+      "text": "Artículo 17.- No es punible la tentativa cuando es",
+      "page": 18
+    },
+    {
+      "line": 1269,
+      "type": "ART_TITLE",
+      "text": "Desistimiento voluntario -",
+      "page": 18
+    },
+    {
+      "line": 1270,
+      "type": "ART_TITLE",
+      "text": "Arrepentimiento activo",
+      "page": 18
+    },
+    {
+      "line": 1271,
+      "type": "ARTICULO",
+      "text": "Artículo 18.- Si el agente desiste voluntariamente",
+      "page": 18
+    },
+    {
+      "line": 1276,
+      "type": "ART_TITLE",
+      "text": "Participación de varios agentes",
+      "page": 18
+    },
+    {
+      "line": 1278,
+      "type": "ARTICULO",
+      "text": "Artículo 19.- Si varios agentes participan en",
+      "page": 18
+    },
+    {
+      "line": 1284,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 18
+    },
+    {
+      "line": 1285,
+      "type": "H2",
+      "text": "CAUSAS QUE EXIMEN O ATENÚAN",
+      "page": 18
+    },
+    {
+      "line": 1286,
+      "type": "H2",
+      "text": "LA RESPONSABILIDAD PENAL",
+      "page": 18
+    },
+    {
+      "line": 1287,
+      "type": "ART_TITLE",
+      "text": "Inimputabilidad",
+      "page": 18
+    },
+    {
+      "line": 1288,
+      "type": "ARTICULO",
+      "text": "Artículo 20.- Está exento de responsabilidad",
+      "page": 18
+    },
+    {
+      "line": 1381,
+      "type": "ART_TITLE",
+      "text": "Responsabilidad restringida",
+      "page": 19
+    },
+    {
+      "line": 1382,
+      "type": "ARTICULO",
+      "text": "Artículo 21.- En los casos del artículo 20, cuando",
+      "page": 19
+    },
+    {
+      "line": 1396,
+      "type": "ARTICULO",
+      "text": "Artículo 22.- “Podrá reducirse prudencialmente",
+      "page": 19
+    },
+    {
+      "line": 1427,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 20
+    },
+    {
+      "line": 1428,
+      "type": "H2",
+      "text": "AUTORÍA Y PARTICIPACIÓN",
+      "page": 20
+    },
+    {
+      "line": 1429,
+      "type": "ART_TITLE",
+      "text": "Autoría, autoría mediata y coautoría",
+      "page": 20
+    },
+    {
+      "line": 1430,
+      "type": "ARTICULO",
+      "text": "Artículo 23.- El que realiza por sí o por medio",
+      "page": 20
+    },
+    {
+      "line": 1434,
+      "type": "ART_TITLE",
+      "text": "Instigación",
+      "page": 20
+    },
+    {
+      "line": 1435,
+      "type": "ARTICULO",
+      "text": "Artículo 24.- El que, dolosamente, determina a",
+      "page": 20
+    },
+    {
+      "line": 1440,
+      "type": "ARTICULO",
+      "text": "Artículo 25.- El que, dolosamente, preste auxilio",
+      "page": 20
+    },
+    {
+      "line": 1453,
+      "type": "ART_TITLE",
+      "text": "Incomunicabilidad en las",
+      "page": 20
+    },
+    {
+      "line": 1455,
+      "type": "ARTICULO",
+      "text": "Artículo 26.- Las circunstancias y cualidades que",
+      "page": 20
+    },
+    {
+      "line": 1459,
+      "type": "ART_TITLE",
+      "text": "Actuación en nombre de otro",
+      "page": 20
+    },
+    {
+      "line": 1460,
+      "type": "ARTICULO",
+      "text": "Artículo 27.- El que actúa como órgano de",
+      "page": 20
+    },
+    {
+      "line": 1467,
+      "type": "TITULO",
+      "text": "TÍTULO III",
+      "page": 20
+    },
+    {
+      "line": 1468,
+      "type": "H2",
+      "text": "DE LAS PENAS",
+      "page": 20
+    },
+    {
+      "line": 1469,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 20
+    },
+    {
+      "line": 1470,
+      "type": "H2",
+      "text": "CLASES DE PENA",
+      "page": 20
+    },
+    {
+      "line": 1471,
+      "type": "ART_TITLE",
+      "text": "Clases de pena",
+      "page": 20
+    },
+    {
+      "line": 1472,
+      "type": "ARTICULO",
+      "text": "Artículo 28.- Las penas aplicables de conformidad",
+      "page": 20
+    },
+    {
+      "line": 1478,
+      "type": "SECCION",
+      "text": "SECCIÓN I",
+      "page": 20
+    },
+    {
+      "line": 1479,
+      "type": "H2",
+      "text": "PENA PRIVATIVA DE LIBERTAD",
+      "page": 20
+    },
+    {
+      "line": 1481,
+      "type": "ARTICULO",
+      "text": "Artículo 29.- La pena privativa de libertad puede",
+      "page": 20
+    },
+    {
+      "line": 1489,
+      "type": "ARTICULO",
+      "text": "Artículo 29-A.- La pena de vigilancia electrónica",
+      "page": 20
+    },
+    {
+      "line": 1537,
+      "type": "SECCION",
+      "text": "SECCIÓN II",
+      "page": 21
+    },
+    {
+      "line": 1538,
+      "type": "H2",
+      "text": "PENAS RESTRICTIVAS DE LIBERTAD",
+      "page": 21
+    },
+    {
+      "line": 1540,
+      "type": "ARTICULO",
+      "text": "Artículo 30.- La pena restrictiva de libertad es",
+      "page": 21
+    },
+    {
+      "line": 1554,
+      "type": "ARTICULO",
+      "text": "Artículo 30-A.- La expulsión regulada en el",
+      "page": 21
+    },
+    {
+      "line": 1579,
+      "type": "SECCION",
+      "text": "SECCIÓN III",
+      "page": 21
+    },
+    {
+      "line": 1580,
+      "type": "H2",
+      "text": "PENAS LIMITATIVAS DE DERECHOS",
+      "page": 21
+    },
+    {
+      "line": 1581,
+      "type": "ART_TITLE",
+      "text": "Penas limitativas de derechos - Clases",
+      "page": 21
+    },
+    {
+      "line": 1582,
+      "type": "ARTICULO",
+      "text": "Artículo 31.- Las penas limitativas de derechos",
+      "page": 21
+    },
+    {
+      "line": 1588,
+      "type": "ARTICULO",
+      "text": "Artículo 32.- Las penas limitativas de derechos",
+      "page": 21
+    },
+    {
+      "line": 1597,
+      "type": "ART_TITLE",
+      "text": "Duración de las penas limitativas de",
+      "page": 21
+    },
+    {
+      "line": 1599,
+      "type": "ARTICULO",
+      "text": "Artículo 33.- La duración de las penas de",
+      "page": 21
+    },
+    {
+      "line": 1606,
+      "type": "ARTICULO",
+      "text": "Artículo 34.-",
+      "page": 21
+    },
+    {
+      "line": 1635,
+      "type": "ARTICULO",
+      "text": "Artículo 35.-",
+      "page": 22
+    },
+    {
+      "line": 1658,
+      "type": "ARTICULO",
+      "text": "Artículo 36.- La inhabilitación produce, según",
+      "page": 22
+    },
+    {
+      "line": 1775,
+      "type": "ART_TITLE",
+      "text": "Inhabilitación principal o accesoria",
+      "page": 23
+    },
+    {
+      "line": 1776,
+      "type": "ARTICULO",
+      "text": "Artículo 37.- La pena de inhabilitación puede ser",
+      "page": 23
+    },
+    {
+      "line": 1779,
+      "type": "ARTICULO",
+      "text": "Artículo 38.- La inhabilitación principal se",
+      "page": 23
+    },
+    {
+      "line": 1788,
+      "type": "ART_TITLE",
+      "text": "Inhabilitación accesoria",
+      "page": 23
+    },
+    {
+      "line": 1789,
+      "type": "ARTICULO",
+      "text": "Artículo 39.- La inhabilitación se impondrá como",
+      "page": 23
+    },
+    {
+      "line": 1797,
+      "type": "ART_TITLE",
+      "text": "Inhabilitación accesoria en los",
+      "page": 23
+    },
+    {
+      "line": 1799,
+      "type": "ARTICULO",
+      "text": "Artículo 40.- La pena de inhabilitación prevista en",
+      "page": 23
+    },
+    {
+      "line": 1802,
+      "type": "SECCION",
+      "text": "SECCIÓN IV",
+      "page": 23
+    },
+    {
+      "line": 1803,
+      "type": "H2",
+      "text": "PENA DE MULTA",
+      "page": 23
+    },
+    {
+      "line": 1804,
+      "type": "ART_TITLE",
+      "text": "Concepto",
+      "page": 23
+    },
+    {
+      "line": 1805,
+      "type": "ARTICULO",
+      "text": "Artículo 41.- La pena de multa obliga al",
+      "page": 23
+    },
+    {
+      "line": 1813,
+      "type": "ART_TITLE",
+      "text": "Extensión de la pena de multa",
+      "page": 23
+    },
+    {
+      "line": 1814,
+      "type": "ARTICULO",
+      "text": "Artículo 42.- La pena de multa se extenderá",
+      "page": 23
+    },
+    {
+      "line": 1819,
+      "type": "ARTICULO",
+      "text": "Artículo 43.- El importe del día-multa no podrá",
+      "page": 23
+    },
+    {
+      "line": 1823,
+      "type": "ART_TITLE",
+      "text": "Plazo del pago de multa",
+      "page": 23
+    },
+    {
+      "line": 1824,
+      "type": "ARTICULO",
+      "text": "Artículo 44.- La multa deberá ser pagada dentro",
+      "page": 23
+    },
+    {
+      "line": 1839,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 23
+    },
+    {
+      "line": 1840,
+      "type": "H2",
+      "text": "APLICACIÓN DE LA PENA",
+      "page": 23
+    },
+    {
+      "line": 1843,
+      "type": "ARTICULO",
+      "text": "Artículo 45.- El juez, al momento de fundamentar",
+      "page": 23
+    },
+    {
+      "line": 1858,
+      "type": "ARTICULO",
+      "text": "Artículo 45-A.- Toda condena contiene",
+      "page": 23
+    },
+    {
+      "line": 1901,
+      "type": "ARTICULO",
+      "text": "Artículo 46.-",
+      "page": 24
+    },
+    {
+      "line": 1994,
+      "type": "ARTICULO",
+      "text": "Artículo 46-A.- Constituye circunstancia",
+      "page": 25
+    },
+    {
+      "line": 2041,
+      "type": "ARTICULO",
+      "text": "Artículo 46-B.- El que, después de haber",
+      "page": 25
+    },
+    {
+      "line": 2082,
+      "type": "ARTICULO",
+      "text": "Artículo 46-C.- Si el agente comete un nuevo",
+      "page": 25
+    },
+    {
+      "line": 2113,
+      "type": "ARTICULO",
+      "text": "Artículo 46-D.- Constituye circunstancia",
+      "page": 26
+    },
+    {
+      "line": 2149,
+      "type": "ARTICULO",
+      "text": "Artículo 46-E.- La pena es aumentada hasta en",
+      "page": 26
+    },
+    {
+      "line": 2164,
+      "type": "ART_TITLE",
+      "text": "Cómputo de la detención",
+      "page": 26
+    },
+    {
+      "line": 2177,
+      "type": "ARTICULO",
+      "text": "Artículo 48.- Cuando varias disposiciones son",
+      "page": 26
+    },
+    {
+      "line": 2184,
+      "type": "ART_TITLE",
+      "text": "Delito continuado",
+      "page": 26
+    },
+    {
+      "line": 2203,
+      "type": "ARTICULO",
+      "text": "Artículo 50.- Cuando concurran varios hechos",
+      "page": 26
+    },
+    {
+      "line": 2214,
+      "type": "ARTICULO",
+      "text": "Artículo 50-A.- Cuando se realiza una pluralidad",
+      "page": 26
+    },
+    {
+      "line": 2225,
+      "type": "ARTICULO",
+      "text": "Artículo 51.- Si después de la sentencia",
+      "page": 26
+    },
+    {
+      "line": 2237,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 27
+    },
+    {
+      "line": 2238,
+      "type": "H2",
+      "text": "DE LAS CONVERSIONES",
+      "page": 27
+    },
+    {
+      "line": 2239,
+      "type": "SECCION",
+      "text": "SECCIÓN I",
+      "page": 27
+    },
+    {
+      "line": 2240,
+      "type": "H2",
+      "text": "CONVERSIONES DE LA PENA",
+      "page": 27
+    },
+    {
+      "line": 2241,
+      "type": "H2",
+      "text": "PRIVATIVA DE LIBERTAD",
+      "page": 27
+    },
+    {
+      "line": 2243,
+      "type": "ARTICULO",
+      "text": "Artículo 52.- En los casos que no fuera",
+      "page": 27
+    },
+    {
+      "line": 2270,
+      "type": "ARTICULO",
+      "text": "Artículo 52-A.- El juez competente puede",
+      "page": 27
+    },
+    {
+      "line": 2292,
+      "type": "ARTICULO",
+      "text": "Artículo 52-B.-",
+      "page": 27
+    },
+    {
+      "line": 2337,
+      "type": "ART_TITLE",
+      "text": "Revocación de la conversión",
+      "page": 27
+    },
+    {
+      "line": 2338,
+      "type": "ARTICULO",
+      "text": "Artículo 53.- Si el condenado no cumple,",
+      "page": 27
+    },
+    {
+      "line": 2352,
+      "type": "ART_TITLE",
+      "text": "Revocación de la conversión por la",
+      "page": 28
+    },
+    {
+      "line": 2354,
+      "type": "ARTICULO",
+      "text": "Artículo 54.- Cuando el condenado cometa,",
+      "page": 28
+    },
+    {
+      "line": 2367,
+      "type": "SECCION",
+      "text": "SECCIÓN II",
+      "page": 28
+    },
+    {
+      "line": 2368,
+      "type": "H2",
+      "text": "CONVERSIÓN DE LA PENA DE PRESTACIÓN",
+      "page": 28
+    },
+    {
+      "line": 2369,
+      "type": "H2",
+      "text": "DE SERVICIOS A LA COMUNIDAD",
+      "page": 28
+    },
+    {
+      "line": 2370,
+      "type": "H2",
+      "text": "Y LIMITATIVA DE DÍAS LIBRES",
+      "page": 28
+    },
+    {
+      "line": 2374,
+      "type": "ARTICULO",
+      "text": "Artículo 55.- Si el condenado no cumple,",
+      "page": 28
+    },
+    {
+      "line": 2385,
+      "type": "SECCION",
+      "text": "SECCIÓN III",
+      "page": 28
+    },
+    {
+      "line": 2386,
+      "type": "H2",
+      "text": "CONVERSIÓN DE LA PENA DE MULTA",
+      "page": 28
+    },
+    {
+      "line": 2387,
+      "type": "ART_TITLE",
+      "text": "Conversión de la pena de multa",
+      "page": 28
+    },
+    {
+      "line": 2388,
+      "type": "ARTICULO",
+      "text": "Artículo 56.- Si el condenado solvente no paga",
+      "page": 28
+    },
+    {
+      "line": 2406,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 28
+    },
+    {
+      "line": 2407,
+      "type": "H2",
+      "text": "SUSPENSIÓN DE LA EJECUCIÓN",
+      "page": 28
+    },
+    {
+      "line": 2408,
+      "type": "H2",
+      "text": "DE LA PENA",
+      "page": 28
+    },
+    {
+      "line": 2409,
+      "type": "ART_TITLE",
+      "text": "Requisitos",
+      "page": 28
+    },
+    {
+      "line": 2410,
+      "type": "ARTICULO",
+      "text": "Artículo 57.- “El juez puede suspender la",
+      "page": 28
+    },
+    {
+      "line": 2451,
+      "type": "ART_TITLE",
+      "text": "Capítulo IX del Título IV del Libro Segundo.” (*) Párrafo",
+      "page": 28
+    },
+    {
+      "line": 2455,
+      "type": "ARTICULO",
+      "text": "Artículo 58.- Al suspender la ejecución de",
+      "page": 28
+    },
+    {
+      "line": 2484,
+      "type": "ART_TITLE",
+      "text": "Efectos del incumplimiento",
+      "page": 29
+    },
+    {
+      "line": 2485,
+      "type": "ARTICULO",
+      "text": "Artículo 59.- Si durante el período de suspensión",
+      "page": 29
+    },
+    {
+      "line": 2494,
+      "type": "ART_TITLE",
+      "text": "Revocación de la suspensión de la pena",
+      "page": 29
+    },
+    {
+      "line": 2495,
+      "type": "ARTICULO",
+      "text": "Artículo 60.- La suspensión será revocada si",
+      "page": 29
+    },
+    {
+      "line": 2502,
+      "type": "ART_TITLE",
+      "text": "Condena no pronunciada",
+      "page": 29
+    },
+    {
+      "line": 2503,
+      "type": "ARTICULO",
+      "text": "Artículo 61.- La condena se considera como no",
+      "page": 29
+    },
+    {
+      "line": 2508,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO V",
+      "page": 29
+    },
+    {
+      "line": 2509,
+      "type": "H2",
+      "text": "RESERVA DEL FALLO CONDENATORIO",
+      "page": 29
+    },
+    {
+      "line": 2511,
+      "type": "ART_TITLE",
+      "text": "Circunstancias y requisitos",
+      "page": 29
+    },
+    {
+      "line": 2512,
+      "type": "ARTICULO",
+      "text": "Artículo 62.- El juez puede disponer la reserva del",
+      "page": 29
+    },
+    {
+      "line": 2545,
+      "type": "ART_TITLE",
+      "text": "Condenatorio",
+      "page": 29
+    },
+    {
+      "line": 2546,
+      "type": "ARTICULO",
+      "text": "Artículo 63.- El Juez al disponer la reserva del",
+      "page": 29
+    },
+    {
+      "line": 2567,
+      "type": "ARTICULO",
+      "text": "Artículo 64.- Al disponer la reserva del fallo,",
+      "page": 29
+    },
+    {
+      "line": 2597,
+      "type": "ART_TITLE",
+      "text": "Efectos del incumplimiento",
+      "page": 30
+    },
+    {
+      "line": 2598,
+      "type": "ARTICULO",
+      "text": "Artículo 65.- Cuando el agente incumpliera",
+      "page": 30
+    },
+    {
+      "line": 2606,
+      "type": "ART_TITLE",
+      "text": "Revocación del régimen de prueba",
+      "page": 30
+    },
+    {
+      "line": 2607,
+      "type": "ARTICULO",
+      "text": "Artículo 66.- El régimen de prueba podrá ser",
+      "page": 30
+    },
+    {
+      "line": 2616,
+      "type": "ART_TITLE",
+      "text": "Extinción del régimen de prueba",
+      "page": 30
+    },
+    {
+      "line": 2617,
+      "type": "ARTICULO",
+      "text": "Artículo 67.- Si el régimen de prueba no fuera",
+      "page": 30
+    },
+    {
+      "line": 2620,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VI",
+      "page": 30
+    },
+    {
+      "line": 2621,
+      "type": "H2",
+      "text": "EXENCIÓN DE PENA",
+      "page": 30
+    },
+    {
+      "line": 2623,
+      "type": "ARTICULO",
+      "text": "Artículo 68.- El juez puede eximir de sanción",
+      "page": 30
+    },
+    {
+      "line": 2630,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VII",
+      "page": 30
+    },
+    {
+      "line": 2631,
+      "type": "H2",
+      "text": "REHABILITACIÓN",
+      "page": 30
+    },
+    {
+      "line": 2633,
+      "type": "ARTICULO",
+      "text": "Artículo 69.- El que ha cumplido la pena o",
+      "page": 30
+    },
+    {
+      "line": 2638,
+      "type": "ART_TITLE",
+      "text": "La rehabilitación produce los efectos siguientes:",
+      "page": 30
+    },
+    {
+      "line": 2653,
+      "type": "ART_TITLE",
+      "text": "La rehabilitación automática no opera cuando",
+      "page": 30
+    },
+    {
+      "line": 2671,
+      "type": "ARTICULO",
+      "text": "Artículo 70.- Producida la rehabilitación, los",
+      "page": 30
+    },
+    {
+      "line": 2677,
+      "type": "TITULO",
+      "text": "TÍTULO IV",
+      "page": 30
+    },
+    {
+      "line": 2678,
+      "type": "H2",
+      "text": "DE LAS MEDIDAS DE SEGURIDAD",
+      "page": 30
+    },
+    {
+      "line": 2679,
+      "type": "ART_TITLE",
+      "text": "Medidas de seguridad. Clases",
+      "page": 30
+    },
+    {
+      "line": 2680,
+      "type": "ARTICULO",
+      "text": "Artículo 71.- Las medidas de seguridad que",
+      "page": 30
+    },
+    {
+      "line": 2684,
+      "type": "ART_TITLE",
+      "text": "Requisitos para la aplicación",
+      "page": 31
+    },
+    {
+      "line": 2685,
+      "type": "ARTICULO",
+      "text": "Artículo 72.- Las medidas de seguridad se",
+      "page": 31
+    },
+    {
+      "line": 2694,
+      "type": "ART_TITLE",
+      "text": "Principio de Proporcionalidad",
+      "page": 31
+    },
+    {
+      "line": 2695,
+      "type": "ARTICULO",
+      "text": "Artículo 73.- Las medidas de seguridad deben",
+      "page": 31
+    },
+    {
+      "line": 2699,
+      "type": "ART_TITLE",
+      "text": "Internación",
+      "page": 31
+    },
+    {
+      "line": 2700,
+      "type": "ARTICULO",
+      "text": "Artículo 74.- La internación consiste en el",
+      "page": 31
+    },
+    {
+      "line": 2707,
+      "type": "ART_TITLE",
+      "text": "Duración de la internación",
+      "page": 31
+    },
+    {
+      "line": 2708,
+      "type": "ARTICULO",
+      "text": "Artículo 75.- La duración de la medida de",
+      "page": 31
+    },
+    {
+      "line": 2719,
+      "type": "ART_TITLE",
+      "text": "Tratamiento ambulatorio",
+      "page": 31
+    },
+    {
+      "line": 2720,
+      "type": "ARTICULO",
+      "text": "Artículo 76.- El tratamiento ambulatorio será",
+      "page": 31
+    },
+    {
+      "line": 2724,
+      "type": "ART_TITLE",
+      "text": "Aplicación de internación",
+      "page": 31
+    },
+    {
+      "line": 2726,
+      "type": "ARTICULO",
+      "text": "Artículo 77.- Cuando se necesite aplicar una",
+      "page": 31
+    },
+    {
+      "line": 2734,
+      "type": "TITULO",
+      "text": "TÍTULO V",
+      "page": 31
+    },
+    {
+      "line": 2735,
+      "type": "H2",
+      "text": "EXTINCIÓN DE LA ACCIÓN PENAL",
+      "page": 31
+    },
+    {
+      "line": 2736,
+      "type": "H2",
+      "text": "Y DE LA PENA",
+      "page": 31
+    },
+    {
+      "line": 2737,
+      "type": "ART_TITLE",
+      "text": "Causales de extinción",
+      "page": 31
+    },
+    {
+      "line": 2747,
+      "type": "ART_TITLE",
+      "text": "Extinción de la acción penal",
+      "page": 31
+    },
+    {
+      "line": 2749,
+      "type": "ARTICULO",
+      "text": "Artículo 79.- Se extingue la acción penal si de la",
+      "page": 31
+    },
+    {
+      "line": 2752,
+      "type": "ART_TITLE",
+      "text": "Plazos de prescripción",
+      "page": 31
+    },
+    {
+      "line": 2754,
+      "type": "ARTICULO",
+      "text": "Artículo 80.- La acción penal prescribe en un",
+      "page": 31
+    },
+    {
+      "line": 2780,
+      "type": "ART_TITLE",
+      "text": "Reducción de los plazos de prescripción",
+      "page": 31
+    },
+    {
+      "line": 2781,
+      "type": "ARTICULO",
+      "text": "Artículo 81.- Los plazos de prescripción se",
+      "page": 31
+    },
+    {
+      "line": 2785,
+      "type": "ART_TITLE",
+      "text": "Inicio de los plazos de prescripción",
+      "page": 31
+    },
+    {
+      "line": 2786,
+      "type": "ARTICULO",
+      "text": "Artículo 82.- Los plazos de prescripción de la",
+      "page": 31
+    },
+    {
+      "line": 2796,
+      "type": "ART_TITLE",
+      "text": "Interrupción de la prescripción",
+      "page": 32
+    },
+    {
+      "line": 2798,
+      "type": "ARTICULO",
+      "text": "Artículo 83.- La prescripción de la acción se",
+      "page": 32
+    },
+    {
+      "line": 2810,
+      "type": "ART_TITLE",
+      "text": "Suspensión de la prescripción",
+      "page": 32
+    },
+    {
+      "line": 2821,
+      "type": "ART_TITLE",
+      "text": "Extinción de la ejecución de la pena. Casos",
+      "page": 32
+    },
+    {
+      "line": 2822,
+      "type": "ARTICULO",
+      "text": "Artículo 85.- La ejecución de la pena se extingue:",
+      "page": 32
+    },
+    {
+      "line": 2829,
+      "type": "ART_TITLE",
+      "text": "Plazo de prescripción de la pena",
+      "page": 32
+    },
+    {
+      "line": 2830,
+      "type": "ARTICULO",
+      "text": "Artículo 86.- El plazo de prescripción de la pena",
+      "page": 32
+    },
+    {
+      "line": 2834,
+      "type": "ART_TITLE",
+      "text": "Interrupción del plazo de prescripción de la",
+      "page": 32
+    },
+    {
+      "line": 2836,
+      "type": "ARTICULO",
+      "text": "Artículo 87.- Se interrumpe el plazo de",
+      "page": 32
+    },
+    {
+      "line": 2848,
+      "type": "ART_TITLE",
+      "text": "Sin embargo, la pena prescribe, en todo caso, en",
+      "page": 32
+    },
+    {
+      "line": 2850,
+      "type": "ART_TITLE",
+      "text": "Individualización de la prescripción",
+      "page": 32
+    },
+    {
+      "line": 2851,
+      "type": "ARTICULO",
+      "text": "Artículo 88.- La prescripción corre, se suspende",
+      "page": 32
+    },
+    {
+      "line": 2856,
+      "type": "ARTICULO",
+      "text": "Artículo 88-A.- La pena y la acción penal son",
+      "page": 32
+    },
+    {
+      "line": 2862,
+      "type": "ART_TITLE",
+      "text": "Amnistía e indulto. Efectos",
+      "page": 32
+    },
+    {
+      "line": 2863,
+      "type": "ARTICULO",
+      "text": "Artículo 89.- La amnistía elimina legalmente el",
+      "page": 32
+    },
+    {
+      "line": 2867,
+      "type": "ART_TITLE",
+      "text": "Cosa Juzgada",
+      "page": 32
+    },
+    {
+      "line": 2868,
+      "type": "ARTICULO",
+      "text": "Artículo 90.- Nadie puede ser perseguido por",
+      "page": 32
+    },
+    {
+      "line": 2871,
+      "type": "ART_TITLE",
+      "text": "Renuncia a la prescripción",
+      "page": 32
+    },
+    {
+      "line": 2873,
+      "type": "ARTICULO",
+      "text": "Artículo 91.- El imputado tiene derecho a",
+      "page": 32
+    },
+    {
+      "line": 2875,
+      "type": "TITULO",
+      "text": "TÍTULO VI",
+      "page": 32
+    },
+    {
+      "line": 2876,
+      "type": "H2",
+      "text": "DE LA REPARACIÓN CIVIL Y",
+      "page": 32
+    },
+    {
+      "line": 2877,
+      "type": "H2",
+      "text": "CONSECUENCIAS ACCESORIAS",
+      "page": 32
+    },
+    {
+      "line": 2878,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 32
+    },
+    {
+      "line": 2879,
+      "type": "H2",
+      "text": "REPARACIÓN CIVIL",
+      "page": 32
+    },
+    {
+      "line": 2882,
+      "type": "ARTICULO",
+      "text": "Artículo 92.- La reparación civil se determina",
+      "page": 32
+    },
+    {
+      "line": 2888,
+      "type": "ART_TITLE",
+      "text": "Contenido de la reparación civil",
+      "page": 32
+    },
+    {
+      "line": 2889,
+      "type": "ARTICULO",
+      "text": "Artículo 93.- La reparación comprende:",
+      "page": 32
+    },
+    {
+      "line": 2894,
+      "type": "ARTICULO",
+      "text": "Artículo 94.- La restitución se hace con el",
+      "page": 32
+    },
+    {
+      "line": 2898,
+      "type": "ART_TITLE",
+      "text": "Responsabilidad solidaria",
+      "page": 32
+    },
+    {
+      "line": 2899,
+      "type": "ARTICULO",
+      "text": "Artículo 95.- La reparación civil es solidaria entre",
+      "page": 32
+    },
+    {
+      "line": 2902,
+      "type": "ART_TITLE",
+      "text": "Transmisión de la reparación civil a",
+      "page": 33
+    },
+    {
+      "line": 2904,
+      "type": "ARTICULO",
+      "text": "Artículo 96.- La obligación de la reparación civil",
+      "page": 33
+    },
+    {
+      "line": 2909,
+      "type": "ART_TITLE",
+      "text": "Protección de la reparación civil",
+      "page": 33
+    },
+    {
+      "line": 2910,
+      "type": "ARTICULO",
+      "text": "Artículo 97.- Los actos practicados o las",
+      "page": 33
+    },
+    {
+      "line": 2916,
+      "type": "ART_TITLE",
+      "text": "Condenado insolvente",
+      "page": 33
+    },
+    {
+      "line": 2917,
+      "type": "ARTICULO",
+      "text": "Artículo 98.- En caso que el condenado no tenga",
+      "page": 33
+    },
+    {
+      "line": 2921,
+      "type": "ART_TITLE",
+      "text": "Reparación civil de terceros responsables",
+      "page": 33
+    },
+    {
+      "line": 2922,
+      "type": "ARTICULO",
+      "text": "Artículo 99.- Procede la acción civil contra",
+      "page": 33
+    },
+    {
+      "line": 2925,
+      "type": "ART_TITLE",
+      "text": "Inextinguibilidad de la acción civil",
+      "page": 33
+    },
+    {
+      "line": 2926,
+      "type": "ARTICULO",
+      "text": "Artículo 100.- La acción civil derivada del hecho",
+      "page": 33
+    },
+    {
+      "line": 2929,
+      "type": "ART_TITLE",
+      "text": "Aplicación suplementaria del Código Civil",
+      "page": 33
+    },
+    {
+      "line": 2930,
+      "type": "ARTICULO",
+      "text": "Artículo 101.- La reparación civil se rige, además,",
+      "page": 33
+    },
+    {
+      "line": 2932,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 33
+    },
+    {
+      "line": 2933,
+      "type": "H2",
+      "text": "CONSECUENCIAS ACCESORIAS",
+      "page": 33
+    },
+    {
+      "line": 2936,
+      "type": "ARTICULO",
+      "text": "Artículo 102.- El juez, siempre que no proceda",
+      "page": 33
+    },
+    {
+      "line": 2970,
+      "type": "ART_TITLE",
+      "text": "Proporcionalidad",
+      "page": 33
+    },
+    {
+      "line": 2971,
+      "type": "ARTICULO",
+      "text": "Artículo 103.- Cuando los efectos o instrumentos",
+      "page": 33
+    },
+    {
+      "line": 2977,
+      "type": "ART_TITLE",
+      "text": "Privación de beneficios obtenidos por",
+      "page": 33
+    },
+    {
+      "line": 2979,
+      "type": "ARTICULO",
+      "text": "Artículo 104.- El Juez decretará, asimismo,",
+      "page": 33
+    },
+    {
+      "line": 2988,
+      "type": "ARTICULO",
+      "text": "Artículo 105.- Si el hecho punible fuere cometido",
+      "page": 33
+    },
+    {
+      "line": 3037,
+      "type": "ARTICULO",
+      "text": "Artículo 105-A.- Las medidas contempladas",
+      "page": 34
+    },
+    {
+      "line": 3059,
+      "type": "LIBRO",
+      "text": "LIBRO SEGUNDO",
+      "page": 34
+    },
+    {
+      "line": 3060,
+      "type": "H2",
+      "text": "PARTE ESPECIAL",
+      "page": 34
+    },
+    {
+      "line": 3061,
+      "type": "H2",
+      "text": "DELITOS",
+      "page": 34
+    },
+    {
+      "line": 3062,
+      "type": "TITULO",
+      "text": "TÍTULO I",
+      "page": 34
+    },
+    {
+      "line": 3063,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA VIDA,",
+      "page": 34
+    },
+    {
+      "line": 3064,
+      "type": "H2",
+      "text": "EL CUERPO Y LA SALUD",
+      "page": 34
+    },
+    {
+      "line": 3065,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 34
+    },
+    {
+      "line": 3066,
+      "type": "H2",
+      "text": "HOMICIDIO",
+      "page": 34
+    },
+    {
+      "line": 3067,
+      "type": "ART_TITLE",
+      "text": "Homicidio Simple",
+      "page": 34
+    },
+    {
+      "line": 3068,
+      "type": "ARTICULO",
+      "text": "Artículo 106.- El que mata a otro será reprimido",
+      "page": 34
+    },
+    {
+      "line": 3072,
+      "type": "ARTICULO",
+      "text": "Artículo 107.- El que, a sabiendas, mata a su",
+      "page": 34
+    },
+    {
+      "line": 3090,
+      "type": "ARTICULO",
+      "text": "Artículo 108.- Será reprimido con pena privativa",
+      "page": 34
+    },
+    {
+      "line": 3103,
+      "type": "ARTICULO",
+      "text": "Artículo 108-A.- El que mata a uno de los altos",
+      "page": 34
+    },
+    {
+      "line": 3117,
+      "type": "ARTICULO",
+      "text": "Artículo 108-B.- Será reprimido con pena",
+      "page": 34
+    },
+    {
+      "line": 3163,
+      "type": "ARTICULO",
+      "text": "Artículo 108-C.- El que mata a otro por orden,",
+      "page": 35
+    },
+    {
+      "line": 3195,
+      "type": "ARTICULO",
+      "text": "Artículo 108-D.- Será reprimido con pena",
+      "page": 35
+    },
+    {
+      "line": 3210,
+      "type": "ART_TITLE",
+      "text": "Homicidio por emoción violenta",
+      "page": 35
+    },
+    {
+      "line": 3211,
+      "type": "ARTICULO",
+      "text": "Artículo 109.- El que mata a otro bajo el imperio",
+      "page": 35
+    },
+    {
+      "line": 3218,
+      "type": "ART_TITLE",
+      "text": "Infanticidio",
+      "page": 35
+    },
+    {
+      "line": 3219,
+      "type": "ARTICULO",
+      "text": "Artículo 110.- La madre que mata a su hijo durante",
+      "page": 35
+    },
+    {
+      "line": 3226,
+      "type": "ARTICULO",
+      "text": "Artículo 111.- El que, por culpa, ocasiona la",
+      "page": 35
+    },
+    {
+      "line": 3256,
+      "type": "ART_TITLE",
+      "text": "Homicidio piadoso",
+      "page": 36
+    },
+    {
+      "line": 3257,
+      "type": "ARTICULO",
+      "text": "Artículo 112.- El que, por piedad, mata a un",
+      "page": 36
+    },
+    {
+      "line": 3262,
+      "type": "ART_TITLE",
+      "text": "Instigación o ayuda al suicidio",
+      "page": 36
+    },
+    {
+      "line": 3263,
+      "type": "ARTICULO",
+      "text": "Artículo 113.- El que instiga a otro al suicidio o",
+      "page": 36
+    },
+    {
+      "line": 3269,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 36
+    },
+    {
+      "line": 3270,
+      "type": "H2",
+      "text": "ABORTO",
+      "page": 36
+    },
+    {
+      "line": 3271,
+      "type": "ART_TITLE",
+      "text": "Autoaborto",
+      "page": 36
+    },
+    {
+      "line": 3272,
+      "type": "ARTICULO",
+      "text": "Artículo 114.- La mujer que causa su aborto,",
+      "page": 36
+    },
+    {
+      "line": 3277,
+      "type": "ART_TITLE",
+      "text": "Aborto consentido",
+      "page": 36
+    },
+    {
+      "line": 3278,
+      "type": "ARTICULO",
+      "text": "Artículo 115.- El que causa el aborto con el",
+      "page": 36
+    },
+    {
+      "line": 3285,
+      "type": "ART_TITLE",
+      "text": "Aborto sin consentimiento",
+      "page": 36
+    },
+    {
+      "line": 3286,
+      "type": "ARTICULO",
+      "text": "Artículo 116.- El que hace abortar a una mujer sin",
+      "page": 36
+    },
+    {
+      "line": 3292,
+      "type": "ART_TITLE",
+      "text": "Agravación de la pena por la",
+      "page": 36
+    },
+    {
+      "line": 3294,
+      "type": "ARTICULO",
+      "text": "Artículo 117.- El médico, obstetra, farmacéutico,",
+      "page": 36
+    },
+    {
+      "line": 3299,
+      "type": "ART_TITLE",
+      "text": "Aborto preterintencional",
+      "page": 36
+    },
+    {
+      "line": 3300,
+      "type": "ARTICULO",
+      "text": "Artículo 118.- El que, con violencia, ocasiona",
+      "page": 36
+    },
+    {
+      "line": 3306,
+      "type": "ART_TITLE",
+      "text": "Aborto terapéutico",
+      "page": 36
+    },
+    {
+      "line": 3307,
+      "type": "ARTICULO",
+      "text": "Artículo 119.- No es punible el aborto practicado",
+      "page": 36
+    },
+    {
+      "line": 3313,
+      "type": "ART_TITLE",
+      "text": "Aborto sentimental y eugenésico",
+      "page": 36
+    },
+    {
+      "line": 3314,
+      "type": "ARTICULO",
+      "text": "Artículo 120.- El aborto será reprimido con pena",
+      "page": 36
+    },
+    {
+      "line": 3324,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 36
+    },
+    {
+      "line": 3325,
+      "type": "H2",
+      "text": "LESIONES",
+      "page": 36
+    },
+    {
+      "line": 3327,
+      "type": "ARTICULO",
+      "text": "Artículo 121.- El que causa a otro daño grave en",
+      "page": 36
+    },
+    {
+      "line": 3331,
+      "type": "ART_TITLE",
+      "text": "Se consideran lesiones graves:",
+      "page": 36
+    },
+    {
+      "line": 3393,
+      "type": "ARTICULO",
+      "text": "Artículo 121-A.- (*) Artículo derogado por la única",
+      "page": 37
+    },
+    {
+      "line": 3398,
+      "type": "ARTICULO",
+      "text": "Artículo 121-B.- En los supuestos previstos en el",
+      "page": 37
+    },
+    {
+      "line": 3451,
+      "type": "ARTICULO",
+      "text": "Artículo 122.-",
+      "page": 37
+    },
+    {
+      "line": 3521,
+      "type": "ARTICULO",
+      "text": "Artículo 122-A.- (*) Artículo derogado por la",
+      "page": 38
+    },
+    {
+      "line": 3526,
+      "type": "ARTICULO",
+      "text": "Artículo 122-B.- El que de cualquier modo cause",
+      "page": 38
+    },
+    {
+      "line": 3562,
+      "type": "ART_TITLE",
+      "text": "Lesiones preterintencionales",
+      "page": 38
+    },
+    {
+      "line": 3564,
+      "type": "ARTICULO",
+      "text": "Artículo 123.- Cuando el agente produzca un",
+      "page": 38
+    },
+    {
+      "line": 3569,
+      "type": "ARTICULO",
+      "text": "Artículo 124.- El que por culpa causa a otro un",
+      "page": 38
+    },
+    {
+      "line": 3600,
+      "type": "ART_TITLE",
+      "text": "Daños al Concebido",
+      "page": 38
+    },
+    {
+      "line": 3608,
+      "type": "ARTICULO",
+      "text": "Artículo 124-B.- El nivel del daño psíquico",
+      "page": 39
+    },
+    {
+      "line": 3629,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 39
+    },
+    {
+      "line": 3630,
+      "type": "H2",
+      "text": "EXPOSICIÓN A PELIGRO O ABANDONO",
+      "page": 39
+    },
+    {
+      "line": 3631,
+      "type": "H2",
+      "text": "DE PERSONAS EN PELIGRO",
+      "page": 39
+    },
+    {
+      "line": 3632,
+      "type": "ART_TITLE",
+      "text": "Exposición o abandono peligrosos",
+      "page": 39
+    },
+    {
+      "line": 3642,
+      "type": "ART_TITLE",
+      "text": "Omisión de socorro y exposición a peligro",
+      "page": 39
+    },
+    {
+      "line": 3643,
+      "type": "ARTICULO",
+      "text": "Artículo 126.- El que omite prestar socorro a una",
+      "page": 39
+    },
+    {
+      "line": 3647,
+      "type": "ART_TITLE",
+      "text": "Omisión de auxilio o aviso a la autoridad",
+      "page": 39
+    },
+    {
+      "line": 3648,
+      "type": "ARTICULO",
+      "text": "Artículo 127.- El que encuentra a un herido",
+      "page": 39
+    },
+    {
+      "line": 3657,
+      "type": "ARTICULO",
+      "text": "Artículo 128.- El que expone a peligro la vida o",
+      "page": 39
+    },
+    {
+      "line": 3674,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO V",
+      "page": 39
+    },
+    {
+      "line": 3675,
+      "type": "H2",
+      "text": "GENOCIDIO",
+      "page": 39
+    },
+    {
+      "line": 3678,
+      "type": "ART_TITLE",
+      "text": "La figura del genocidio ha sido considerada",
+      "page": 39
+    },
+    {
+      "line": 3681,
+      "type": "ART_TITLE",
+      "text": "Formas agravadas",
+      "page": 39
+    },
+    {
+      "line": 3690,
+      "type": "TITULO",
+      "text": "“TÍTULO I-A",
+      "page": 39
+    },
+    {
+      "line": 3691,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA DIGNIDAD HUMANA”",
+      "page": 39
+    },
+    {
+      "line": 3694,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 39
+    },
+    {
+      "line": 3695,
+      "type": "H2",
+      "text": "TRATA DE PERSONAS",
+      "page": 39
+    },
+    {
+      "line": 3697,
+      "type": "ARTICULO",
+      "text": "Artículo 129-A.-",
+      "page": 39
+    },
+    {
+      "line": 3733,
+      "type": "ARTICULO",
+      "text": "Artículo 129-B.- La pena será no menor de doce",
+      "page": 40
+    },
+    {
+      "line": 3768,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 40
+    },
+    {
+      "line": 3771,
+      "type": "ARTICULO",
+      "text": "Artículo 129-C.- El que, mediante violencia,",
+      "page": 40
+    },
+    {
+      "line": 3826,
+      "type": "ARTICULO",
+      "text": "Artículo 129-D.- El que promueve, favorece o",
+      "page": 40
+    },
+    {
+      "line": 3878,
+      "type": "ARTICULO",
+      "text": "Artículo 129-E.- El que, mediante una prestación",
+      "page": 41
+    },
+    {
+      "line": 3888,
+      "type": "ARTICULO",
+      "text": "Artículo 129-F.- El que, sin participar de los actos",
+      "page": 41
+    },
+    {
+      "line": 3925,
+      "type": "ARTICULO",
+      "text": "Artículo 129-G.- El que dirige o gestiona la",
+      "page": 41
+    },
+    {
+      "line": 3974,
+      "type": "ARTICULO",
+      "text": "Artículo 129-H.- El que hace ejercer a niña, niño",
+      "page": 42
+    },
+    {
+      "line": 4034,
+      "type": "ARTICULO",
+      "text": "Artículo 129-I.- El que promueve, favorece",
+      "page": 42
+    },
+    {
+      "line": 4101,
+      "type": "ARTICULO",
+      "text": "Artículo 129-J.- El que, mediante una prestación",
+      "page": 43
+    },
+    {
+      "line": 4116,
+      "type": "ARTICULO",
+      "text": "Artículo 129-K.- El que, sin participar de los actos",
+      "page": 43
+    },
+    {
+      "line": 4169,
+      "type": "ARTICULO",
+      "text": "Artículo 129-L.- El que dirige o gestiona la",
+      "page": 43
+    },
+    {
+      "line": 4227,
+      "type": "ARTICULO",
+      "text": "Artículo 129-M.- “El que posee, promueve,",
+      "page": 44
+    },
+    {
+      "line": 4263,
+      "type": "ARTICULO",
+      "text": "Artículo 129-N.- El gerente o responsable u",
+      "page": 44
+    },
+    {
+      "line": 4277,
+      "type": "ART_TITLE",
+      "text": "Artículo 129-Ñ.- El que obliga a una persona a",
+      "page": 44
+    },
+    {
+      "line": 4324,
+      "type": "ARTICULO",
+      "text": "Artículo 129-O.- El que somete u obliga a otra",
+      "page": 45
+    },
+    {
+      "line": 4372,
+      "type": "ARTICULO",
+      "text": "Artículo 129-P.- Será reprimido con pena",
+      "page": 45
+    },
+    {
+      "line": 4400,
+      "type": "ARTICULO",
+      "text": "Artículo 129-Q.- El que, mediante violencia,",
+      "page": 45
+    },
+    {
+      "line": 4418,
+      "type": "TITULO",
+      "text": "TÍTULO II",
+      "page": 46
+    },
+    {
+      "line": 4419,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL HONOR",
+      "page": 46
+    },
+    {
+      "line": 4420,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO ÚNICO",
+      "page": 46
+    },
+    {
+      "line": 4421,
+      "type": "H2",
+      "text": "INJURIA, CALUMNIA Y DIFAMACIÓN",
+      "page": 46
+    },
+    {
+      "line": 4422,
+      "type": "ART_TITLE",
+      "text": "Injuria",
+      "page": 46
+    },
+    {
+      "line": 4423,
+      "type": "ARTICULO",
+      "text": "Artículo 130.- El que ofende o ultraja a una",
+      "page": 46
+    },
+    {
+      "line": 4428,
+      "type": "ART_TITLE",
+      "text": "Calumnia",
+      "page": 46
+    },
+    {
+      "line": 4429,
+      "type": "ARTICULO",
+      "text": "Artículo 131.- El que atribuye falsamente a otro",
+      "page": 46
+    },
+    {
+      "line": 4432,
+      "type": "ART_TITLE",
+      "text": "Difamación",
+      "page": 46
+    },
+    {
+      "line": 4433,
+      "type": "ARTICULO",
+      "text": "Artículo 132.- El que, ante varias personas,",
+      "page": 46
+    },
+    {
+      "line": 4440,
+      "type": "ART_TITLE",
+      "text": "Si la difamación se refiere al hecho previsto en",
+      "page": 46
+    },
+    {
+      "line": 4455,
+      "type": "ART_TITLE",
+      "text": "Conductas atípicas",
+      "page": 46
+    },
+    {
+      "line": 4456,
+      "type": "ARTICULO",
+      "text": "Artículo 133.- No se comete injuria ni difamación",
+      "page": 46
+    },
+    {
+      "line": 4466,
+      "type": "ART_TITLE",
+      "text": "Prueba de la verdad de las imputaciones",
+      "page": 46
+    },
+    {
+      "line": 4467,
+      "type": "ARTICULO",
+      "text": "Artículo 134.- El autor del delito previsto en",
+      "page": 46
+    },
+    {
+      "line": 4486,
+      "type": "ART_TITLE",
+      "text": "Inadmisibilidad de la prueba",
+      "page": 46
+    },
+    {
+      "line": 4487,
+      "type": "ARTICULO",
+      "text": "Artículo 135.- No se admite en ningún caso la",
+      "page": 46
+    },
+    {
+      "line": 4498,
+      "type": "ART_TITLE",
+      "text": "Difamación o injuria encubierta o equívoca",
+      "page": 46
+    },
+    {
+      "line": 4499,
+      "type": "ARTICULO",
+      "text": "Artículo 136.- El acusado de difamación o injuria",
+      "page": 46
+    },
+    {
+      "line": 4503,
+      "type": "ART_TITLE",
+      "text": "Injurias recíprocas",
+      "page": 46
+    },
+    {
+      "line": 4504,
+      "type": "ARTICULO",
+      "text": "Artículo 137.- En el caso de injurias recíprocas",
+      "page": 46
+    },
+    {
+      "line": 4510,
+      "type": "ART_TITLE",
+      "text": "Ejercicio privado de la acción penal",
+      "page": 46
+    },
+    {
+      "line": 4511,
+      "type": "ARTICULO",
+      "text": "Artículo 138.- En los delitos previstos en este",
+      "page": 46
+    },
+    {
+      "line": 4519,
+      "type": "TITULO",
+      "text": "TÍTULO III",
+      "page": 46
+    },
+    {
+      "line": 4520,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA FAMILIA",
+      "page": 46
+    },
+    {
+      "line": 4521,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 46
+    },
+    {
+      "line": 4522,
+      "type": "H2",
+      "text": "MATRIMONIOS ILEGALES",
+      "page": 46
+    },
+    {
+      "line": 4523,
+      "type": "ART_TITLE",
+      "text": "Bigamia",
+      "page": 46
+    },
+    {
+      "line": 4524,
+      "type": "ARTICULO",
+      "text": "Artículo 139.- El casado que contrae matrimonio",
+      "page": 46
+    },
+    {
+      "line": 4531,
+      "type": "ART_TITLE",
+      "text": "Matrimonio con persona casada",
+      "page": 47
+    },
+    {
+      "line": 4532,
+      "type": "ARTICULO",
+      "text": "Artículo 140.- El no casado que, a sabiendas,",
+      "page": 47
+    },
+    {
+      "line": 4536,
+      "type": "ART_TITLE",
+      "text": "Autorización ilegal de matrimonio",
+      "page": 47
+    },
+    {
+      "line": 4537,
+      "type": "ARTICULO",
+      "text": "Artículo 141.- El funcionario público que, a",
+      "page": 47
+    },
+    {
+      "line": 4545,
+      "type": "ART_TITLE",
+      "text": "Inobservancia de formalidades legales",
+      "page": 47
+    },
+    {
+      "line": 4546,
+      "type": "ARTICULO",
+      "text": "Artículo 142.- El funcionario público, párroco u",
+      "page": 47
+    },
+    {
+      "line": 4553,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 47
+    },
+    {
+      "line": 4554,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL ESTADO CIVIL",
+      "page": 47
+    },
+    {
+      "line": 4555,
+      "type": "ART_TITLE",
+      "text": "Alteración o supresión del estado civil",
+      "page": 47
+    },
+    {
+      "line": 4556,
+      "type": "ARTICULO",
+      "text": "Artículo 143.- El que, con perjuicio ajeno, altera o",
+      "page": 47
+    },
+    {
+      "line": 4561,
+      "type": "ART_TITLE",
+      "text": "Fingimiento de embarazo o parto",
+      "page": 47
+    },
+    {
+      "line": 4562,
+      "type": "ARTICULO",
+      "text": "Artículo 144.- La mujer que finge embarazo o",
+      "page": 47
+    },
+    {
+      "line": 4570,
+      "type": "ART_TITLE",
+      "text": "Alteración o supresión de la",
+      "page": 47
+    },
+    {
+      "line": 4572,
+      "type": "ARTICULO",
+      "text": "Artículo 145.- El que exponga u oculte a un",
+      "page": 47
+    },
+    {
+      "line": 4577,
+      "type": "ART_TITLE",
+      "text": "Móvil de honor",
+      "page": 47
+    },
+    {
+      "line": 4578,
+      "type": "ARTICULO",
+      "text": "Artículo 146.- Si el agente de alguno de los",
+      "page": 47
+    },
+    {
+      "line": 4582,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 47
+    },
+    {
+      "line": 4583,
+      "type": "H2",
+      "text": "ATENTADOS CONTRA LA PATRIA POTESTAD",
+      "page": 47
+    },
+    {
+      "line": 4585,
+      "type": "ARTICULO",
+      "text": "Artículo 147.- El que, mediando relación parental,",
+      "page": 47
+    },
+    {
+      "line": 4595,
+      "type": "ART_TITLE",
+      "text": "Inducción a la fuga de menor",
+      "page": 47
+    },
+    {
+      "line": 4596,
+      "type": "ARTICULO",
+      "text": "Artículo 148.- El que induce a un menor de edad",
+      "page": 47
+    },
+    {
+      "line": 4603,
+      "type": "ARTICULO",
+      "text": "Artículo 148-A.- El que participa en pandillas",
+      "page": 47
+    },
+    {
+      "line": 4628,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 47
+    },
+    {
+      "line": 4629,
+      "type": "H2",
+      "text": "OMISIÓN DE ASISTENCIA FAMILIAR",
+      "page": 47
+    },
+    {
+      "line": 4630,
+      "type": "ART_TITLE",
+      "text": "Omisión de prestación de alimentos",
+      "page": 47
+    },
+    {
+      "line": 4631,
+      "type": "ARTICULO",
+      "text": "Artículo 149.- El que omite cumplir su obligación",
+      "page": 47
+    },
+    {
+      "line": 4645,
+      "type": "ART_TITLE",
+      "text": "Abandono de mujer gestante",
+      "page": 48
+    },
+    {
+      "line": 4647,
+      "type": "ARTICULO",
+      "text": "Artículo 150.- El que abandona a una mujer en",
+      "page": 48
+    },
+    {
+      "line": 4652,
+      "type": "TITULO",
+      "text": "TÍTULO IV",
+      "page": 48
+    },
+    {
+      "line": 4653,
+      "type": "H2",
+      "text": "DELITOS CONTRA",
+      "page": 48
+    },
+    {
+      "line": 4654,
+      "type": "H2",
+      "text": "LA LIBERTAD",
+      "page": 48
+    },
+    {
+      "line": 4655,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 48
+    },
+    {
+      "line": 4656,
+      "type": "H2",
+      "text": "VIOLACIÓN DE LA",
+      "page": 48
+    },
+    {
+      "line": 4657,
+      "type": "H2",
+      "text": "LIBERTAD PERSONAL",
+      "page": 48
+    },
+    {
+      "line": 4658,
+      "type": "ART_TITLE",
+      "text": "Coacción",
+      "page": 48
+    },
+    {
+      "line": 4659,
+      "type": "ARTICULO",
+      "text": "Artículo 151.- El que, mediante amenaza o",
+      "page": 48
+    },
+    {
+      "line": 4665,
+      "type": "ARTICULO",
+      "text": "Artículo 151-A.- El que, de forma reiterada,",
+      "page": 48
+    },
+    {
+      "line": 4709,
+      "type": "ARTICULO",
+      "text": "Artículo 152.- Será reprimido con pena privativa",
+      "page": 48
+    },
+    {
+      "line": 4764,
+      "type": "ARTICULO",
+      "text": "Artículo 153.- (*) Artículo sin contenido por la",
+      "page": 49
+    },
+    {
+      "line": 4767,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 49
+    },
+    {
+      "line": 4768,
+      "type": "H2",
+      "text": "VIOLACIÓN DE LA INTIMIDAD",
+      "page": 49
+    },
+    {
+      "line": 4769,
+      "type": "ART_TITLE",
+      "text": "Violación de la intimidad",
+      "page": 49
+    },
+    {
+      "line": 4770,
+      "type": "ARTICULO",
+      "text": "Artículo 154.- El que viola la intimidad de la vida",
+      "page": 49
+    },
+    {
+      "line": 4785,
+      "type": "ARTICULO",
+      "text": "Artículo 154-A.- El que ilegítimamente",
+      "page": 49
+    },
+    {
+      "line": 4801,
+      "type": "ARTICULO",
+      "text": "Artículo 154-B.- El que, sin autorización, difunde,",
+      "page": 49
+    },
+    {
+      "line": 4831,
+      "type": "ARTICULO",
+      "text": "Artículo 155.- Si el agente es funcionario o",
+      "page": 49
+    },
+    {
+      "line": 4845,
+      "type": "ART_TITLE",
+      "text": "Revelación de la intimidad personal y",
+      "page": 49
+    },
+    {
+      "line": 4847,
+      "type": "ARTICULO",
+      "text": "Artículo 156.- El que revela aspectos de la",
+      "page": 49
+    },
+    {
+      "line": 4852,
+      "type": "ART_TITLE",
+      "text": "Uso indebido de archivos computarizados",
+      "page": 49
+    },
+    {
+      "line": 4853,
+      "type": "ARTICULO",
+      "text": "Artículo 157.- El que, indebidamente, organiza,",
+      "page": 49
+    },
+    {
+      "line": 4864,
+      "type": "ARTICULO",
+      "text": "Artículo 158.- Los delitos previstos en este",
+      "page": 49
+    },
+    {
+      "line": 4870,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 50
+    },
+    {
+      "line": 4871,
+      "type": "H2",
+      "text": "VIOLACIÓN DE DOMICILIO",
+      "page": 50
+    },
+    {
+      "line": 4872,
+      "type": "ART_TITLE",
+      "text": "Violación de domicilio",
+      "page": 50
+    },
+    {
+      "line": 4873,
+      "type": "ARTICULO",
+      "text": "Artículo 159.- El que, sin derecho, penetra en",
+      "page": 50
+    },
+    {
+      "line": 4880,
+      "type": "ART_TITLE",
+      "text": "Allanamiento ilegal de domicilio",
+      "page": 50
+    },
+    {
+      "line": 4881,
+      "type": "ARTICULO",
+      "text": "Artículo 160.- El funcionario o servidor público",
+      "page": 50
+    },
+    {
+      "line": 4888,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 50
+    },
+    {
+      "line": 4889,
+      "type": "H2",
+      "text": "VIOLACIÓN DEL SECRETO",
+      "page": 50
+    },
+    {
+      "line": 4890,
+      "type": "H2",
+      "text": "DE LAS COMUNICACIONES",
+      "page": 50
+    },
+    {
+      "line": 4891,
+      "type": "ART_TITLE",
+      "text": "Violación de correspondencia",
+      "page": 50
+    },
+    {
+      "line": 4892,
+      "type": "ARTICULO",
+      "text": "Artículo 161.- El que abre, indebidamente, una",
+      "page": 50
+    },
+    {
+      "line": 4901,
+      "type": "ARTICULO",
+      "text": "Artículo 162.- El que, indebidamente, interviene",
+      "page": 50
+    },
+    {
+      "line": 4927,
+      "type": "ARTICULO",
+      "text": "Artículo 162-A.- El que fabrica, adquiere, introduce",
+      "page": 50
+    },
+    {
+      "line": 4939,
+      "type": "ARTICULO",
+      "text": "Artículo 162-B.- El que, indebidamente,",
+      "page": 50
+    },
+    {
+      "line": 4961,
+      "type": "ART_TITLE",
+      "text": "Supresión o extravío indebido de",
+      "page": 50
+    },
+    {
+      "line": 4963,
+      "type": "ARTICULO",
+      "text": "Artículo 163.- El que, indebidamente, suprime",
+      "page": 50
+    },
+    {
+      "line": 4968,
+      "type": "ART_TITLE",
+      "text": "Publicación indebida de correspondencia",
+      "page": 50
+    },
+    {
+      "line": 4969,
+      "type": "ARTICULO",
+      "text": "Artículo 164.- El que publica, indebidamente, una",
+      "page": 50
+    },
+    {
+      "line": 4975,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO V",
+      "page": 51
+    },
+    {
+      "line": 4976,
+      "type": "H2",
+      "text": "VIOLACIÓN DEL SECRETO PROFESIONAL",
+      "page": 51
+    },
+    {
+      "line": 4977,
+      "type": "ART_TITLE",
+      "text": "Violación del secreto profesional",
+      "page": 51
+    },
+    {
+      "line": 4978,
+      "type": "ARTICULO",
+      "text": "Artículo 165.- El que, teniendo información",
+      "page": 51
+    },
+    {
+      "line": 4985,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VI",
+      "page": 51
+    },
+    {
+      "line": 4986,
+      "type": "H2",
+      "text": "VIOLACIÓN DE LA LIBERTAD",
+      "page": 51
+    },
+    {
+      "line": 4987,
+      "type": "H2",
+      "text": "DE REUNIÓN",
+      "page": 51
+    },
+    {
+      "line": 4988,
+      "type": "ART_TITLE",
+      "text": "Perturbación de reunión pública",
+      "page": 51
+    },
+    {
+      "line": 4989,
+      "type": "ARTICULO",
+      "text": "Artículo 166.- El que, con violencia o amenaza,",
+      "page": 51
+    },
+    {
+      "line": 4993,
+      "type": "ART_TITLE",
+      "text": "Prohibición de reunión pública lícita por",
+      "page": 51
+    },
+    {
+      "line": 4995,
+      "type": "ARTICULO",
+      "text": "Artículo 167.- El funcionario público que",
+      "page": 51
+    },
+    {
+      "line": 5002,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VII",
+      "page": 51
+    },
+    {
+      "line": 5003,
+      "type": "H2",
+      "text": "VIOLACIÓN DE LA LIBERTAD",
+      "page": 51
+    },
+    {
+      "line": 5004,
+      "type": "H2",
+      "text": "DE TRABAJO",
+      "page": 51
+    },
+    {
+      "line": 5007,
+      "type": "ARTICULO",
+      "text": "Artículo 168.- El que, mediante violencia",
+      "page": 51
+    },
+    {
+      "line": 5021,
+      "type": "ARTICULO",
+      "text": "Artículo 168-A.- El que, deliberadamente,",
+      "page": 51
+    },
+    {
+      "line": 5039,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VIII",
+      "page": 51
+    },
+    {
+      "line": 5040,
+      "type": "H2",
+      "text": "VIOLACIÓN DE LA LIBERTAD DE EXPRESIÓN",
+      "page": 51
+    },
+    {
+      "line": 5041,
+      "type": "ART_TITLE",
+      "text": "Violación de la libertad de expresión",
+      "page": 51
+    },
+    {
+      "line": 5042,
+      "type": "ARTICULO",
+      "text": "Artículo 169.- El funcionario público que,",
+      "page": 51
+    },
+    {
+      "line": 5048,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IX",
+      "page": 51
+    },
+    {
+      "line": 5049,
+      "type": "H2",
+      "text": "VIOLACIÓN DE LA LIBERTAD SEXUAL",
+      "page": 51
+    },
+    {
+      "line": 5051,
+      "type": "ARTICULO",
+      "text": "Artículo 170.- El que con violencia, física o",
+      "page": 51
+    },
+    {
+      "line": 5120,
+      "type": "ARTICULO",
+      "text": "Artículo 171.- El que tiene acceso carnal con",
+      "page": 52
+    },
+    {
+      "line": 5132,
+      "type": "ARTICULO",
+      "text": "Artículo 172.- El que tiene acceso carnal con",
+      "page": 52
+    },
+    {
+      "line": 5145,
+      "type": "ARTICULO",
+      "text": "Artículo 173.- El que tiene acceso carnal por vía",
+      "page": 52
+    },
+    {
+      "line": 5153,
+      "type": "ARTICULO",
+      "text": "Artículo 173-A.- (*) Artículo derogado por la única",
+      "page": 52
+    },
+    {
+      "line": 5158,
+      "type": "ARTICULO",
+      "text": "Artículo 174.- El que, aprovechando la situación",
+      "page": 52
+    },
+    {
+      "line": 5170,
+      "type": "ARTICULO",
+      "text": "Artículo 175.- El que, mediante engaño tiene",
+      "page": 52
+    },
+    {
+      "line": 5181,
+      "type": "ARTICULO",
+      "text": "Artículo 176.- El que sin propósito de tener",
+      "page": 52
+    },
+    {
+      "line": 5203,
+      "type": "ART_TITLE",
+      "text": "Tocamientos, actos de connotación sexual o",
+      "page": 53
+    },
+    {
+      "line": 5205,
+      "type": "ARTICULO",
+      "text": "Artículo 176-A.- El que sin propósito de tener",
+      "page": 53
+    },
+    {
+      "line": 5218,
+      "type": "ARTICULO",
+      "text": "Artículo 176-B.- El que, de cualquier forma,",
+      "page": 53
+    },
+    {
+      "line": 5256,
+      "type": "ARTICULO",
+      "text": "Artículo 176-C.- El que amenaza o intimida a una",
+      "page": 53
+    },
+    {
+      "line": 5275,
+      "type": "ARTICULO",
+      "text": "Artículo 176-D.- El que de cualquier forma",
+      "page": 53
+    },
+    {
+      "line": 5290,
+      "type": "ARTICULO",
+      "text": "Artículo 177.- En cualquiera de los casos de",
+      "page": 53
+    },
+    {
+      "line": 5318,
+      "type": "ARTICULO",
+      "text": "Artículo 178.- En los casos comprendidos en este",
+      "page": 53
+    },
+    {
+      "line": 5339,
+      "type": "ARTICULO",
+      "text": "Artículo 178-A.- El condenado a pena privativa",
+      "page": 54
+    },
+    {
+      "line": 5348,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO X",
+      "page": 54
+    },
+    {
+      "line": 5349,
+      "type": "H2",
+      "text": "PROXENETISMO",
+      "page": 54
+    },
+    {
+      "line": 5351,
+      "type": "ARTICULO",
+      "text": "Artículo 179.- El que promueve o favorece la",
+      "page": 54
+    },
+    {
+      "line": 5387,
+      "type": "ARTICULO",
+      "text": "Artículo 180.- El que gestiona el beneficio",
+      "page": 54
+    },
+    {
+      "line": 5418,
+      "type": "ARTICULO",
+      "text": "Artículo 181.- El que dirige o gestiona la",
+      "page": 54
+    },
+    {
+      "line": 5452,
+      "type": "ARTICULO",
+      "text": "Artículo 181-A.- (*) Artículo eliminado por la",
+      "page": 55
+    },
+    {
+      "line": 5456,
+      "type": "ARTICULO",
+      "text": "Artículo 181-B.- En los casos de los delitos",
+      "page": 55
+    },
+    {
+      "line": 5465,
+      "type": "ARTICULO",
+      "text": "Artículo 182.- (*) Artículo derogado por la quinta",
+      "page": 55
+    },
+    {
+      "line": 5468,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO XI",
+      "page": 55
+    },
+    {
+      "line": 5469,
+      "type": "H2",
+      "text": "OFENSAS AL PUDOR PÚBLICO",
+      "page": 55
+    },
+    {
+      "line": 5471,
+      "type": "ARTICULO",
+      "text": "Artículo 183.- Será reprimido con pena privativa",
+      "page": 55
+    },
+    {
+      "line": 5475,
+      "type": "ART_TITLE",
+      "text": "Será reprimido con pena privativa de libertad no",
+      "page": 55
+    },
+    {
+      "line": 5511,
+      "type": "ARTICULO",
+      "text": "Artículo 183-A.- (*) Artículo eliminado por la",
+      "page": 55
+    },
+    {
+      "line": 5516,
+      "type": "ARTICULO",
+      "text": "Artículo 183-B.- El que contacta con un menor",
+      "page": 55
+    },
+    {
+      "line": 5531,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO XII",
+      "page": 55
+    },
+    {
+      "line": 5532,
+      "type": "H2",
+      "text": "DISPOSICIÓN COMÚN",
+      "page": 55
+    },
+    {
+      "line": 5533,
+      "type": "ART_TITLE",
+      "text": "Castigo a cómplices",
+      "page": 55
+    },
+    {
+      "line": 5534,
+      "type": "ARTICULO",
+      "text": "Artículo 184.- Los ascendientes, descendientes,",
+      "page": 55
+    },
+    {
+      "line": 5543,
+      "type": "ARTICULO",
+      "text": "Artículo 184-A.- El juez impone como pena",
+      "page": 55
+    },
+    {
+      "line": 5554,
+      "type": "TITULO",
+      "text": "TÍTULO V",
+      "page": 56
+    },
+    {
+      "line": 5555,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL PATRIMONIO",
+      "page": 56
+    },
+    {
+      "line": 5556,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 56
+    },
+    {
+      "line": 5557,
+      "type": "H2",
+      "text": "HURTO",
+      "page": 56
+    },
+    {
+      "line": 5559,
+      "type": "ARTICULO",
+      "text": "Artículo 185.- El que, para obtener provecho, se",
+      "page": 56
+    },
+    {
+      "line": 5574,
+      "type": "ARTICULO",
+      "text": "Artículo 186.- El agente será reprimido con pena",
+      "page": 56
+    },
+    {
+      "line": 5644,
+      "type": "ARTICULO",
+      "text": "Artículo 186-A.- El que fabrique, ensamble,",
+      "page": 56
+    },
+    {
+      "line": 5656,
+      "type": "ART_TITLE",
+      "text": "Hurto de uso",
+      "page": 56
+    },
+    {
+      "line": 5657,
+      "type": "ARTICULO",
+      "text": "Artículo 187.- El que sustrae un bien mueble",
+      "page": 56
+    },
+    {
+      "line": 5661,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 56
+    },
+    {
+      "line": 5662,
+      "type": "H2",
+      "text": "ROBO",
+      "page": 56
+    },
+    {
+      "line": 5664,
+      "type": "ARTICULO",
+      "text": "Artículo 188.- El que se apodera ilegítimamente",
+      "page": 56
+    },
+    {
+      "line": 5674,
+      "type": "ARTICULO",
+      "text": "Artículo 189.- La pena será no menor de doce ni",
+      "page": 57
+    },
+    {
+      "line": 5737,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO II “A”",
+      "page": 57
+    },
+    {
+      "line": 5738,
+      "type": "H2",
+      "text": "ABIGEATO”",
+      "page": 57
+    },
+    {
+      "line": 5741,
+      "type": "ART_TITLE",
+      "text": "Hurto de ganado",
+      "page": 57
+    },
+    {
+      "line": 5742,
+      "type": "ARTICULO",
+      "text": "Artículo 189-A.- El que, para obtener provecho,",
+      "page": 57
+    },
+    {
+      "line": 5760,
+      "type": "ART_TITLE",
+      "text": "Hurto de uso de ganado",
+      "page": 57
+    },
+    {
+      "line": 5761,
+      "type": "ARTICULO",
+      "text": "Artículo 189-B.- El que sustrae ganado ajeno,",
+      "page": 57
+    },
+    {
+      "line": 5771,
+      "type": "ART_TITLE",
+      "text": "Robo de ganado",
+      "page": 57
+    },
+    {
+      "line": 5772,
+      "type": "ARTICULO",
+      "text": "Artículo 189-C.- El que se apodera ilegítimamente",
+      "page": 57
+    },
+    {
+      "line": 5800,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 58
+    },
+    {
+      "line": 5801,
+      "type": "H2",
+      "text": "APROPIACIÓN ILÍCITA",
+      "page": 58
+    },
+    {
+      "line": 5803,
+      "type": "ARTICULO",
+      "text": "Artículo 190.- El que, en su provecho o de",
+      "page": 58
+    },
+    {
+      "line": 5833,
+      "type": "ART_TITLE",
+      "text": "Sustracción de bien propio",
+      "page": 58
+    },
+    {
+      "line": 5834,
+      "type": "ARTICULO",
+      "text": "Artículo 191.- El propietario de un bien mueble",
+      "page": 58
+    },
+    {
+      "line": 5839,
+      "type": "ART_TITLE",
+      "text": "Apropiación irregular",
+      "page": 58
+    },
+    {
+      "line": 5840,
+      "type": "ARTICULO",
+      "text": "Artículo 192.- Será reprimido con pena privativa",
+      "page": 58
+    },
+    {
+      "line": 5852,
+      "type": "ART_TITLE",
+      "text": "Apropiación de prenda",
+      "page": 58
+    },
+    {
+      "line": 5853,
+      "type": "ARTICULO",
+      "text": "Artículo 193.- El que vende la prenda constituida",
+      "page": 58
+    },
+    {
+      "line": 5858,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 58
+    },
+    {
+      "line": 5859,
+      "type": "H2",
+      "text": "RECEPTACIÓN",
+      "page": 58
+    },
+    {
+      "line": 5861,
+      "type": "ART_TITLE",
+      "text": "Articulo 194.- El que adquiere, recibe en",
+      "page": 58
+    },
+    {
+      "line": 5880,
+      "type": "ARTICULO",
+      "text": "Artículo 194-A.- El que distribuya una señal de",
+      "page": 58
+    },
+    {
+      "line": 5890,
+      "type": "ARTICULO",
+      "text": "Artículo 195.- La pena privativa de libertad será",
+      "page": 58
+    },
+    {
+      "line": 5934,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO V",
+      "page": 59
+    },
+    {
+      "line": 5935,
+      "type": "H2",
+      "text": "ESTAFA Y OTRAS DEFRAUDACIONES",
+      "page": 59
+    },
+    {
+      "line": 5936,
+      "type": "ART_TITLE",
+      "text": "Estafa",
+      "page": 59
+    },
+    {
+      "line": 5937,
+      "type": "ARTICULO",
+      "text": "Artículo 196.- El que procura para sí o para otro",
+      "page": 59
+    },
+    {
+      "line": 5944,
+      "type": "ARTICULO",
+      "text": "Artículo 196-A.- La pena será privativa de",
+      "page": 59
+    },
+    {
+      "line": 5971,
+      "type": "ART_TITLE",
+      "text": "Casos de defraudación",
+      "page": 59
+    },
+    {
+      "line": 5972,
+      "type": "ARTICULO",
+      "text": "Artículo 197.- La defraudación será reprimida",
+      "page": 59
+    },
+    {
+      "line": 5989,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VI",
+      "page": 59
+    },
+    {
+      "line": 5990,
+      "type": "H2",
+      "text": "FRAUDE EN LA ADMINISTRACIÓN",
+      "page": 59
+    },
+    {
+      "line": 5991,
+      "type": "H2",
+      "text": "DE PERSONAS JURÍDICAS",
+      "page": 59
+    },
+    {
+      "line": 5993,
+      "type": "ARTICULO",
+      "text": "Artículo 198.- Será reprimido con pena privativa",
+      "page": 59
+    },
+    {
+      "line": 6033,
+      "type": "ARTICULO",
+      "text": "Artículo 198-A.- Será reprimido con la pena",
+      "page": 60
+    },
+    {
+      "line": 6042,
+      "type": "ARTICULO",
+      "text": "Artículo 199.- El que, con la finalidad de obtener",
+      "page": 60
+    },
+    {
+      "line": 6050,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VII",
+      "page": 60
+    },
+    {
+      "line": 6051,
+      "type": "H2",
+      "text": "EXTORSIÓN",
+      "page": 60
+    },
+    {
+      "line": 6053,
+      "type": "ARTICULO",
+      "text": "Artículo 200.-",
+      "page": 60
+    },
+    {
+      "line": 6154,
+      "type": "ART_TITLE",
+      "text": "Chantaje",
+      "page": 61
+    },
+    {
+      "line": 6155,
+      "type": "ARTICULO",
+      "text": "Artículo 201.- El que, haciendo saber a otro que",
+      "page": 61
+    },
+    {
+      "line": 6164,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO VIII",
+      "page": 61
+    },
+    {
+      "line": 6165,
+      "type": "H2",
+      "text": "USURPACIÓN",
+      "page": 61
+    },
+    {
+      "line": 6167,
+      "type": "ARTICULO",
+      "text": "Artículo 202.- Será reprimido con pena privativa",
+      "page": 61
+    },
+    {
+      "line": 6187,
+      "type": "ART_TITLE",
+      "text": "Desvío ilegal del curso de las aguas",
+      "page": 61
+    },
+    {
+      "line": 6188,
+      "type": "ARTICULO",
+      "text": "Artículo 203.- El que, con el fin de obtener para",
+      "page": 61
+    },
+    {
+      "line": 6196,
+      "type": "ARTICULO",
+      "text": "Artículo 204.- La pena privativa de libertad",
+      "page": 61
+    },
+    {
+      "line": 6245,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IX",
+      "page": 61
+    },
+    {
+      "line": 6246,
+      "type": "H2",
+      "text": "DAÑOS",
+      "page": 61
+    },
+    {
+      "line": 6248,
+      "type": "ARTICULO",
+      "text": "Artículo 205.- El que daña, destruye o inutiliza",
+      "page": 61
+    },
+    {
+      "line": 6254,
+      "type": "ART_TITLE",
+      "text": "Formas agravadas",
+      "page": 62
+    },
+    {
+      "line": 6255,
+      "type": "ARTICULO",
+      "text": "Artículo 206.- La pena para el delito previsto en",
+      "page": 62
+    },
+    {
+      "line": 6292,
+      "type": "ARTICULO",
+      "text": "Artículo 206-A.- El que comete actos de crueldad",
+      "page": 62
+    },
+    {
+      "line": 6307,
+      "type": "ART_TITLE",
+      "text": "Producción o venta de alimentos en mal",
+      "page": 62
+    },
+    {
+      "line": 6309,
+      "type": "ARTICULO",
+      "text": "Artículo 207.- El que produce o vende alimentos,",
+      "page": 62
+    },
+    {
+      "line": 6316,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO X",
+      "page": 62
+    },
+    {
+      "line": 6317,
+      "type": "H2",
+      "text": "DELITOS INFORMÁTICOS",
+      "page": 62
+    },
+    {
+      "line": 6321,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO XI",
+      "page": 62
+    },
+    {
+      "line": 6322,
+      "type": "H2",
+      "text": "DISPOSICIÓN COMÚN",
+      "page": 62
+    },
+    {
+      "line": 6324,
+      "type": "ARTICULO",
+      "text": "Artículo 208.- No son reprimibles, sin perjuicio",
+      "page": 62
+    },
+    {
+      "line": 6339,
+      "type": "ARTICULO",
+      "text": "Artículo 208-A.- En cualquiera de los delitos",
+      "page": 62
+    },
+    {
+      "line": 6359,
+      "type": "TITULO",
+      "text": "TÍTULO VI",
+      "page": 62
+    },
+    {
+      "line": 6360,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA CONFIANZA Y",
+      "page": 62
+    },
+    {
+      "line": 6361,
+      "type": "H2",
+      "text": "LA BUENA FE EN LOS NEGOCIOS",
+      "page": 62
+    },
+    {
+      "line": 6362,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO I",
+      "page": 62
+    },
+    {
+      "line": 6363,
+      "type": "H2",
+      "text": "ATENTADOS CONTRA",
+      "page": 62
+    },
+    {
+      "line": 6364,
+      "type": "H2",
+      "text": "EL SISTEMA CREDITICIO”",
+      "page": 62
+    },
+    {
+      "line": 6368,
+      "type": "ART_TITLE",
+      "text": "Actos Ilícitos",
+      "page": 63
+    },
+    {
+      "line": 6418,
+      "type": "ART_TITLE",
+      "text": "Comisión de delito por culpa del agente",
+      "page": 63
+    },
+    {
+      "line": 6426,
+      "type": "ART_TITLE",
+      "text": "Suspensión ilícita de la exigibilidad de las",
+      "page": 63
+    },
+    {
+      "line": 6442,
+      "type": "ART_TITLE",
+      "text": "Beneficios por colaboración",
+      "page": 63
+    },
+    {
+      "line": 6472,
+      "type": "ART_TITLE",
+      "text": "Ejercicio de la acción penal e intervención",
+      "page": 63
+    },
+    {
+      "line": 6485,
+      "type": "ART_TITLE",
+      "text": "Manejo ilegal de patrimonio de propósito",
+      "page": 63
+    },
+    {
+      "line": 6501,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 64
+    },
+    {
+      "line": 6502,
+      "type": "H2",
+      "text": "USURA",
+      "page": 64
+    },
+    {
+      "line": 6503,
+      "type": "ART_TITLE",
+      "text": "Usura",
+      "page": 64
+    },
+    {
+      "line": 6504,
+      "type": "ARTICULO",
+      "text": "Artículo 214.- El que, con el fin de obtener",
+      "page": 64
+    },
+    {
+      "line": 6515,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 64
+    },
+    {
+      "line": 6516,
+      "type": "H2",
+      "text": "LIBRAMIENTOS Y COBRO INDEBIDO",
+      "page": 64
+    },
+    {
+      "line": 6517,
+      "type": "ART_TITLE",
+      "text": "Modalidades de libramientos indebidos",
+      "page": 64
+    },
+    {
+      "line": 6551,
+      "type": "TITULO",
+      "text": "TÍTULO VII",
+      "page": 64
+    },
+    {
+      "line": 6552,
+      "type": "H2",
+      "text": "DELITOS CONTRA LOS DERECHOS",
+      "page": 64
+    },
+    {
+      "line": 6553,
+      "type": "H2",
+      "text": "INTELECTUALES",
+      "page": 64
+    },
+    {
+      "line": 6554,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 64
+    },
+    {
+      "line": 6555,
+      "type": "H2",
+      "text": "DELITOS CONTRA LOS DERECHOS",
+      "page": 64
+    },
+    {
+      "line": 6556,
+      "type": "H2",
+      "text": "DE AUTOR Y CONEXOS",
+      "page": 64
+    },
+    {
+      "line": 6557,
+      "type": "ART_TITLE",
+      "text": "Copia o reproducción no autorizada",
+      "page": 64
+    },
+    {
+      "line": 6582,
+      "type": "ARTICULO",
+      "text": "Artículo 217.- “Será reprimido con pena privativa",
+      "page": 64
+    },
+    {
+      "line": 6619,
+      "type": "ARTICULO",
+      "text": "Artículo 218.- La pena será privativa de libertad",
+      "page": 65
+    },
+    {
+      "line": 6660,
+      "type": "ARTICULO",
+      "text": "Artículo 219.- Será reprimido con pena privativa",
+      "page": 65
+    },
+    {
+      "line": 6670,
+      "type": "ART_TITLE",
+      "text": "Formas agravadas",
+      "page": 65
+    },
+    {
+      "line": 6710,
+      "type": "ARTICULO",
+      "text": "Artículo 220-A.- El que, con fines de",
+      "page": 65
+    },
+    {
+      "line": 6723,
+      "type": "ARTICULO",
+      "text": "Artículo 220-B.- El que, con fines de",
+      "page": 65
+    },
+    {
+      "line": 6739,
+      "type": "ARTICULO",
+      "text": "Artículo 220-C.- El que, con fines de",
+      "page": 66
+    },
+    {
+      "line": 6753,
+      "type": "ARTICULO",
+      "text": "Artículo 220-D.- El que, sin autorización y con",
+      "page": 66
+    },
+    {
+      "line": 6772,
+      "type": "ARTICULO",
+      "text": "Artículo 220-E.- El que fabrique, comercialice,",
+      "page": 66
+    },
+    {
+      "line": 6790,
+      "type": "ARTICULO",
+      "text": "Artículo 220-F.- El que elabore, comercialice,",
+      "page": 66
+    },
+    {
+      "line": 6803,
+      "type": "ARTICULO",
+      "text": "Artículo 221.- En los delitos previstos en este",
+      "page": 66
+    },
+    {
+      "line": 6832,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 66
+    },
+    {
+      "line": 6833,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA",
+      "page": 66
+    },
+    {
+      "line": 6834,
+      "type": "H2",
+      "text": "PROPIEDAD INDUSTRIAL",
+      "page": 66
+    },
+    {
+      "line": 6835,
+      "type": "ART_TITLE",
+      "text": "Fabricación o uso no autorizado de patente",
+      "page": 66
+    },
+    {
+      "line": 6868,
+      "type": "ARTICULO",
+      "text": "Artículo 222-A.- Será reprimido con pena",
+      "page": 67
+    },
+    {
+      "line": 6882,
+      "type": "ARTICULO",
+      "text": "Artículo 222-B.- El que provea, comercialice o",
+      "page": 67
+    },
+    {
+      "line": 6896,
+      "type": "ART_TITLE",
+      "text": "Móviles con IMEI lógico o físico alterado,",
+      "page": 67
+    },
+    {
+      "line": 6898,
+      "type": "ARTICULO",
+      "text": "Artículo 222-C.- El que tenga bajo su disposición,",
+      "page": 67
+    },
+    {
+      "line": 6912,
+      "type": "H2",
+      "text": "IMEI",
+      "page": 67
+    },
+    {
+      "line": 6913,
+      "type": "ARTICULO",
+      "text": "Artículo 222-D.- El que posea dispositivos,",
+      "page": 67
+    },
+    {
+      "line": 6928,
+      "type": "ART_TITLE",
+      "text": "Uso o venta no autorizada de diseño o",
+      "page": 67
+    },
+    {
+      "line": 6950,
+      "type": "ARTICULO",
+      "text": "Artículo 224.- En los delitos previstos en este",
+      "page": 67
+    },
+    {
+      "line": 6981,
+      "type": "ARTICULO",
+      "text": "Artículo 225.- Será reprimido con pena privativa",
+      "page": 68
+    },
+    {
+      "line": 6994,
+      "type": "TITULO",
+      "text": "“TÍTULO VIII",
+      "page": 68
+    },
+    {
+      "line": 6995,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL PATRIMONIO CULTURAL",
+      "page": 68
+    },
+    {
+      "line": 6996,
+      "type": "H2",
+      "text": "Y PATRIMONIO PALEONTOLÓGICO",
+      "page": 68
+    },
+    {
+      "line": 6997,
+      "type": "H2",
+      "text": "DEL PERÚ",
+      "page": 68
+    },
+    {
+      "line": 6998,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO ÚNICO",
+      "page": 68
+    },
+    {
+      "line": 6999,
+      "type": "H2",
+      "text": "DELITOS CONTRA LOS BIENES CULTURALES",
+      "page": 68
+    },
+    {
+      "line": 7000,
+      "type": "H2",
+      "text": "Y EL PATRIMONIO PALEONTOLÓGICO",
+      "page": 68
+    },
+    {
+      "line": 7001,
+      "type": "H2",
+      "text": "DEL PERÚ”",
+      "page": 68
+    },
+    {
+      "line": 7010,
+      "type": "ARTICULO",
+      "text": "Artículo 226.- El que se asienta, depreda o el",
+      "page": 68
+    },
+    {
+      "line": 7040,
+      "type": "ARTICULO",
+      "text": "Artículo 228.- El que destruye, altera, extrae del",
+      "page": 68
+    },
+    {
+      "line": 7054,
+      "type": "ART_TITLE",
+      "text": "Omisión de deberes de funcionarios",
+      "page": 68
+    },
+    {
+      "line": 7056,
+      "type": "ARTICULO",
+      "text": "Artículo 229.- Las autoridades políticas,",
+      "page": 68
+    },
+    {
+      "line": 7068,
+      "type": "ART_TITLE",
+      "text": "Destrucción, alteración o extracción de",
+      "page": 68
+    },
+    {
+      "line": 7083,
+      "type": "ART_TITLE",
+      "text": "Decomiso",
+      "page": 69
+    },
+    {
+      "line": 7093,
+      "type": "TITULO",
+      "text": "TÍTULO IX",
+      "page": 69
+    },
+    {
+      "line": 7094,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL ORDEN ECONÓMICO",
+      "page": 69
+    },
+    {
+      "line": 7095,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 69
+    },
+    {
+      "line": 7096,
+      "type": "H2",
+      "text": "ABUSO DEL PODER ECONÓMICO",
+      "page": 69
+    },
+    {
+      "line": 7098,
+      "type": "ARTICULO",
+      "text": "Artículo 232.- El que participa en acuerdo o",
+      "page": 69
+    },
+    {
+      "line": 7111,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 69
+    },
+    {
+      "line": 7112,
+      "type": "H2",
+      "text": "ACAPARAMIENTO, ESPECULACIÓN,",
+      "page": 69
+    },
+    {
+      "line": 7113,
+      "type": "H2",
+      "text": "ADULTERACIÓN",
+      "page": 69
+    },
+    {
+      "line": 7114,
+      "type": "ART_TITLE",
+      "text": "Acaparamiento",
+      "page": 69
+    },
+    {
+      "line": 7126,
+      "type": "ART_TITLE",
+      "text": "Especulación y alteración de pesos y",
+      "page": 69
+    },
+    {
+      "line": 7162,
+      "type": "ART_TITLE",
+      "text": "Adulteración",
+      "page": 69
+    },
+    {
+      "line": 7168,
+      "type": "ART_TITLE",
+      "text": "Si la adulteración se comete durante situación",
+      "page": 69
+    },
+    {
+      "line": 7176,
+      "type": "ARTICULO",
+      "text": "Artículo 236.- (*) Artículo derogado por la única",
+      "page": 69
+    },
+    {
+      "line": 7179,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 69
+    },
+    {
+      "line": 7180,
+      "type": "H2",
+      "text": "VENTA ILÍCITA DE MERCADERÍAS",
+      "page": 69
+    },
+    {
+      "line": 7181,
+      "type": "ART_TITLE",
+      "text": "Venta ilegal de mercaderías",
+      "page": 69
+    },
+    {
+      "line": 7198,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 70
+    },
+    {
+      "line": 7199,
+      "type": "H2",
+      "text": "DE OTROS DELITOS ECONÓMICOS",
+      "page": 70
+    },
+    {
+      "line": 7200,
+      "type": "ARTICULO",
+      "text": "Artículo 238.- (*) Artículo derogado por la segunda",
+      "page": 70
+    },
+    {
+      "line": 7203,
+      "type": "ARTICULO",
+      "text": "Artículo 239.- (*) Artículo derogado por la segunda",
+      "page": 70
+    },
+    {
+      "line": 7206,
+      "type": "ARTICULO",
+      "text": "Artículo 240.- (*) Artículo derogado por la segunda",
+      "page": 70
+    },
+    {
+      "line": 7209,
+      "type": "ART_TITLE",
+      "text": "Fraude en remates, licitaciones",
+      "page": 70
+    },
+    {
+      "line": 7211,
+      "type": "ARTICULO",
+      "text": "Artículo 241.- Serán reprimidos con pena",
+      "page": 70
+    },
+    {
+      "line": 7231,
+      "type": "ARTICULO",
+      "text": "Artículo 241-A.- El socio, accionista, gerente,",
+      "page": 70
+    },
+    {
+      "line": 7267,
+      "type": "ARTICULO",
+      "text": "Artículo 241-B.- El socio, accionista, gerente,",
+      "page": 70
+    },
+    {
+      "line": 7300,
+      "type": "ART_TITLE",
+      "text": "Rehusamiento a prestar información",
+      "page": 70
+    },
+    {
+      "line": 7302,
+      "type": "ARTICULO",
+      "text": "Artículo 242.- El director, administrador o",
+      "page": 70
+    },
+    {
+      "line": 7310,
+      "type": "ART_TITLE",
+      "text": "Subvaluación de mercaderías adquiridas",
+      "page": 71
+    },
+    {
+      "line": 7312,
+      "type": "ARTICULO",
+      "text": "Artículo 243.- El que recibe moneda extranjera",
+      "page": 71
+    },
+    {
+      "line": 7330,
+      "type": "ART_TITLE",
+      "text": "Funcionamiento ilegal de casinos de juego",
+      "page": 71
+    },
+    {
+      "line": 7344,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO V",
+      "page": 71
+    },
+    {
+      "line": 7345,
+      "type": "H2",
+      "text": "DESEMPEÑO DE ACTIVIDADES",
+      "page": 71
+    },
+    {
+      "line": 7346,
+      "type": "H2",
+      "text": "NO AUTORIZADAS”",
+      "page": 71
+    },
+    {
+      "line": 7366,
+      "type": "ARTICULO",
+      "text": "Artículo 243-C.- El que organiza, conduce o",
+      "page": 71
+    },
+    {
+      "line": 7381,
+      "type": "TITULO",
+      "text": "TÍTULO X",
+      "page": 71
+    },
+    {
+      "line": 7382,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL ORDEN",
+      "page": 71
+    },
+    {
+      "line": 7383,
+      "type": "H2",
+      "text": "FINANCIERO Y MONETARIO",
+      "page": 71
+    },
+    {
+      "line": 7384,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 71
+    },
+    {
+      "line": 7385,
+      "type": "H2",
+      "text": "DELITOS FINANCIEROS",
+      "page": 71
+    },
+    {
+      "line": 7387,
+      "type": "ARTICULO",
+      "text": "Artículo 244.- El director, gerente, administrador,",
+      "page": 71
+    },
+    {
+      "line": 7427,
+      "type": "ARTICULO",
+      "text": "Artículo 245.- El que ejerce funciones de",
+      "page": 71
+    },
+    {
+      "line": 7441,
+      "type": "ARTICULO",
+      "text": "Artículo 245-A.- El que ejerce funciones de",
+      "page": 72
+    },
+    {
+      "line": 7469,
+      "type": "ART_TITLE",
+      "text": "Instituciones financieras ilegales",
+      "page": 72
+    },
+    {
+      "line": 7470,
+      "type": "ARTICULO",
+      "text": "Artículo 246.- El que, por cuenta propia o ajena,",
+      "page": 72
+    },
+    {
+      "line": 7483,
+      "type": "ART_TITLE",
+      "text": "Financiamiento por medio de información",
+      "page": 72
+    },
+    {
+      "line": 7518,
+      "type": "ART_TITLE",
+      "text": "Condicionamiento de créditos",
+      "page": 72
+    },
+    {
+      "line": 7519,
+      "type": "ARTICULO",
+      "text": "Artículo 248.- Los directores, gerentes,",
+      "page": 72
+    },
+    {
+      "line": 7528,
+      "type": "ART_TITLE",
+      "text": "Pánico Financiero",
+      "page": 72
+    },
+    {
+      "line": 7580,
+      "type": "ART_TITLE",
+      "text": "Omisión de las provisiones específicas",
+      "page": 73
+    },
+    {
+      "line": 7581,
+      "type": "ARTICULO",
+      "text": "Artículo 250.- Los directores, administradores,",
+      "page": 73
+    },
+    {
+      "line": 7596,
+      "type": "ART_TITLE",
+      "text": "Desvío fraudulento de crédito promocional",
+      "page": 73
+    },
+    {
+      "line": 7597,
+      "type": "ARTICULO",
+      "text": "Artículo 251.- El que aplica o desvía",
+      "page": 73
+    },
+    {
+      "line": 7602,
+      "type": "ART_TITLE",
+      "text": "Uso indebido de información privilegiada -",
+      "page": 73
+    },
+    {
+      "line": 7603,
+      "type": "ART_TITLE",
+      "text": "Formas agravadas",
+      "page": 73
+    },
+    {
+      "line": 7632,
+      "type": "ARTICULO",
+      "text": "Artículo 251-B.- El que proporcione señales",
+      "page": 73
+    },
+    {
+      "line": 7660,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 73
+    },
+    {
+      "line": 7661,
+      "type": "H2",
+      "text": "DELITOS MONETARIOS",
+      "page": 73
+    },
+    {
+      "line": 7662,
+      "type": "ART_TITLE",
+      "text": "Fabricación y falsificación de moneda de",
+      "page": 73
+    },
+    {
+      "line": 7679,
+      "type": "ART_TITLE",
+      "text": "Alteración de la moneda de curso legal",
+      "page": 74
+    },
+    {
+      "line": 7694,
+      "type": "ART_TITLE",
+      "text": "Tráfico de moneda falsa",
+      "page": 74
+    },
+    {
+      "line": 7708,
+      "type": "ART_TITLE",
+      "text": "Fabricación o introducción en el territorio de",
+      "page": 74
+    },
+    {
+      "line": 7725,
+      "type": "ART_TITLE",
+      "text": "Alteración de billetes o monedas",
+      "page": 74
+    },
+    {
+      "line": 7740,
+      "type": "ART_TITLE",
+      "text": "Aplicación extensiva",
+      "page": 74
+    },
+    {
+      "line": 7747,
+      "type": "ARTICULO",
+      "text": "Artículo 257-A.- Será reprimido con pena",
+      "page": 74
+    },
+    {
+      "line": 7773,
+      "type": "ART_TITLE",
+      "text": "Emisión ilegal de billetes y otros",
+      "page": 74
+    },
+    {
+      "line": 7782,
+      "type": "ART_TITLE",
+      "text": "Uso ilegal de divisas",
+      "page": 74
+    },
+    {
+      "line": 7783,
+      "type": "ARTICULO",
+      "text": "Artículo 259.- El que destina las divisas",
+      "page": 74
+    },
+    {
+      "line": 7794,
+      "type": "ART_TITLE",
+      "text": "Retención indebida de divisas",
+      "page": 75
+    },
+    {
+      "line": 7795,
+      "type": "ARTICULO",
+      "text": "Artículo 260.- El que, teniendo obligación de",
+      "page": 75
+    },
+    {
+      "line": 7804,
+      "type": "ART_TITLE",
+      "text": "Valores equiparados a moneda",
+      "page": 75
+    },
+    {
+      "line": 7813,
+      "type": "TITULO",
+      "text": "TÍTULO XI",
+      "page": 75
+    },
+    {
+      "line": 7814,
+      "type": "H2",
+      "text": "DELITOS TRIBUTARIOS",
+      "page": 75
+    },
+    {
+      "line": 7815,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 75
+    },
+    {
+      "line": 7816,
+      "type": "H2",
+      "text": "CONTRABANDO",
+      "page": 75
+    },
+    {
+      "line": 7820,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 75
+    },
+    {
+      "line": 7821,
+      "type": "H2",
+      "text": "DEFRAUDACIÓN FISCAL",
+      "page": 75
+    },
+    {
+      "line": 7822,
+      "type": "SECCION",
+      "text": "SECCIÓN I",
+      "page": 75
+    },
+    {
+      "line": 7823,
+      "type": "H2",
+      "text": "DEFRAUDACIÓN DE RENTAS DE ADUANAS",
+      "page": 75
+    },
+    {
+      "line": 7827,
+      "type": "SECCION",
+      "text": "SECCIÓN II",
+      "page": 75
+    },
+    {
+      "line": 7828,
+      "type": "H2",
+      "text": "DEFRAUDACIÓN TRIBUTARIA",
+      "page": 75
+    },
+    {
+      "line": 7829,
+      "type": "ARTICULO",
+      "text": "Artículo 270.- (*) Artículo derogado por el artículo",
+      "page": 75
+    },
+    {
+      "line": 7832,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 75
+    },
+    {
+      "line": 7833,
+      "type": "H2",
+      "text": "ELABORACIÓN Y COMERCIO",
+      "page": 75
+    },
+    {
+      "line": 7834,
+      "type": "H2",
+      "text": "CLANDESTINO DE PRODUCTOS",
+      "page": 75
+    },
+    {
+      "line": 7835,
+      "type": "ART_TITLE",
+      "text": "Elaboración clandestina de productos",
+      "page": 75
+    },
+    {
+      "line": 7836,
+      "type": "ARTICULO",
+      "text": "Artículo 271.- Será reprimido con pena privativa",
+      "page": 75
+    },
+    {
+      "line": 7849,
+      "type": "ART_TITLE",
+      "text": "Policía Nacional del Perú o de las Fuerzas",
+      "page": 75
+    },
+    {
+      "line": 7850,
+      "type": "ART_TITLE",
+      "text": "Armadas",
+      "page": 75
+    },
+    {
+      "line": 7851,
+      "type": "ARTICULO",
+      "text": "Artículo 271-A.- Será reprimido con pena",
+      "page": 75
+    },
+    {
+      "line": 7859,
+      "type": "ART_TITLE",
+      "text": "Comercio Clandestino",
+      "page": 75
+    },
+    {
+      "line": 7902,
+      "type": "ART_TITLE",
+      "text": "Policía Nacional del Perú o de las Fuerzas",
+      "page": 76
+    },
+    {
+      "line": 7903,
+      "type": "ART_TITLE",
+      "text": "Armadas",
+      "page": 76
+    },
+    {
+      "line": 7904,
+      "type": "ARTICULO",
+      "text": "Artículo 272-A.- Será reprimido con pena",
+      "page": 76
+    },
+    {
+      "line": 7909,
+      "type": "ART_TITLE",
+      "text": "Fuerzas Armadas.",
+      "page": 76
+    },
+    {
+      "line": 7916,
+      "type": "ART_TITLE",
+      "text": "Perú o de las Fuerzas Armadas a personas ajenas",
+      "page": 76
+    },
+    {
+      "line": 7922,
+      "type": "ARTICULO",
+      "text": "Artículo 272-B.- El que ofrezca, promocione,",
+      "page": 76
+    },
+    {
+      "line": 7932,
+      "type": "TITULO",
+      "text": "TÍTULO XII",
+      "page": 76
+    },
+    {
+      "line": 7933,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA SEGURIDAD PÚBLICA",
+      "page": 76
+    },
+    {
+      "line": 7934,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 76
+    },
+    {
+      "line": 7935,
+      "type": "H2",
+      "text": "DELITOS DE PELIGRO COMÚN",
+      "page": 76
+    },
+    {
+      "line": 7936,
+      "type": "ART_TITLE",
+      "text": "Peligro por medio de incendio o explosión",
+      "page": 76
+    },
+    {
+      "line": 7937,
+      "type": "ARTICULO",
+      "text": "Artículo 273.- El que crea un peligro común",
+      "page": 76
+    },
+    {
+      "line": 7944,
+      "type": "ARTICULO",
+      "text": "Artículo 273-A.- El que presta el servicio público",
+      "page": 76
+    },
+    {
+      "line": 7962,
+      "type": "ARTICULO",
+      "text": "Artículo 274.- El que encontrándose en estado",
+      "page": 76
+    },
+    {
+      "line": 7987,
+      "type": "ARTICULO",
+      "text": "Artículo 274-A.- El que encontrándose en",
+      "page": 76
+    },
+    {
+      "line": 8000,
+      "type": "ART_TITLE",
+      "text": "Formas agravadas",
+      "page": 76
+    },
+    {
+      "line": 8001,
+      "type": "ARTICULO",
+      "text": "Artículo 275.- La pena será privativa de libertad",
+      "page": 76
+    },
+    {
+      "line": 8012,
+      "type": "ART_TITLE",
+      "text": "Estragos especiales",
+      "page": 77
+    },
+    {
+      "line": 8013,
+      "type": "ARTICULO",
+      "text": "Artículo 276.- El que causa estragos por medio",
+      "page": 77
+    },
+    {
+      "line": 8018,
+      "type": "ART_TITLE",
+      "text": "Daños de obras para la defensa común",
+      "page": 77
+    },
+    {
+      "line": 8019,
+      "type": "ARTICULO",
+      "text": "Artículo 277.- El que daña o inutiliza diques",
+      "page": 77
+    },
+    {
+      "line": 8027,
+      "type": "ART_TITLE",
+      "text": "Formas culposas",
+      "page": 77
+    },
+    {
+      "line": 8028,
+      "type": "ARTICULO",
+      "text": "Artículo 278.- El que, por culpa, ocasiona un",
+      "page": 77
+    },
+    {
+      "line": 8034,
+      "type": "ARTICULO",
+      "text": "Artículo 279.- El que, sin estar debidamente",
+      "page": 77
+    },
+    {
+      "line": 8046,
+      "type": "ART_TITLE",
+      "text": "El que trafica con bombas, artefactos o",
+      "page": 77
+    },
+    {
+      "line": 8061,
+      "type": "ART_TITLE",
+      "text": "Producción, desarrollo y comercialización",
+      "page": 77
+    },
+    {
+      "line": 8092,
+      "type": "ARTICULO",
+      "text": "Artículo 279-B.- El que sustrae o arrebate armas",
+      "page": 77
+    },
+    {
+      "line": 8106,
+      "type": "ARTICULO",
+      "text": "Artículo 279-C.- El que, sin estar debidamente",
+      "page": 77
+    },
+    {
+      "line": 8127,
+      "type": "ARTICULO",
+      "text": "Artículo 279-D.- El que emplee, desarrolle,",
+      "page": 77
+    },
+    {
+      "line": 8138,
+      "type": "ARTICULO",
+      "text": "Artículo 279-E.- El que sin cumplir con",
+      "page": 78
+    },
+    {
+      "line": 8168,
+      "type": "ARTICULO",
+      "text": "Artículo 279-F.- El que, en lugar público o",
+      "page": 78
+    },
+    {
+      "line": 8183,
+      "type": "ARTICULO",
+      "text": "Artículo 279-G.- El que, sin estar debidamente",
+      "page": 78
+    },
+    {
+      "line": 8221,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 78
+    },
+    {
+      "line": 8222,
+      "type": "H2",
+      "text": "DELITOS CONTRA LOS MEDIOS DE",
+      "page": 78
+    },
+    {
+      "line": 8223,
+      "type": "H2",
+      "text": "TRANSPORTE, COMUNICACIÓN Y",
+      "page": 78
+    },
+    {
+      "line": 8224,
+      "type": "H2",
+      "text": "OTROS SERVICIOS PÚBLICOS",
+      "page": 78
+    },
+    {
+      "line": 8225,
+      "type": "ART_TITLE",
+      "text": "Atentado contra los medios de transporte",
+      "page": 78
+    },
+    {
+      "line": 8227,
+      "type": "ARTICULO",
+      "text": "Artículo 280.- El que, a sabiendas, ejecuta",
+      "page": 78
+    },
+    {
+      "line": 8239,
+      "type": "ARTICULO",
+      "text": "Artículo 281.- Será reprimido con pena privativa",
+      "page": 78
+    },
+    {
+      "line": 8261,
+      "type": "ART_TITLE",
+      "text": "Forma culposa",
+      "page": 79
+    },
+    {
+      "line": 8262,
+      "type": "ARTICULO",
+      "text": "Artículo 282.- El que, por culpa, ocasiona alguno",
+      "page": 79
+    },
+    {
+      "line": 8268,
+      "type": "ARTICULO",
+      "text": "Artículo 283.- El que, sin crear una situación de",
+      "page": 79
+    },
+    {
+      "line": 8301,
+      "type": "ARTICULO",
+      "text": "Artículo 283-A.- Será reprimido con pena",
+      "page": 79
+    },
+    {
+      "line": 8320,
+      "type": "ART_TITLE",
+      "text": "Abandono de servicio de transporte",
+      "page": 79
+    },
+    {
+      "line": 8321,
+      "type": "ARTICULO",
+      "text": "Artículo 284.- El conductor, capitán, comandante,",
+      "page": 79
+    },
+    {
+      "line": 8327,
+      "type": "ART_TITLE",
+      "text": "Sustitución o impedimento de",
+      "page": 79
+    },
+    {
+      "line": 8329,
+      "type": "ARTICULO",
+      "text": "Artículo 285.- El que, mediante violencia,",
+      "page": 79
+    },
+    {
+      "line": 8335,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 79
+    },
+    {
+      "line": 8336,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA SALUD PÚBLICA",
+      "page": 79
+    },
+    {
+      "line": 8337,
+      "type": "SECCION",
+      "text": "SECCIÓN I",
+      "page": 79
+    },
+    {
+      "line": 8338,
+      "type": "H2",
+      "text": "CONTAMINACIÓN Y PROPAGACIÓN",
+      "page": 79
+    },
+    {
+      "line": 8343,
+      "type": "ARTICULO",
+      "text": "Artículo 286.- El que contamina o adultera bienes",
+      "page": 79
+    },
+    {
+      "line": 8353,
+      "type": "ARTICULO",
+      "text": "Artículo 287.- El que contamina o adultera",
+      "page": 79
+    },
+    {
+      "line": 8363,
+      "type": "ARTICULO",
+      "text": "Artículo 288.- El que produce, vende, pone en",
+      "page": 79
+    },
+    {
+      "line": 8384,
+      "type": "ARTICULO",
+      "text": "Artículo 288-B.- El que fabrica, importa,",
+      "page": 80
+    },
+    {
+      "line": 8397,
+      "type": "ARTICULO",
+      "text": "Artículo 288-C.- El que produce o comercializa",
+      "page": 80
+    },
+    {
+      "line": 8408,
+      "type": "ART_TITLE",
+      "text": "Propagación de enfermedad",
+      "page": 80
+    },
+    {
+      "line": 8410,
+      "type": "ARTICULO",
+      "text": "Artículo 289.- El que, a sabiendas, propaga una",
+      "page": 80
+    },
+    {
+      "line": 8418,
+      "type": "ARTICULO",
+      "text": "Artículo 290.- Será reprimido con pena privativa",
+      "page": 80
+    },
+    {
+      "line": 8440,
+      "type": "ART_TITLE",
+      "text": "Ejercicio malicioso y desleal de la medicina",
+      "page": 80
+    },
+    {
+      "line": 8441,
+      "type": "ARTICULO",
+      "text": "Artículo 291.- El que, teniendo título, anuncia o",
+      "page": 80
+    },
+    {
+      "line": 8447,
+      "type": "ART_TITLE",
+      "text": "Violación de medicinas sanitarias",
+      "page": 80
+    },
+    {
+      "line": 8448,
+      "type": "ARTICULO",
+      "text": "Artículo 292.- El que viola las medidas impuestas",
+      "page": 80
+    },
+    {
+      "line": 8455,
+      "type": "ART_TITLE",
+      "text": "Venta de animales de consumo peligroso",
+      "page": 80
+    },
+    {
+      "line": 8456,
+      "type": "ARTICULO",
+      "text": "Artículo 293.- El que, en lugares públicos,",
+      "page": 80
+    },
+    {
+      "line": 8466,
+      "type": "ARTICULO",
+      "text": "Artículo 294.- El que teniendo o no autorización",
+      "page": 80
+    },
+    {
+      "line": 8478,
+      "type": "ART_TITLE",
+      "text": "Farmacéuticos, Dispositivos Médicos y Productos",
+      "page": 80
+    },
+    {
+      "line": 8484,
+      "type": "ARTICULO",
+      "text": "Artículo 294-A.- El que falsifica, contamina",
+      "page": 81
+    },
+    {
+      "line": 8502,
+      "type": "ARTICULO",
+      "text": "Artículo 294-B.- El que vende, importa o",
+      "page": 81
+    },
+    {
+      "line": 8514,
+      "type": "ARTICULO",
+      "text": "Artículo 294-C.- Cuando alguno de los delitos",
+      "page": 81
+    },
+    {
+      "line": 8527,
+      "type": "ART_TITLE",
+      "text": "Formas culposas",
+      "page": 81
+    },
+    {
+      "line": 8528,
+      "type": "ARTICULO",
+      "text": "Artículo 295.- Cuando alguno de los delitos",
+      "page": 81
+    },
+    {
+      "line": 8533,
+      "type": "SECCION",
+      "text": "SECCIÓN II",
+      "page": 81
+    },
+    {
+      "line": 8534,
+      "type": "H2",
+      "text": "TRÁFICO ILÍCITO DE DROGAS",
+      "page": 81
+    },
+    {
+      "line": 8537,
+      "type": "ARTICULO",
+      "text": "Artículo 296.- El que promueve, favorece",
+      "page": 81
+    },
+    {
+      "line": 8576,
+      "type": "ARTICULO",
+      "text": "Artículo 296-A.- El que promueve, favorece,",
+      "page": 81
+    },
+    {
+      "line": 8629,
+      "type": "ART_TITLE",
+      "text": "Productos Fiscalizados",
+      "page": 82
+    },
+    {
+      "line": 8630,
+      "type": "ARTICULO",
+      "text": "Artículo 296-B.- El que importa, exporta, fabrica,",
+      "page": 82
+    },
+    {
+      "line": 8659,
+      "type": "ARTICULO",
+      "text": "Artículo 296-C.- El propietario, posesionario o",
+      "page": 82
+    },
+    {
+      "line": 8676,
+      "type": "ART_TITLE",
+      "text": "Formas agravadas",
+      "page": 82
+    },
+    {
+      "line": 8677,
+      "type": "ARTICULO",
+      "text": "Artículo 297.- La pena será privativa de libertad",
+      "page": 82
+    },
+    {
+      "line": 8733,
+      "type": "ARTICULO",
+      "text": "Artículo 298.- La pena será privativa de libertad",
+      "page": 83
+    },
+    {
+      "line": 8766,
+      "type": "ART_TITLE",
+      "text": "Posesión no punible",
+      "page": 83
+    },
+    {
+      "line": 8767,
+      "type": "ARTICULO",
+      "text": "Artículo 299.- La posesión de droga tóxica no",
+      "page": 83
+    },
+    {
+      "line": 8800,
+      "type": "ARTICULO",
+      "text": "Artículo 300.- El médico, farmacéutico,",
+      "page": 83
+    },
+    {
+      "line": 8816,
+      "type": "ARTICULO",
+      "text": "Artículo 301.- El que, subrepticiamente, o con",
+      "page": 83
+    },
+    {
+      "line": 8831,
+      "type": "ART_TITLE",
+      "text": "Inducción o instigación al consumo de",
+      "page": 83
+    },
+    {
+      "line": 8833,
+      "type": "ARTICULO",
+      "text": "Artículo 302.- El que instiga o induce a persona",
+      "page": 83
+    },
+    {
+      "line": 8844,
+      "type": "ARTICULO",
+      "text": "Artículo 302-A.- La inhabilitación principal",
+      "page": 83
+    },
+    {
+      "line": 8859,
+      "type": "ARTICULO",
+      "text": "Artículo 303.- El extranjero que haya cumplido",
+      "page": 84
+    },
+    {
+      "line": 8866,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO IV",
+      "page": 84
+    },
+    {
+      "line": 8867,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL ORDEN",
+      "page": 84
+    },
+    {
+      "line": 8868,
+      "type": "H2",
+      "text": "MIGRATORIO”",
+      "page": 84
+    },
+    {
+      "line": 8873,
+      "type": "ARTICULO",
+      "text": "Artículo 303-A.- El que promueve, favorece,",
+      "page": 84
+    },
+    {
+      "line": 8884,
+      "type": "ARTICULO",
+      "text": "Artículo 303-B.- La pena será no menor de cinco",
+      "page": 84
+    },
+    {
+      "line": 8917,
+      "type": "ARTICULO",
+      "text": "Artículo 303-C.- El que, contando con sentencia",
+      "page": 84
+    },
+    {
+      "line": 8937,
+      "type": "TITULO",
+      "text": "“TÍTULO XIII",
+      "page": 84
+    },
+    {
+      "line": 8941,
+      "type": "H2",
+      "text": "DELITOS AMBIENTALES",
+      "page": 84
+    },
+    {
+      "line": 8942,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 84
+    },
+    {
+      "line": 8943,
+      "type": "H2",
+      "text": "DELITOS DE CONTAMINACIÓN",
+      "page": 84
+    },
+    {
+      "line": 8945,
+      "type": "ARTICULO",
+      "text": "Artículo 304.- El que, infringiendo leyes,",
+      "page": 84
+    },
+    {
+      "line": 8964,
+      "type": "ARTICULO",
+      "text": "Artículo 305.- La pena privativa de libertad será",
+      "page": 85
+    },
+    {
+      "line": 8997,
+      "type": "ARTICULO",
+      "text": "Artículo 306.- El que, sin autorización o",
+      "page": 85
+    },
+    {
+      "line": 9015,
+      "type": "ARTICULO",
+      "text": "Artículo 307.- El que ingrese ilegalmente al",
+      "page": 85
+    },
+    {
+      "line": 9027,
+      "type": "ARTICULO",
+      "text": "Artículo 307-A.- El que realice actividad de",
+      "page": 85
+    },
+    {
+      "line": 9053,
+      "type": "ARTICULO",
+      "text": "Artículo 307-B.- La pena será no menor de ocho",
+      "page": 85
+    },
+    {
+      "line": 9077,
+      "type": "ARTICULO",
+      "text": "Artículo 307-C.- El que financia la comisión",
+      "page": 85
+    },
+    {
+      "line": 9087,
+      "type": "ARTICULO",
+      "text": "Artículo 307-D.- El que obstaculiza o impide",
+      "page": 86
+    },
+    {
+      "line": 9097,
+      "type": "ARTICULO",
+      "text": "Artículo 307-E.- El que, infringiendo las",
+      "page": 86
+    },
+    {
+      "line": 9118,
+      "type": "ARTICULO",
+      "text": "Artículo 307-F.- El agente de los delitos previstos",
+      "page": 86
+    },
+    {
+      "line": 9129,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 86
+    },
+    {
+      "line": 9130,
+      "type": "H2",
+      "text": "DELITOS CONTRA LOS",
+      "page": 86
+    },
+    {
+      "line": 9131,
+      "type": "H2",
+      "text": "RECURSOS NATURALES",
+      "page": 86
+    },
+    {
+      "line": 9134,
+      "type": "ARTICULO",
+      "text": "Artículo 308.- El que adquiere, vende, transporta,",
+      "page": 86
+    },
+    {
+      "line": 9147,
+      "type": "ARTICULO",
+      "text": "Artículo 308-A.- Será reprimido con pena privativa",
+      "page": 86
+    },
+    {
+      "line": 9161,
+      "type": "ARTICULO",
+      "text": "Artículo 308-B.- El que extrae especies de",
+      "page": 86
+    },
+    {
+      "line": 9188,
+      "type": "ARTICULO",
+      "text": "Artículo 308-C.- El que caza, captura, colecta,",
+      "page": 86
+    },
+    {
+      "line": 9200,
+      "type": "ARTICULO",
+      "text": "Artículo 308-D.- El que adquiere, vende,",
+      "page": 87
+    },
+    {
+      "line": 9215,
+      "type": "ARTICULO",
+      "text": "Artículo 308-E.- El que, infringiendo las leyes",
+      "page": 87
+    },
+    {
+      "line": 9243,
+      "type": "ARTICULO",
+      "text": "Artículo 309.- En los casos previstos en los",
+      "page": 87
+    },
+    {
+      "line": 9271,
+      "type": "ARTICULO",
+      "text": "Artículo 310.- Será reprimido con pena privativa",
+      "page": 87
+    },
+    {
+      "line": 9283,
+      "type": "ARTICULO",
+      "text": "Artículo 310-A.- El que adquiere, acopia,",
+      "page": 87
+    },
+    {
+      "line": 9294,
+      "type": "ARTICULO",
+      "text": "Artículo 310-B.- El que obstruye, impide o",
+      "page": 87
+    },
+    {
+      "line": 9309,
+      "type": "ARTICULO",
+      "text": "Artículo 310-C.- En los casos previstos en los",
+      "page": 87
+    },
+    {
+      "line": 9357,
+      "type": "ARTICULO",
+      "text": "Artículo 311.- El que, sin la autorización",
+      "page": 88
+    },
+    {
+      "line": 9371,
+      "type": "ARTICULO",
+      "text": "Artículo 312.- El funcionario o servidor público",
+      "page": 88
+    },
+    {
+      "line": 9383,
+      "type": "ARTICULO",
+      "text": "Artículo 313.- El que, contraviniendo las",
+      "page": 88
+    },
+    {
+      "line": 9392,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 88
+    },
+    {
+      "line": 9393,
+      "type": "H2",
+      "text": "RESPONSABILIDAD FUNCIONAL",
+      "page": 88
+    },
+    {
+      "line": 9394,
+      "type": "H2",
+      "text": "E INFORMACIÓN FALSA",
+      "page": 88
+    },
+    {
+      "line": 9397,
+      "type": "ARTICULO",
+      "text": "Artículo 314.- El funcionario público que sin",
+      "page": 88
+    },
+    {
+      "line": 9429,
+      "type": "ARTICULO",
+      "text": "Artículo 314-A.- Los representantes legales de",
+      "page": 88
+    },
+    {
+      "line": 9438,
+      "type": "ARTICULO",
+      "text": "Artículo 314-B.- El que, conociendo o pudiendo",
+      "page": 89
+    },
+    {
+      "line": 9458,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 89
+    },
+    {
+      "line": 9459,
+      "type": "H2",
+      "text": "MEDIDAS CAUTELARES Y EXCLUSIÓN",
+      "page": 89
+    },
+    {
+      "line": 9460,
+      "type": "H2",
+      "text": "O REDUCCIÓN DE PENAS",
+      "page": 89
+    },
+    {
+      "line": 9462,
+      "type": "ARTICULO",
+      "text": "Artículo 314-C.- Sin perjuicio de lo ordenado",
+      "page": 89
+    },
+    {
+      "line": 9485,
+      "type": "ARTICULO",
+      "text": "Artículo 314-D.- El que, encontrándose en una",
+      "page": 89
+    },
+    {
+      "line": 9508,
+      "type": "TITULO",
+      "text": "TÍTULO XIV",
+      "page": 89
+    },
+    {
+      "line": 9509,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA",
+      "page": 89
+    },
+    {
+      "line": 9510,
+      "type": "H2",
+      "text": "TRANQUILIDAD PÚBLICA",
+      "page": 89
+    },
+    {
+      "line": 9511,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 89
+    },
+    {
+      "line": 9512,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA PAZ PÚBLICA",
+      "page": 89
+    },
+    {
+      "line": 9514,
+      "type": "ARTICULO",
+      "text": "Artículo 315.- El que, en una reunión tumultuaria,",
+      "page": 89
+    },
+    {
+      "line": 9571,
+      "type": "ARTICULO",
+      "text": "Artículo 315-A.- El que perturbe gravemente",
+      "page": 90
+    },
+    {
+      "line": 9593,
+      "type": "ARTICULO",
+      "text": "Artículo 315-B.- Será reprimido con pena",
+      "page": 90
+    },
+    {
+      "line": 9608,
+      "type": "ARTICULO",
+      "text": "Artículo 316.- El que públicamente exalta,",
+      "page": 90
+    },
+    {
+      "line": 9625,
+      "type": "ARTICULO",
+      "text": "Artículo 316-A.- Si la exaltación, justificación o",
+      "page": 90
+    },
+    {
+      "line": 9655,
+      "type": "ART_TITLE",
+      "text": "Artículo 317.",
+      "page": 90
+    },
+    {
+      "line": 9703,
+      "type": "ARTICULO",
+      "text": "Artículo 317-A.- Será reprimido con pena",
+      "page": 91
+    },
+    {
+      "line": 9733,
+      "type": "ARTICULO",
+      "text": "Artículo 317-B.- El que constituya o integre una",
+      "page": 91
+    },
+    {
+      "line": 9744,
+      "type": "ART_TITLE",
+      "text": "Ofensas a la memoria de los muertos",
+      "page": 91
+    },
+    {
+      "line": 9745,
+      "type": "ARTICULO",
+      "text": "Artículo 318.- Será reprimido con pena privativa",
+      "page": 91
+    },
+    {
+      "line": 9771,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 91
+    },
+    {
+      "line": 9772,
+      "type": "H2",
+      "text": "TERRORISMO",
+      "page": 91
+    },
+    {
+      "line": 9776,
+      "type": "TITULO",
+      "text": "“TÍTULO XIV-A",
+      "page": 91
+    },
+    {
+      "line": 9777,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA HUMANIDAD”",
+      "page": 91
+    },
+    {
+      "line": 9781,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 91
+    },
+    {
+      "line": 9782,
+      "type": "H2",
+      "text": "GENOCIDIO",
+      "page": 91
+    },
+    {
+      "line": 9783,
+      "type": "ART_TITLE",
+      "text": "Genocidio - Modalidades",
+      "page": 91
+    },
+    {
+      "line": 9784,
+      "type": "ARTICULO",
+      "text": "Artículo 319.- Será reprimido con pena privativa",
+      "page": 91
+    },
+    {
+      "line": 9798,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 92
+    },
+    {
+      "line": 9799,
+      "type": "H2",
+      "text": "DESAPARICIÓN FORZADA",
+      "page": 92
+    },
+    {
+      "line": 9801,
+      "type": "ARTICULO",
+      "text": "Artículo 320.- El funcionario o servidor público,",
+      "page": 92
+    },
+    {
+      "line": 9820,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 92
+    },
+    {
+      "line": 9821,
+      "type": "H2",
+      "text": "TORTURA",
+      "page": 92
+    },
+    {
+      "line": 9823,
+      "type": "ARTICULO",
+      "text": "Artículo 321.- El funcionario o servidor público,",
+      "page": 92
+    },
+    {
+      "line": 9848,
+      "type": "ART_TITLE",
+      "text": "Cooperación de profesional",
+      "page": 92
+    },
+    {
+      "line": 9849,
+      "type": "ARTICULO",
+      "text": "Artículo 322.- El médico o cualquier profesional",
+      "page": 92
+    },
+    {
+      "line": 9853,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO IV",
+      "page": 92
+    },
+    {
+      "line": 9854,
+      "type": "H2",
+      "text": "DISCRIMINACIÓN”",
+      "page": 92
+    },
+    {
+      "line": 9860,
+      "type": "ARTICULO",
+      "text": "Artículo 323.- El que, por sí o mediante",
+      "page": 92
+    },
+    {
+      "line": 9885,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO V",
+      "page": 92
+    },
+    {
+      "line": 9886,
+      "type": "H2",
+      "text": "MANIPULACIÓN GENÉTICA”",
+      "page": 92
+    },
+    {
+      "line": 9898,
+      "type": "TITULO",
+      "text": "TÍTULO XV",
+      "page": 93
+    },
+    {
+      "line": 9899,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL ESTADO",
+      "page": 93
+    },
+    {
+      "line": 9900,
+      "type": "H2",
+      "text": "Y LA DEFENSA NACIONAL",
+      "page": 93
+    },
+    {
+      "line": 9901,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 93
+    },
+    {
+      "line": 9902,
+      "type": "H2",
+      "text": "ATENTADOS CONTRA LA SEGURIDAD",
+      "page": 93
+    },
+    {
+      "line": 9903,
+      "type": "H2",
+      "text": "NACIONAL Y TRAICIÓN A LA PATRIA",
+      "page": 93
+    },
+    {
+      "line": 9904,
+      "type": "ART_TITLE",
+      "text": "Atentado contra la integridad nacional",
+      "page": 93
+    },
+    {
+      "line": 9905,
+      "type": "ARTICULO",
+      "text": "Artículo 325.- El que practica un acto dirigido",
+      "page": 93
+    },
+    {
+      "line": 9910,
+      "type": "ART_TITLE",
+      "text": "Participación en grupo armado",
+      "page": 93
+    },
+    {
+      "line": 9912,
+      "type": "ARTICULO",
+      "text": "Artículo 326.- El que forma parte de un grupo",
+      "page": 93
+    },
+    {
+      "line": 9917,
+      "type": "ART_TITLE",
+      "text": "Destrucción o alteración de hitos fronterizos",
+      "page": 93
+    },
+    {
+      "line": 9918,
+      "type": "ARTICULO",
+      "text": "Artículo 327.- El que destruye o altera las señales",
+      "page": 93
+    },
+    {
+      "line": 9923,
+      "type": "ART_TITLE",
+      "text": "Formas agravadas",
+      "page": 93
+    },
+    {
+      "line": 9924,
+      "type": "ARTICULO",
+      "text": "Artículo 328.- Será reprimido con pena privativa",
+      "page": 93
+    },
+    {
+      "line": 9936,
+      "type": "ART_TITLE",
+      "text": "Inteligencia desleal con Estado extranjero",
+      "page": 93
+    },
+    {
+      "line": 9937,
+      "type": "ARTICULO",
+      "text": "Artículo 329.- El que entra en inteligencia con los",
+      "page": 93
+    },
+    {
+      "line": 9942,
+      "type": "ART_TITLE",
+      "text": "Revelación de secretos nacionales",
+      "page": 93
+    },
+    {
+      "line": 9943,
+      "type": "ARTICULO",
+      "text": "Artículo 330.- El que revela o hace accesible a",
+      "page": 93
+    },
+    {
+      "line": 9952,
+      "type": "ART_TITLE",
+      "text": "Espionaje",
+      "page": 93
+    },
+    {
+      "line": 9953,
+      "type": "ARTICULO",
+      "text": "Artículo 331.- El que espía para comunicar o",
+      "page": 93
+    },
+    {
+      "line": 9980,
+      "type": "ART_TITLE",
+      "text": "Favorecimiento bélico a Estado",
+      "page": 93
+    },
+    {
+      "line": 9982,
+      "type": "ARTICULO",
+      "text": "Artículo 332.- El que entrega a un Estado",
+      "page": 93
+    },
+    {
+      "line": 9989,
+      "type": "ART_TITLE",
+      "text": "Provocación pública a la",
+      "page": 93
+    },
+    {
+      "line": 9991,
+      "type": "ARTICULO",
+      "text": "Artículo 333.- El que provoca públicamente a la",
+      "page": 93
+    },
+    {
+      "line": 9996,
+      "type": "ARTICULO",
+      "text": "Artículo 334.- (*) Artículo derogado por el artículo",
+      "page": 93
+    },
+    {
+      "line": 9999,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 93
+    },
+    {
+      "line": 10000,
+      "type": "H2",
+      "text": "DELITOS QUE COMPROMETEN LAS",
+      "page": 93
+    },
+    {
+      "line": 10001,
+      "type": "H2",
+      "text": "RELACIONES EXTERIORES DEL ESTADO",
+      "page": 93
+    },
+    {
+      "line": 10002,
+      "type": "ART_TITLE",
+      "text": "Violación de inmunidad de Jefe de Estado o",
+      "page": 93
+    },
+    {
+      "line": 10004,
+      "type": "ARTICULO",
+      "text": "Artículo 335.- El que viola las inmunidades del",
+      "page": 93
+    },
+    {
+      "line": 10011,
+      "type": "ART_TITLE",
+      "text": "Atentado contra persona que goza de",
+      "page": 94
+    },
+    {
+      "line": 10013,
+      "type": "ARTICULO",
+      "text": "Artículo 336.- El que atenta, en territorio de la",
+      "page": 94
+    },
+    {
+      "line": 10021,
+      "type": "ART_TITLE",
+      "text": "Violación de la soberanía extranjera",
+      "page": 94
+    },
+    {
+      "line": 10022,
+      "type": "ARTICULO",
+      "text": "Artículo 337.- El que viola la soberanía de un",
+      "page": 94
+    },
+    {
+      "line": 10028,
+      "type": "ART_TITLE",
+      "text": "Conjuración contra un Estado extranjero",
+      "page": 94
+    },
+    {
+      "line": 10029,
+      "type": "ARTICULO",
+      "text": "Artículo 338.- El que, en territorio de la República,",
+      "page": 94
+    },
+    {
+      "line": 10037,
+      "type": "ART_TITLE",
+      "text": "Actos hostiles contra Estado extranjero",
+      "page": 94
+    },
+    {
+      "line": 10038,
+      "type": "ARTICULO",
+      "text": "Artículo 339.- El que practica, sin aprobación",
+      "page": 94
+    },
+    {
+      "line": 10051,
+      "type": "ART_TITLE",
+      "text": "Violación de Tratados o Convenciones de Paz",
+      "page": 94
+    },
+    {
+      "line": 10052,
+      "type": "ARTICULO",
+      "text": "Artículo 340.- El que viola los tratados o",
+      "page": 94
+    },
+    {
+      "line": 10057,
+      "type": "ART_TITLE",
+      "text": "Espionaje militar en perjuicio de Estado",
+      "page": 94
+    },
+    {
+      "line": 10059,
+      "type": "ARTICULO",
+      "text": "Artículo 341.- El que, en territorio peruano, recoge",
+      "page": 94
+    },
+    {
+      "line": 10064,
+      "type": "ART_TITLE",
+      "text": "Ejecución de actos de autoridad extranjera",
+      "page": 94
+    },
+    {
+      "line": 10066,
+      "type": "ARTICULO",
+      "text": "Artículo 342.- El que, prescindiendo de la",
+      "page": 94
+    },
+    {
+      "line": 10074,
+      "type": "ART_TITLE",
+      "text": "Actos de hostilidad ordenados por",
+      "page": 94
+    },
+    {
+      "line": 10076,
+      "type": "ARTICULO",
+      "text": "Artículo 343.- El que, con ocasión de guerra en",
+      "page": 94
+    },
+    {
+      "line": 10082,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 94
+    },
+    {
+      "line": 10083,
+      "type": "H2",
+      "text": "DELITOS CONTRA LOS SÍMBOLOS Y",
+      "page": 94
+    },
+    {
+      "line": 10084,
+      "type": "H2",
+      "text": "VALORES DE LA PATRIA",
+      "page": 94
+    },
+    {
+      "line": 10086,
+      "type": "ARTICULO",
+      "text": "Artículo 344.- El que, públicamente o por",
+      "page": 94
+    },
+    {
+      "line": 10101,
+      "type": "ARTICULO",
+      "text": "Artículo 345.- El que, por acto de menosprecio,",
+      "page": 94
+    },
+    {
+      "line": 10113,
+      "type": "TITULO",
+      "text": "TÍTULO XVI",
+      "page": 94
+    },
+    {
+      "line": 10114,
+      "type": "H2",
+      "text": "DELITOS CONTRA LOS PODERES DEL",
+      "page": 94
+    },
+    {
+      "line": 10115,
+      "type": "H2",
+      "text": "ESTADO Y EL ORDEN CONSTITUCIONAL",
+      "page": 94
+    },
+    {
+      "line": 10116,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 94
+    },
+    {
+      "line": 10117,
+      "type": "H2",
+      "text": "REBELIÓN, SEDICIÓN Y MOTÍN",
+      "page": 94
+    },
+    {
+      "line": 10119,
+      "type": "ARTICULO",
+      "text": "Artículo 346.- El que se alza en armas para",
+      "page": 94
+    },
+    {
+      "line": 10126,
+      "type": "ART_TITLE",
+      "text": "Sedición",
+      "page": 95
+    },
+    {
+      "line": 10127,
+      "type": "ARTICULO",
+      "text": "Artículo 347.- El que, sin desconocer al gobierno",
+      "page": 95
+    },
+    {
+      "line": 10135,
+      "type": "ART_TITLE",
+      "text": "Motín",
+      "page": 95
+    },
+    {
+      "line": 10136,
+      "type": "ARTICULO",
+      "text": "Artículo 348.- El que, en forma tumultuaria,",
+      "page": 95
+    },
+    {
+      "line": 10143,
+      "type": "ART_TITLE",
+      "text": "Conspiración para una rebelión,",
+      "page": 95
+    },
+    {
+      "line": 10145,
+      "type": "ARTICULO",
+      "text": "Artículo 349.- El que toma parte en una",
+      "page": 95
+    },
+    {
+      "line": 10151,
+      "type": "ART_TITLE",
+      "text": "Seducción, usurpación y retención",
+      "page": 95
+    },
+    {
+      "line": 10153,
+      "type": "ARTICULO",
+      "text": "Artículo 350.- El que seduce a tropas, usurpa",
+      "page": 95
+    },
+    {
+      "line": 10161,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 95
+    },
+    {
+      "line": 10162,
+      "type": "H2",
+      "text": "DISPOSICIONES COMUNES",
+      "page": 95
+    },
+    {
+      "line": 10163,
+      "type": "ART_TITLE",
+      "text": "Exención de la pena y",
+      "page": 95
+    },
+    {
+      "line": 10165,
+      "type": "ARTICULO",
+      "text": "Artículo 351.- Los rebeldes, sediciosos",
+      "page": 95
+    },
+    {
+      "line": 10175,
+      "type": "ART_TITLE",
+      "text": "Omisión de resistencia a",
+      "page": 95
+    },
+    {
+      "line": 10177,
+      "type": "ARTICULO",
+      "text": "Artículo 352.- El funcionario o servidor público",
+      "page": 95
+    },
+    {
+      "line": 10181,
+      "type": "ART_TITLE",
+      "text": "Inhabilitación",
+      "page": 95
+    },
+    {
+      "line": 10182,
+      "type": "ARTICULO",
+      "text": "Artículo 353.- Los funcionarios, servidores",
+      "page": 95
+    },
+    {
+      "line": 10188,
+      "type": "TITULO",
+      "text": "TÍTULO XVII",
+      "page": 95
+    },
+    {
+      "line": 10189,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA VOLUNTAD POPULAR",
+      "page": 95
+    },
+    {
+      "line": 10190,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO I”",
+      "page": 95
+    },
+    {
+      "line": 10194,
+      "type": "H2",
+      "text": "DELITOS CONTRA EL",
+      "page": 95
+    },
+    {
+      "line": 10195,
+      "type": "H2",
+      "text": "DERECHO DE SUFRAGIO",
+      "page": 95
+    },
+    {
+      "line": 10198,
+      "type": "ARTICULO",
+      "text": "Artículo 354.- El que, con violencia o amenaza,",
+      "page": 95
+    },
+    {
+      "line": 10206,
+      "type": "ART_TITLE",
+      "text": "Impedimento del ejercicio de derecho",
+      "page": 95
+    },
+    {
+      "line": 10208,
+      "type": "ARTICULO",
+      "text": "Artículo 355.- El que, mediante violencia o",
+      "page": 95
+    },
+    {
+      "line": 10213,
+      "type": "ART_TITLE",
+      "text": "Inducción a no votar o hacerlo en sentido",
+      "page": 95
+    },
+    {
+      "line": 10215,
+      "type": "ARTICULO",
+      "text": "Artículo 356.- El que, mediante dádivas, ventajas",
+      "page": 95
+    },
+    {
+      "line": 10220,
+      "type": "ART_TITLE",
+      "text": "Suplantación de votante",
+      "page": 95
+    },
+    {
+      "line": 10221,
+      "type": "ARTICULO",
+      "text": "Artículo 357.- El que suplanta a otro votante",
+      "page": 95
+    },
+    {
+      "line": 10226,
+      "type": "ART_TITLE",
+      "text": "Publicidad ilegal del sentido del voto",
+      "page": 96
+    },
+    {
+      "line": 10227,
+      "type": "ARTICULO",
+      "text": "Artículo 358.- El elector que da a publicidad el",
+      "page": 96
+    },
+    {
+      "line": 10233,
+      "type": "ARTICULO",
+      "text": "Artículo 359.- Será reprimido con pena privativa",
+      "page": 96
+    },
+    {
+      "line": 10271,
+      "type": "CAPITULO",
+      "text": "“CAPÍTULO II",
+      "page": 96
+    },
+    {
+      "line": 10272,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA",
+      "page": 96
+    },
+    {
+      "line": 10273,
+      "type": "H2",
+      "text": "PARTICIPACIÓN DEMOCRÁTICA”",
+      "page": 96
+    },
+    {
+      "line": 10279,
+      "type": "ARTICULO",
+      "text": "Artículo 359-A.- El que, de manera directa o",
+      "page": 96
+    },
+    {
+      "line": 10315,
+      "type": "ARTICULO",
+      "text": "Artículo 359-B.- El tesorero, el responsable de",
+      "page": 96
+    },
+    {
+      "line": 10331,
+      "type": "ARTICULO",
+      "text": "Artículo 359-C.- Son fuentes de financiamiento",
+      "page": 96
+    },
+    {
+      "line": 10359,
+      "type": "ART_TITLE",
+      "text": "Inhabilitación",
+      "page": 97
+    },
+    {
+      "line": 10360,
+      "type": "ARTICULO",
+      "text": "Artículo 360.- El funcionario o servidor público",
+      "page": 97
+    },
+    {
+      "line": 10365,
+      "type": "TITULO",
+      "text": "TÍTULO XVIII",
+      "page": 97
+    },
+    {
+      "line": 10366,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA",
+      "page": 97
+    },
+    {
+      "line": 10367,
+      "type": "H2",
+      "text": "ADMINISTRACIÓN PÚBLICA",
+      "page": 97
+    },
+    {
+      "line": 10368,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 97
+    },
+    {
+      "line": 10369,
+      "type": "H2",
+      "text": "DELITOS COMETIDOS",
+      "page": 97
+    },
+    {
+      "line": 10370,
+      "type": "H2",
+      "text": "POR PARTICULARES",
+      "page": 97
+    },
+    {
+      "line": 10371,
+      "type": "SECCION",
+      "text": "SECCIÓN I",
+      "page": 97
+    },
+    {
+      "line": 10372,
+      "type": "H2",
+      "text": "USURPACIÓN DE AUTORIDAD,",
+      "page": 97
+    },
+    {
+      "line": 10373,
+      "type": "TITULO",
+      "text": "TÍTULOS Y HONORES",
+      "page": 97
+    },
+    {
+      "line": 10374,
+      "type": "ART_TITLE",
+      "text": "Usurpación de función pública",
+      "page": 97
+    },
+    {
+      "line": 10391,
+      "type": "ART_TITLE",
+      "text": "Ostentación de distintivos de función o",
+      "page": 97
+    },
+    {
+      "line": 10393,
+      "type": "ARTICULO",
+      "text": "Artículo 362.- El que, públicamente, ostenta",
+      "page": 97
+    },
+    {
+      "line": 10413,
+      "type": "ART_TITLE",
+      "text": "Participación en ejercicio ilegal",
+      "page": 97
+    },
+    {
+      "line": 10415,
+      "type": "ARTICULO",
+      "text": "Artículo 364.- El profesional que ampara con su",
+      "page": 97
+    },
+    {
+      "line": 10420,
+      "type": "SECCION",
+      "text": "SECCIÓN II",
+      "page": 97
+    },
+    {
+      "line": 10421,
+      "type": "H2",
+      "text": "VIOLENCIA Y RESISTENCIA A LA AUTORIDAD",
+      "page": 97
+    },
+    {
+      "line": 10422,
+      "type": "ART_TITLE",
+      "text": "Violencia contra la autoridad",
+      "page": 97
+    },
+    {
+      "line": 10424,
+      "type": "ARTICULO",
+      "text": "Artículo 365.- El que, sin alzamiento público,",
+      "page": 97
+    },
+    {
+      "line": 10433,
+      "type": "ARTICULO",
+      "text": "Artículo 366.- El que emplea intimidación o",
+      "page": 97
+    },
+    {
+      "line": 10445,
+      "type": "ARTICULO",
+      "text": "Artículo 367.- En los casos de los artículos 365",
+      "page": 97
+    },
+    {
+      "line": 10477,
+      "type": "ARTICULO",
+      "text": "Artículo 368.- El que desobedece o resiste",
+      "page": 98
+    },
+    {
+      "line": 10501,
+      "type": "ARTICULO",
+      "text": "Artículo 368-A.- El que indebidamente",
+      "page": 98
+    },
+    {
+      "line": 10528,
+      "type": "ARTICULO",
+      "text": "Artículo 368-B.- El que indebidamente ingresa,",
+      "page": 98
+    },
+    {
+      "line": 10549,
+      "type": "ARTICULO",
+      "text": "Artículo 368-C.- El que dentro de un centro",
+      "page": 98
+    },
+    {
+      "line": 10569,
+      "type": "ARTICULO",
+      "text": "Artículo 368-D.- La persona privada de libertad",
+      "page": 98
+    },
+    {
+      "line": 10589,
+      "type": "ARTICULO",
+      "text": "Artículo 368-E.- El que indebidamente ingresa,",
+      "page": 99
+    },
+    {
+      "line": 10608,
+      "type": "ARTICULO",
+      "text": "Artículo 368-F.- El que indebidamente, edifica,",
+      "page": 99
+    },
+    {
+      "line": 10624,
+      "type": "ARTICULO",
+      "text": "Artículo 369.- El que, mediante violencia o",
+      "page": 99
+    },
+    {
+      "line": 10635,
+      "type": "ART_TITLE",
+      "text": "Atentado contra la conservación",
+      "page": 99
+    },
+    {
+      "line": 10637,
+      "type": "ARTICULO",
+      "text": "Artículo 370.- El que destruye o arranca",
+      "page": 99
+    },
+    {
+      "line": 10643,
+      "type": "ART_TITLE",
+      "text": "Negativa a colaborar con la administración",
+      "page": 99
+    },
+    {
+      "line": 10645,
+      "type": "ARTICULO",
+      "text": "Artículo 371.- El testigo, perito, traductor o",
+      "page": 99
+    },
+    {
+      "line": 10655,
+      "type": "ART_TITLE",
+      "text": "Atentado contra documentos que sirven de",
+      "page": 99
+    },
+    {
+      "line": 10657,
+      "type": "ARTICULO",
+      "text": "Artículo 372.- El que sustrae, oculta, cambia,",
+      "page": 99
+    },
+    {
+      "line": 10668,
+      "type": "ART_TITLE",
+      "text": "Sustracción de objetos requisados por",
+      "page": 99
+    },
+    {
+      "line": 10670,
+      "type": "ARTICULO",
+      "text": "Artículo 373.- El que sustrae objetos requisados",
+      "page": 99
+    },
+    {
+      "line": 10673,
+      "type": "SECCION",
+      "text": "SECCIÓN III",
+      "page": 99
+    },
+    {
+      "line": 10674,
+      "type": "H2",
+      "text": "DESACATO",
+      "page": 99
+    },
+    {
+      "line": 10675,
+      "type": "ARTICULO",
+      "text": "Artículo 374.- (*) Artículo derogado por el artículo",
+      "page": 99
+    },
+    {
+      "line": 10678,
+      "type": "ART_TITLE",
+      "text": "Perturbación del orden en el lugar donde",
+      "page": 99
+    },
+    {
+      "line": 10680,
+      "type": "ARTICULO",
+      "text": "Artículo 375.- El que causa desorden en la",
+      "page": 99
+    },
+    {
+      "line": 10689,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 100
+    },
+    {
+      "line": 10690,
+      "type": "H2",
+      "text": "DELITOS COMETIDOS POR",
+      "page": 100
+    },
+    {
+      "line": 10691,
+      "type": "H2",
+      "text": "FUNCIONARIOS PÚBLICOS",
+      "page": 100
+    },
+    {
+      "line": 10692,
+      "type": "SECCION",
+      "text": "SECCIÓN I",
+      "page": 100
+    },
+    {
+      "line": 10693,
+      "type": "H2",
+      "text": "ABUSO DE AUTORIDAD",
+      "page": 100
+    },
+    {
+      "line": 10695,
+      "type": "ARTICULO",
+      "text": "Artículo 376.- El funcionario público que,",
+      "page": 100
+    },
+    {
+      "line": 10707,
+      "type": "ARTICULO",
+      "text": "Artículo 376-A.- El que, valiéndose de su",
+      "page": 100
+    },
+    {
+      "line": 10722,
+      "type": "ARTICULO",
+      "text": "Artículo 376-B.- El funcionario público que,",
+      "page": 100
+    },
+    {
+      "line": 10751,
+      "type": "ARTICULO",
+      "text": "Artículo 377.- El funcionario público que,",
+      "page": 100
+    },
+    {
+      "line": 10764,
+      "type": "ARTICULO",
+      "text": "Artículo 378.- El policía que rehúsa, omite o",
+      "page": 100
+    },
+    {
+      "line": 10778,
+      "type": "ART_TITLE",
+      "text": "Requerimiento indebido de la fuerza pública",
+      "page": 100
+    },
+    {
+      "line": 10779,
+      "type": "ARTICULO",
+      "text": "Artículo 379.- El funcionario público que requiere",
+      "page": 100
+    },
+    {
+      "line": 10785,
+      "type": "ART_TITLE",
+      "text": "Abandono de cargo",
+      "page": 100
+    },
+    {
+      "line": 10786,
+      "type": "ARTICULO",
+      "text": "Artículo 380.- El funcionario o servidor público",
+      "page": 100
+    },
+    {
+      "line": 10796,
+      "type": "ARTICULO",
+      "text": "Artículo 381.- El funcionario público que nombra,",
+      "page": 100
+    },
+    {
+      "line": 10806,
+      "type": "SECCION",
+      "text": "SECCIÓN II",
+      "page": 101
+    },
+    {
+      "line": 10807,
+      "type": "H2",
+      "text": "CONCUSIÓN",
+      "page": 101
+    },
+    {
+      "line": 10809,
+      "type": "ARTICULO",
+      "text": "Artículo 382.- El funcionario o servidor público",
+      "page": 101
+    },
+    {
+      "line": 10821,
+      "type": "ARTICULO",
+      "text": "Artículo 383.- El funcionario o servidor público",
+      "page": 101
+    },
+    {
+      "line": 10832,
+      "type": "ARTICULO",
+      "text": "Artículo 384.- El funcionario o servidor público",
+      "page": 101
+    },
+    {
+      "line": 10844,
+      "type": "ART_TITLE",
+      "text": "El funcionario o servidor público que, interviniendo",
+      "page": 101
+    },
+    {
+      "line": 10876,
+      "type": "ART_TITLE",
+      "text": "Patrocinio ilegal",
+      "page": 101
+    },
+    {
+      "line": 10877,
+      "type": "ARTICULO",
+      "text": "Artículo 385.- El que, valiéndose de su calidad",
+      "page": 101
+    },
+    {
+      "line": 10883,
+      "type": "ART_TITLE",
+      "text": "Responsabilidad de peritos, árbitros y",
+      "page": 101
+    },
+    {
+      "line": 10893,
+      "type": "SECCION",
+      "text": "SECCIÓN III",
+      "page": 101
+    },
+    {
+      "line": 10894,
+      "type": "H2",
+      "text": "PECULADO",
+      "page": 101
+    },
+    {
+      "line": 10896,
+      "type": "ARTICULO",
+      "text": "Artículo 387.- El funcionario o servidor público",
+      "page": 101
+    },
+    {
+      "line": 10937,
+      "type": "ARTICULO",
+      "text": "Artículo 388.- El funcionario o servidor público",
+      "page": 102
+    },
+    {
+      "line": 10957,
+      "type": "ARTICULO",
+      "text": "Artículo 389.- El funcionario o servidor público",
+      "page": 102
+    },
+    {
+      "line": 10986,
+      "type": "ART_TITLE",
+      "text": "Retardo injustificado de pago",
+      "page": 102
+    },
+    {
+      "line": 10987,
+      "type": "ARTICULO",
+      "text": "Artículo 390.- El funcionario o servidor",
+      "page": 102
+    },
+    {
+      "line": 10992,
+      "type": "ART_TITLE",
+      "text": "Rehusamiento a entrega de bienes",
+      "page": 102
+    },
+    {
+      "line": 10994,
+      "type": "ARTICULO",
+      "text": "Artículo 391.- El funcionario o servidor público",
+      "page": 102
+    },
+    {
+      "line": 11001,
+      "type": "ARTICULO",
+      "text": "Artículo 392.- Están sujetos a lo prescrito en los",
+      "page": 102
+    },
+    {
+      "line": 11014,
+      "type": "SECCION",
+      "text": "SECCIÓN IV",
+      "page": 102
+    },
+    {
+      "line": 11015,
+      "type": "H2",
+      "text": "CORRUPCIÓN DE FUNCIONARIOS",
+      "page": 102
+    },
+    {
+      "line": 11017,
+      "type": "ARTICULO",
+      "text": "Artículo 393.- El funcionario o servidor público",
+      "page": 102
+    },
+    {
+      "line": 11027,
+      "type": "ART_TITLE",
+      "text": "El funcionario o servidor público que solicita,",
+      "page": 102
+    },
+    {
+      "line": 11048,
+      "type": "ARTICULO",
+      "text": "Artículo 393-A.- El funcionario o servidor público",
+      "page": 103
+    },
+    {
+      "line": 11065,
+      "type": "ARTICULO",
+      "text": "Artículo 394.- El funcionario o servidor público",
+      "page": 103
+    },
+    {
+      "line": 11087,
+      "type": "ARTICULO",
+      "text": "Artículo 395.- El Magistrado, Árbitro, Fiscal,",
+      "page": 103
+    },
+    {
+      "line": 11113,
+      "type": "ARTICULO",
+      "text": "Artículo 395-A.- El miembro de la Policía",
+      "page": 103
+    },
+    {
+      "line": 11145,
+      "type": "ARTICULO",
+      "text": "Artículo 395-B.- El miembro de la Policía",
+      "page": 103
+    },
+    {
+      "line": 11168,
+      "type": "ARTICULO",
+      "text": "Artículo 396.- Si en el caso del artículo 395, el",
+      "page": 104
+    },
+    {
+      "line": 11179,
+      "type": "ARTICULO",
+      "text": "Artículo 397.- El que, bajo cualquier modalidad,",
+      "page": 104
+    },
+    {
+      "line": 11188,
+      "type": "ART_TITLE",
+      "text": "El que, bajo cualquier modalidad, ofrece, da o",
+      "page": 104
+    },
+    {
+      "line": 11200,
+      "type": "ARTICULO",
+      "text": "Artículo 397-A.- El que, teniendo la nacionalidad",
+      "page": 104
+    },
+    {
+      "line": 11221,
+      "type": "ARTICULO",
+      "text": "Artículo 398.- El que, bajo cualquier modalidad,",
+      "page": 104
+    },
+    {
+      "line": 11252,
+      "type": "ARTICULO",
+      "text": "Artículo 398-A.- El que, bajo cualquier modalidad,",
+      "page": 104
+    },
+    {
+      "line": 11269,
+      "type": "ARTICULO",
+      "text": "Artículo 398-B.- En los supuestos del artículo",
+      "page": 104
+    },
+    {
+      "line": 11281,
+      "type": "ARTICULO",
+      "text": "Artículo 399.- El funcionario o servidor público",
+      "page": 105
+    },
+    {
+      "line": 11293,
+      "type": "ARTICULO",
+      "text": "Artículo 400.- El que, invocando o teniendo",
+      "page": 105
+    },
+    {
+      "line": 11314,
+      "type": "ARTICULO",
+      "text": "Artículo 401.- El funcionario o servidor público",
+      "page": 105
+    },
+    {
+      "line": 11343,
+      "type": "ART_TITLE",
+      "text": "Decomiso",
+      "page": 105
+    },
+    {
+      "line": 11348,
+      "type": "ART_TITLE",
+      "text": "Adjudicación al Estado de bienes",
+      "page": 105
+    },
+    {
+      "line": 11358,
+      "type": "ART_TITLE",
+      "text": "Los bienes decomisados o incautados",
+      "page": 105
+    },
+    {
+      "line": 11366,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 105
+    },
+    {
+      "line": 11367,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA",
+      "page": 105
+    },
+    {
+      "line": 11368,
+      "type": "H2",
+      "text": "ADMINISTRACIÓN DE JUSTICIA",
+      "page": 105
+    },
+    {
+      "line": 11369,
+      "type": "SECCION",
+      "text": "SECCIÓN I",
+      "page": 105
+    },
+    {
+      "line": 11370,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA",
+      "page": 105
+    },
+    {
+      "line": 11371,
+      "type": "H2",
+      "text": "FUNCIÓN JURISDICCIONAL",
+      "page": 105
+    },
+    {
+      "line": 11373,
+      "type": "ARTICULO",
+      "text": "Artículo 402.- El que denuncia a la autoridad",
+      "page": 105
+    },
+    {
+      "line": 11394,
+      "type": "ART_TITLE",
+      "text": "Ocultamiento de menor a las",
+      "page": 106
+    },
+    {
+      "line": 11396,
+      "type": "ARTICULO",
+      "text": "Artículo 403.- El que oculta a un menor de edad",
+      "page": 106
+    },
+    {
+      "line": 11402,
+      "type": "ARTICULO",
+      "text": "Artículo 404.- El que sustrae a una persona de la",
+      "page": 106
+    },
+    {
+      "line": 11426,
+      "type": "ARTICULO",
+      "text": "Artículo 405.- El que dificulta la acción de la",
+      "page": 106
+    },
+    {
+      "line": 11442,
+      "type": "ART_TITLE",
+      "text": "Excusa absolutoria",
+      "page": 106
+    },
+    {
+      "line": 11443,
+      "type": "ARTICULO",
+      "text": "Artículo 406.- Están exentos de pena los que",
+      "page": 106
+    },
+    {
+      "line": 11449,
+      "type": "ARTICULO",
+      "text": "Artículo 407.- El que omite comunicar a",
+      "page": 106
+    },
+    {
+      "line": 11464,
+      "type": "ARTICULO",
+      "text": "Artículo 408.- El que, después de un accidente",
+      "page": 106
+    },
+    {
+      "line": 11476,
+      "type": "ART_TITLE",
+      "text": "Falsedad en juicio",
+      "page": 106
+    },
+    {
+      "line": 11477,
+      "type": "ARTICULO",
+      "text": "Artículo 409.- El testigo, perito, traductor o",
+      "page": 106
+    },
+    {
+      "line": 11492,
+      "type": "ARTICULO",
+      "text": "Artículo 409-A.- El que mediante el uso de fuerza",
+      "page": 106
+    },
+    {
+      "line": 11509,
+      "type": "ARTICULO",
+      "text": "Artículo 409-B.- El que indebidamente revela la",
+      "page": 106
+    },
+    {
+      "line": 11522,
+      "type": "ART_TITLE",
+      "text": "Avocamiento ilegal de proceso en trámite",
+      "page": 107
+    },
+    {
+      "line": 11523,
+      "type": "ARTICULO",
+      "text": "Artículo 410.- La autoridad que, a sabiendas,",
+      "page": 107
+    },
+    {
+      "line": 11528,
+      "type": "ART_TITLE",
+      "text": "Falsa declaración en procedimiento",
+      "page": 107
+    },
+    {
+      "line": 11530,
+      "type": "ARTICULO",
+      "text": "Artículo 411.- El que, en un procedimiento",
+      "page": 107
+    },
+    {
+      "line": 11536,
+      "type": "ART_TITLE",
+      "text": "Expedición de prueba o informe falso en",
+      "page": 107
+    },
+    {
+      "line": 11538,
+      "type": "ARTICULO",
+      "text": "Artículo 412.- El que, legalmente requerido en",
+      "page": 107
+    },
+    {
+      "line": 11543,
+      "type": "ART_TITLE",
+      "text": "Evasión mediante violencia o amenaza",
+      "page": 107
+    },
+    {
+      "line": 11544,
+      "type": "ARTICULO",
+      "text": "Artículo 413.- El que, estando legalmente privado",
+      "page": 107
+    },
+    {
+      "line": 11550,
+      "type": "ARTICULO",
+      "text": "Artículo 413-A.- El que, estando legalmente",
+      "page": 107
+    },
+    {
+      "line": 11562,
+      "type": "ART_TITLE",
+      "text": "Favorecimiento a la fuga",
+      "page": 107
+    },
+    {
+      "line": 11563,
+      "type": "ARTICULO",
+      "text": "Artículo 414.- El que, por violencia, amenaza o",
+      "page": 107
+    },
+    {
+      "line": 11575,
+      "type": "ARTICULO",
+      "text": "Artículo 415.- El detenido o interno que se amotina",
+      "page": 107
+    },
+    {
+      "line": 11594,
+      "type": "ART_TITLE",
+      "text": "Fraude procesal",
+      "page": 107
+    },
+    {
+      "line": 11595,
+      "type": "ARTICULO",
+      "text": "Artículo 416.- El que, por cualquier medio",
+      "page": 107
+    },
+    {
+      "line": 11600,
+      "type": "ART_TITLE",
+      "text": "Ejercicio arbitrario de derecho.",
+      "page": 107
+    },
+    {
+      "line": 11601,
+      "type": "ART_TITLE",
+      "text": "Justicia por propia mano",
+      "page": 107
+    },
+    {
+      "line": 11602,
+      "type": "ARTICULO",
+      "text": "Artículo 417.- El que, con el fin de ejercer un",
+      "page": 107
+    },
+    {
+      "line": 11608,
+      "type": "ARTICULO",
+      "text": "Artículo 417-A.- El responsable civil por",
+      "page": 107
+    },
+    {
+      "line": 11635,
+      "type": "SECCION",
+      "text": "SECCIÓN II",
+      "page": 108
+    },
+    {
+      "line": 11636,
+      "type": "H2",
+      "text": "PREVARICATO",
+      "page": 108
+    },
+    {
+      "line": 11638,
+      "type": "ARTICULO",
+      "text": "Artículo 418.- El Juez o el Fiscal que dicta",
+      "page": 108
+    },
+    {
+      "line": 11657,
+      "type": "ART_TITLE",
+      "text": "Detención ilegal",
+      "page": 108
+    },
+    {
+      "line": 11658,
+      "type": "ARTICULO",
+      "text": "Artículo 419.- El Juez que, maliciosamente o sin",
+      "page": 108
+    },
+    {
+      "line": 11664,
+      "type": "ART_TITLE",
+      "text": "Prohibición de conocer un proceso que",
+      "page": 108
+    },
+    {
+      "line": 11666,
+      "type": "ARTICULO",
+      "text": "Artículo 420.- El Juez o Fiscal que conoce en un",
+      "page": 108
+    },
+    {
+      "line": 11670,
+      "type": "ART_TITLE",
+      "text": "Patrocinio indebido de abogado o",
+      "page": 108
+    },
+    {
+      "line": 11672,
+      "type": "ARTICULO",
+      "text": "Artículo 421.- El Abogado o mandatario judicial",
+      "page": 108
+    },
+    {
+      "line": 11679,
+      "type": "SECCION",
+      "text": "SECCIÓN III",
+      "page": 108
+    },
+    {
+      "line": 11680,
+      "type": "H2",
+      "text": "DENEGACIÓN Y RETARDO DE JUSTICIA",
+      "page": 108
+    },
+    {
+      "line": 11681,
+      "type": "ART_TITLE",
+      "text": "Negativa a administrar justicia",
+      "page": 108
+    },
+    {
+      "line": 11682,
+      "type": "ARTICULO",
+      "text": "Artículo 422.- El Juez que se niega a administrar",
+      "page": 108
+    },
+    {
+      "line": 11687,
+      "type": "ART_TITLE",
+      "text": "Negativa al cumplimiento de obligaciones",
+      "page": 108
+    },
+    {
+      "line": 11689,
+      "type": "ARTICULO",
+      "text": "Artículo 423.- El notario o secretario de juzgado",
+      "page": 108
+    },
+    {
+      "line": 11695,
+      "type": "ART_TITLE",
+      "text": "Omisión de ejercicio de la acción penal",
+      "page": 108
+    },
+    {
+      "line": 11696,
+      "type": "ARTICULO",
+      "text": "Artículo 424.- El Fiscal que omite ejercitar la",
+      "page": 108
+    },
+    {
+      "line": 11700,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO IV",
+      "page": 108
+    },
+    {
+      "line": 11701,
+      "type": "H2",
+      "text": "DISPOSICIONES COMUNES",
+      "page": 108
+    },
+    {
+      "line": 11703,
+      "type": "ARTICULO",
+      "text": "Artículo 425.- Son funcionarios o servidores",
+      "page": 108
+    },
+    {
+      "line": 11731,
+      "type": "ARTICULO",
+      "text": "Artículo 425-A.- Es funcionario o servidor público",
+      "page": 108
+    },
+    {
+      "line": 11748,
+      "type": "ARTICULO",
+      "text": "Artículo 426.- Los delitos previstos en los",
+      "page": 109
+    },
+    {
+      "line": 11772,
+      "type": "TITULO",
+      "text": "TÍTULO XIX",
+      "page": 109
+    },
+    {
+      "line": 11773,
+      "type": "H2",
+      "text": "DELITOS CONTRA LA FE PÚBLICA",
+      "page": 109
+    },
+    {
+      "line": 11774,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO I",
+      "page": 109
+    },
+    {
+      "line": 11775,
+      "type": "H2",
+      "text": "FALSIFICACIÓN DE",
+      "page": 109
+    },
+    {
+      "line": 11776,
+      "type": "H2",
+      "text": "DOCUMENTOS EN GENERAL",
+      "page": 109
+    },
+    {
+      "line": 11777,
+      "type": "ART_TITLE",
+      "text": "Falsificación de documentos",
+      "page": 109
+    },
+    {
+      "line": 11778,
+      "type": "ARTICULO",
+      "text": "Artículo 427.- El que hace, en todo o en parte,",
+      "page": 109
+    },
+    {
+      "line": 11796,
+      "type": "ART_TITLE",
+      "text": "Falsedad ideológica",
+      "page": 109
+    },
+    {
+      "line": 11797,
+      "type": "ARTICULO",
+      "text": "Artículo 428.- El que inserta o hace insertar,",
+      "page": 109
+    },
+    {
+      "line": 11812,
+      "type": "ARTICULO",
+      "text": "Artículo 428-B.- El que, estando incluido dentro",
+      "page": 109
+    },
+    {
+      "line": 11830,
+      "type": "ART_TITLE",
+      "text": "Omisión de consignar declaraciones",
+      "page": 109
+    },
+    {
+      "line": 11832,
+      "type": "ARTICULO",
+      "text": "Artículo 429.- El que omite en un documento",
+      "page": 109
+    },
+    {
+      "line": 11839,
+      "type": "ART_TITLE",
+      "text": "Supresión, destrucción u",
+      "page": 109
+    },
+    {
+      "line": 11841,
+      "type": "ARTICULO",
+      "text": "Artículo 430.- El que suprime, destruye u oculta",
+      "page": 109
+    },
+    {
+      "line": 11846,
+      "type": "ART_TITLE",
+      "text": "Expedición de certificado médico falso",
+      "page": 109
+    },
+    {
+      "line": 11847,
+      "type": "ARTICULO",
+      "text": "Artículo 431.- El médico que, maliciosamente,",
+      "page": 109
+    },
+    {
+      "line": 11887,
+      "type": "ARTICULO",
+      "text": "Artículo 432.- Cuando algunos de los delitos",
+      "page": 110
+    },
+    {
+      "line": 11893,
+      "type": "ART_TITLE",
+      "text": "Equiparación a documento público",
+      "page": 110
+    },
+    {
+      "line": 11894,
+      "type": "ARTICULO",
+      "text": "Artículo 433.- Para los efectos de este Capítulo",
+      "page": 110
+    },
+    {
+      "line": 11898,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO II",
+      "page": 110
+    },
+    {
+      "line": 11899,
+      "type": "H2",
+      "text": "FALSIFICACIÓN DE SELLOS,",
+      "page": 110
+    },
+    {
+      "line": 11900,
+      "type": "H2",
+      "text": "TIMBRES Y MARCAS OFICIALES",
+      "page": 110
+    },
+    {
+      "line": 11901,
+      "type": "ART_TITLE",
+      "text": "Fabricación o falsificación de sellos o",
+      "page": 110
+    },
+    {
+      "line": 11903,
+      "type": "ARTICULO",
+      "text": "Artículo 434.- El que fabrica, fraudulentamente,",
+      "page": 110
+    },
+    {
+      "line": 11917,
+      "type": "ART_TITLE",
+      "text": "Fabricación fraudulenta o falsificación",
+      "page": 110
+    },
+    {
+      "line": 11919,
+      "type": "ARTICULO",
+      "text": "Artículo 435.- El que fabrica, fraudulentamente,",
+      "page": 110
+    },
+    {
+      "line": 11927,
+      "type": "ART_TITLE",
+      "text": "Inhabilitación",
+      "page": 110
+    },
+    {
+      "line": 11928,
+      "type": "ARTICULO",
+      "text": "Artículo 436.- Cuando el agente de alguno de los",
+      "page": 110
+    },
+    {
+      "line": 11933,
+      "type": "ART_TITLE",
+      "text": "Marcas y sellos extranjeros",
+      "page": 110
+    },
+    {
+      "line": 11935,
+      "type": "ARTICULO",
+      "text": "Artículo 437.- Las disposiciones de este Capítulo",
+      "page": 110
+    },
+    {
+      "line": 11938,
+      "type": "CAPITULO",
+      "text": "CAPÍTULO III",
+      "page": 110
+    },
+    {
+      "line": 11939,
+      "type": "H2",
+      "text": "DISPOSICIONES COMUNES",
+      "page": 110
+    },
+    {
+      "line": 11940,
+      "type": "ART_TITLE",
+      "text": "Falsedad genérica",
+      "page": 110
+    },
+    {
+      "line": 11941,
+      "type": "ARTICULO",
+      "text": "Artículo 438.- El que de cualquier otro modo que",
+      "page": 110
+    },
+    {
+      "line": 11951,
+      "type": "ARTICULO",
+      "text": "Artículo 438-A.- El que otorgue, expida u",
+      "page": 110
+    },
+    {
+      "line": 11962,
+      "type": "ART_TITLE",
+      "text": "Fabricación o tenencia de",
+      "page": 111
+    },
+    {
+      "line": 11964,
+      "type": "ARTICULO",
+      "text": "Artículo 439.- El que, a sabiendas, fabrica o",
+      "page": 111
+    },
+    {
+      "line": 11972,
+      "type": "LIBRO",
+      "text": "LIBRO TERCERO",
+      "page": 111
+    },
+    {
+      "line": 11973,
+      "type": "H2",
+      "text": "FALTAS",
+      "page": 111
+    },
+    {
+      "line": 11974,
+      "type": "TITULO",
+      "text": "TÍTULO I",
+      "page": 111
+    },
+    {
+      "line": 11975,
+      "type": "H2",
+      "text": "DISPOSICIONES FUNDAMENTALES",
+      "page": 111
+    },
+    {
+      "line": 11977,
+      "type": "ARTICULO",
+      "text": "Artículo 440.- Son aplicables a las faltas las",
+      "page": 111
+    },
+    {
+      "line": 12009,
+      "type": "TITULO",
+      "text": "TÍTULO II",
+      "page": 111
+    },
+    {
+      "line": 12010,
+      "type": "H2",
+      "text": "FALTAS CONTRA LA PERSONA",
+      "page": 111
+    },
+    {
+      "line": 12012,
+      "type": "ARTICULO",
+      "text": "Artículo 441.- El que, de cualquier manera,",
+      "page": 111
+    },
+    {
+      "line": 12032,
+      "type": "ARTICULO",
+      "text": "Artículo 442.- El que maltrata a otro física",
+      "page": 111
+    },
+    {
+      "line": 12087,
+      "type": "ARTICULO",
+      "text": "Artículo 443.- (*) Artículo derogado por la única",
+      "page": 112
+    },
+    {
+      "line": 12090,
+      "type": "TITULO",
+      "text": "TÍTULO III",
+      "page": 112
+    },
+    {
+      "line": 12091,
+      "type": "H2",
+      "text": "FALTAS CONTRA EL PATRIMONIO",
+      "page": 112
+    },
+    {
+      "line": 12093,
+      "type": "ARTICULO",
+      "text": "Artículo 444.- El que realiza cualquiera de las",
+      "page": 112
+    },
+    {
+      "line": 12111,
+      "type": "ARTICULO",
+      "text": "Artículo 444-A.- El que reciba una señal de",
+      "page": 112
+    },
+    {
+      "line": 12120,
+      "type": "ART_TITLE",
+      "text": "Hurto famélico",
+      "page": 112
+    },
+    {
+      "line": 12121,
+      "type": "ARTICULO",
+      "text": "Artículo 445.- Será reprimido con prestación de",
+      "page": 112
+    },
+    {
+      "line": 12129,
+      "type": "ART_TITLE",
+      "text": "Usurpación breve",
+      "page": 112
+    },
+    {
+      "line": 12130,
+      "type": "ARTICULO",
+      "text": "Artículo 446.- El que penetra, por breve término,",
+      "page": 112
+    },
+    {
+      "line": 12133,
+      "type": "ART_TITLE",
+      "text": "Ingreso de animales en inmueble ajeno",
+      "page": 112
+    },
+    {
+      "line": 12134,
+      "type": "ARTICULO",
+      "text": "Artículo 447.- El encargado de la custodia de",
+      "page": 112
+    },
+    {
+      "line": 12139,
+      "type": "ART_TITLE",
+      "text": "Organización o participación",
+      "page": 112
+    },
+    {
+      "line": 12141,
+      "type": "ARTICULO",
+      "text": "Artículo 448.- El que organiza o participa en",
+      "page": 112
+    },
+    {
+      "line": 12144,
+      "type": "TITULO",
+      "text": "TÍTULO IV",
+      "page": 112
+    },
+    {
+      "line": 12145,
+      "type": "H2",
+      "text": "FALTAS CONTRA",
+      "page": 112
+    },
+    {
+      "line": 12146,
+      "type": "H2",
+      "text": "LAS BUENAS COSTUMBRES",
+      "page": 112
+    },
+    {
+      "line": 12147,
+      "type": "ART_TITLE",
+      "text": "Perturbación de la tranquilidad",
+      "page": 112
+    },
+    {
+      "line": 12148,
+      "type": "ARTICULO",
+      "text": "Artículo 449.- El que, en lugar público, perturba",
+      "page": 112
+    },
+    {
+      "line": 12153,
+      "type": "ART_TITLE",
+      "text": "Otras faltas",
+      "page": 112
+    },
+    {
+      "line": 12154,
+      "type": "ARTICULO",
+      "text": "Artículo 450.- Será reprimido con prestación de",
+      "page": 112
+    },
+    {
+      "line": 12170,
+      "type": "TITULO",
+      "text": "TÍTULO V",
+      "page": 112
+    },
+    {
+      "line": 12171,
+      "type": "H2",
+      "text": "FALTAS CONTRA LA SEGURIDAD PÚBLICA",
+      "page": 112
+    },
+    {
+      "line": 12172,
+      "type": "ART_TITLE",
+      "text": "Faltas contra la seguridad pública",
+      "page": 112
+    },
+    {
+      "line": 12173,
+      "type": "ARTICULO",
+      "text": "Artículo 451.- Será reprimido con prestación de",
+      "page": 112
+    },
+    {
+      "line": 12198,
+      "type": "TITULO",
+      "text": "TÍTULO VI",
+      "page": 113
+    },
+    {
+      "line": 12199,
+      "type": "H2",
+      "text": "FALTAS CONTRA",
+      "page": 113
+    },
+    {
+      "line": 12200,
+      "type": "H2",
+      "text": "LA TRANQUILIDAD PÚBLICA",
+      "page": 113
+    },
+    {
+      "line": 12201,
+      "type": "ART_TITLE",
+      "text": "Faltas contra la tranquilidad pública",
+      "page": 113
+    },
+    {
+      "line": 12202,
+      "type": "ARTICULO",
+      "text": "Artículo 452.- Será reprimido con prestación de",
+      "page": 113
+    },
+    {
+      "line": 12225,
+      "type": "H2",
+      "text": "DISPOSICIONES FINALES",
+      "page": 113
+    },
+    {
+      "line": 12226,
+      "type": "H2",
+      "text": "Y TRANSITORIAS",
+      "page": 113
+    },
+    {
+      "line": 12227,
+      "type": "ART_TITLE",
+      "text": "Vigencia de la Ley Nº 25103 y del",
+      "page": 113
+    },
+    {
+      "line": 12228,
+      "type": "ART_TITLE",
+      "text": "D.S. Nº 296-90-EF",
+      "page": 113
+    },
+    {
+      "line": 12233,
+      "type": "ART_TITLE",
+      "text": "Tráfico Ilícito de Drogas y Terrorismo -",
+      "page": 113
+    },
+    {
+      "line": 12234,
+      "type": "ART_TITLE",
+      "text": "Vigencia de beneficios",
+      "page": 113
+    },
+    {
+      "line": 12235,
+      "type": "ART_TITLE",
+      "text": "Segunda.- Continúan vigentes las disposiciones",
+      "page": 113
+    },
+    {
+      "line": 12240,
+      "type": "ART_TITLE",
+      "text": "Consejo local de patronato - Entrega",
+      "page": 113
+    },
+    {
+      "line": 12242,
+      "type": "ART_TITLE",
+      "text": "Tercera.- El Consejo Local de Patronato,",
+      "page": 113
+    },
+    {
+      "line": 12248,
+      "type": "ART_TITLE",
+      "text": "Conversión de condenas. Reglas",
+      "page": 113
+    },
+    {
+      "line": 12249,
+      "type": "ART_TITLE",
+      "text": "Cuarta.- Las condenas impuestas por sentencias",
+      "page": 113
+    }
+  ]
+}
