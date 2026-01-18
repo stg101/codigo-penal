@@ -589,6 +589,29 @@ import Articulo430 from "../components/articulos/Articulo430.astro";
 import Articulo431 from "../components/articulos/Articulo431.astro";
 import Articulo431A from "../components/articulos/Articulo431A.astro";
 import Articulo432 from "../components/articulos/Articulo432.astro";
+import Articulo433 from "../components/articulos/Articulo433.astro";
+import Articulo434 from "../components/articulos/Articulo434.astro";
+import Articulo435 from "../components/articulos/Articulo435.astro";
+import Articulo436 from "../components/articulos/Articulo436.astro";
+import Articulo437 from "../components/articulos/Articulo437.astro";
+import Articulo438 from "../components/articulos/Articulo438.astro";
+import Articulo438A from "../components/articulos/Articulo438A.astro";
+import Articulo439 from "../components/articulos/Articulo439.astro";
+import Articulo440 from "../components/articulos/Articulo440.astro";
+import Articulo441 from "../components/articulos/Articulo441.astro";
+import Articulo442 from "../components/articulos/Articulo442.astro";
+import Articulo443 from "../components/articulos/Articulo443.astro";
+import Articulo444 from "../components/articulos/Articulo444.astro";
+import Articulo444A from "../components/articulos/Articulo444A.astro";
+import Articulo445 from "../components/articulos/Articulo445.astro";
+import Articulo446 from "../components/articulos/Articulo446.astro";
+import Articulo447 from "../components/articulos/Articulo447.astro";
+import Articulo448 from "../components/articulos/Articulo448.astro";
+import Articulo449 from "../components/articulos/Articulo449.astro";
+import Articulo450 from "../components/articulos/Articulo450.astro";
+import Articulo451 from "../components/articulos/Articulo451.astro";
+import Articulo452 from "../components/articulos/Articulo452.astro";
+import DisposicionesFinales from "../components/DisposicionesFinales.astro";
 import decretoHtml from "../content/1_decreto_legislativo.html?raw";
 import exposicionHtml from "../content/2_exposicion_motivos.html?raw";
 import tituloPreliminarHtml from "../content/3_titulo_preliminar.html?raw";
@@ -869,10 +892,25 @@ const tocGroups = [
         href: "#libro-segundo-titulo-XIX",
         items: [
           { title: "Falsificación de Documentos en General", href: "#libro-segundo-titulo-XIX-capitulo-I" },
+          { title: "Falsificación de Sellos, Timbres y Marcas Oficiales", href: "#libro-segundo-titulo-XIX-capitulo-II" },
+          { title: "Disposiciones Comunes", href: "#libro-segundo-titulo-XIX-capitulo-III" },
         ],
       },
     ],
   },
+  {
+    title: "Libro III — Faltas",
+    href: "#libro-tercero",
+    items: [
+      { title: "Disposiciones Fundamentales", href: "#libro-tercero-titulo-I" },
+      { title: "Faltas contra la Persona", href: "#libro-tercero-titulo-II" },
+      { title: "Faltas contra el Patrimonio", href: "#libro-tercero-titulo-III" },
+      { title: "Faltas contra las Buenas Costumbres", href: "#libro-tercero-titulo-IV" },
+      { title: "Faltas contra la Seguridad Pública", href: "#libro-tercero-titulo-V" },
+      { title: "Faltas contra la Tranquilidad Pública", href: "#libro-tercero-titulo-VI" },
+    ],
+  },
+  { title: "Disposiciones Finales y Transitorias", href: "#disposiciones-finales" },
 ];
 ---
 <BaseLayout title="Código Penal del Perú">
@@ -2059,6 +2097,74 @@ const tocGroups = [
               <Articulo431 />
               <Articulo431A />
               <Articulo432 />
+              <Articulo433 />
+
+              <!-- CAPÍTULO II: Falsificación de Sellos, Timbres y Marcas Oficiales -->
+              <h4 class="mb-2 mt-10 title-4" id="libro-segundo-titulo-XIX-capitulo-II">CAPÍTULO II</h4>
+              <h5 class="title-5">FALSIFICACIÓN DE SELLOS, TIMBRES Y MARCAS OFICIALES</h5>
+
+              <Articulo434 />
+              <Articulo435 />
+              <Articulo436 />
+              <Articulo437 />
+
+              <!-- CAPÍTULO III: Disposiciones Comunes -->
+              <h4 class="mb-2 mt-10 title-4" id="libro-segundo-titulo-XIX-capitulo-III">CAPÍTULO III</h4>
+              <h5 class="title-5">DISPOSICIONES COMUNES</h5>
+
+              <Articulo438 />
+              <Articulo438A />
+              <Articulo439 />
+
+              <!-- LIBRO TERCERO: FALTAS -->
+              <h2 class="mb-2 mt-16 title-2" id="libro-tercero">LIBRO TERCERO</h2>
+              <h3 class="title-3">FALTAS</h3>
+
+              <!-- TÍTULO I: Disposiciones Fundamentales -->
+              <h3 class="mb-2 mt-14 title-3" id="libro-tercero-titulo-I">TÍTULO I</h3>
+              <h4 class="title-4">DISPOSICIONES FUNDAMENTALES</h4>
+
+              <Articulo440 />
+
+              <!-- TÍTULO II: Faltas contra la Persona -->
+              <h3 class="mb-2 mt-14 title-3" id="libro-tercero-titulo-II">TÍTULO II</h3>
+              <h4 class="title-4">FALTAS CONTRA LA PERSONA</h4>
+
+              <Articulo441 />
+              <Articulo442 />
+              <Articulo443 />
+
+              <!-- TÍTULO III: Faltas contra el Patrimonio -->
+              <h3 class="mb-2 mt-14 title-3" id="libro-tercero-titulo-III">TÍTULO III</h3>
+              <h4 class="title-4">FALTAS CONTRA EL PATRIMONIO</h4>
+
+              <Articulo444 />
+              <Articulo444A />
+              <Articulo445 />
+              <Articulo446 />
+              <Articulo447 />
+              <Articulo448 />
+
+              <!-- TÍTULO IV: Faltas contra las Buenas Costumbres -->
+              <h3 class="mb-2 mt-14 title-3" id="libro-tercero-titulo-IV">TÍTULO IV</h3>
+              <h4 class="title-4">FALTAS CONTRA LAS BUENAS COSTUMBRES</h4>
+
+              <Articulo449 />
+              <Articulo450 />
+
+              <!-- TÍTULO V: Faltas contra la Seguridad Pública -->
+              <h3 class="mb-2 mt-14 title-3" id="libro-tercero-titulo-V">TÍTULO V</h3>
+              <h4 class="title-4">FALTAS CONTRA LA SEGURIDAD PÚBLICA</h4>
+
+              <Articulo451 />
+
+              <!-- TÍTULO VI: Faltas contra la Tranquilidad Pública -->
+              <h3 class="mb-2 mt-14 title-3" id="libro-tercero-titulo-VI">TÍTULO VI</h3>
+              <h4 class="title-4">FALTAS CONTRA LA TRANQUILIDAD PÚBLICA</h4>
+
+              <Articulo452 />
+
+              <DisposicionesFinales />
             </section>
 
           </article>
