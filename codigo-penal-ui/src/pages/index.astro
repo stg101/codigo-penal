@@ -920,7 +920,7 @@ const tocGroups = [
           </div>
 
           <div class="sticky top-12 z-20 mt-3 lg:hidden">
-            <details class="rounded-xl border border-black/10 bg-white shadow-sm">
+            <details class="mobile-toc rounded-xl border border-black/10 bg-white shadow-sm">
               <summary class="flex cursor-pointer items-center justify-between gap-3 px-4 py-3 font-mono text-[0.75rem] uppercase text-black/70">
                 Índice del Código Penal
                 <span class="text-black/40">▼</span>
@@ -935,14 +935,14 @@ const tocGroups = [
                       <ul class="mt-2 space-y-1 pl-4 text-[0.8125rem] text-black/60">
                         {group.items.map((item) => (
                           <li>
-                            <a class="block" href={item.href}>
+                            <a class="block mobile-toc-link" href={item.href}>
                               {item.title}
                             </a>
                             {item.subitems ? (
                               <ul class="mt-1 space-y-1 pl-4 text-[0.75rem] text-black/45">
                                 {item.subitems.map((subitem) => (
                                   <li>
-                                    <a class="block" href={subitem.href}>
+                                    <a class="block mobile-toc-link" href={subitem.href}>
                                       {subitem.title}
                                     </a>
                                   </li>

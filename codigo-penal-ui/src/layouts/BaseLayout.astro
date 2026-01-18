@@ -19,7 +19,7 @@ const { title = "Código Penal del Perú" } = Astro.props;
     <script is:inline>
       document.addEventListener("DOMContentLoaded", () => {
         const tocLinks = Array.from(
-          document.querySelectorAll('.nav-scroll a[href^="#"]')
+          document.querySelectorAll('.nav-scroll a[href^="#"], .mobile-toc a[href^="#"]')
         );
         const sections = tocLinks
           .map((link) => {
@@ -64,6 +64,7 @@ const { title = "Código Penal del Perú" } = Astro.props;
         updateToc();
 
         const inPageLinkSelector = 'a[href^="#"]:not([href="#"])';
+        const mobileToc = document.querySelector(".mobile-toc");
 
         document.addEventListener("click", (event) => {
           const link = event.target.closest(inPageLinkSelector);
@@ -80,6 +81,10 @@ const { title = "Código Penal del Perú" } = Astro.props;
           history.replaceState({ scrollY: window.scrollY }, "", window.location.href);
           history.pushState(null, "", hash);
           target.scrollIntoView();
+
+          if (mobileToc && mobileToc.contains(link)) {
+            mobileToc.removeAttribute("open");
+          }
         });
 
         window.addEventListener("popstate", (event) => {
