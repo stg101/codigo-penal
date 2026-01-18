@@ -906,20 +906,60 @@ const tocGroups = [
 ];
 ---
 <BaseLayout title="Código Penal del Perú">
-  <div class="relative grid min-h-screen grid-cols-5 gap-x-10 max-sm:grid-cols-1 md:mx-8 xl:mx-0">
+  <div class="relative grid min-h-screen grid-cols-1 gap-y-6 px-4 sm:px-6 lg:grid-cols-5 lg:gap-x-10 md:mx-8 xl:mx-0">
     <SidebarNav tocGroups={tocGroups} />
 
-    <main class="col-span-full w-full max-w-5xl flex-1 xl:col-span-3 xl:col-start-2 xl:justify-self-center">
+    <main class="col-span-full w-full max-w-5xl flex-1 lg:col-span-3 lg:col-start-2 lg:justify-self-center">
       <div class="w-full justify-self-center">
-        <div class="pt-8 lg:pt-20">
-          <div class="sticky top-0 flex items-center gap-x-2 px-7 py-2 backdrop-blur-lg bg-transparent">
+        <div class="pt-8 max-sm:pt-4 lg:pt-20">
+          <div class="sticky top-0 z-30 flex items-center gap-x-2 px-7 py-2 backdrop-blur-lg bg-transparent max-sm:px-4 max-sm:py-3 max-sm:bg-white/80 max-sm:shadow-sm">
             <h5 class="truncate font-mono text-[0.6875rem] text-black/40 uppercase">
               <span class="link-hover">Decreto Legislativo Nº 635</span> /
               <span class="text-black">Normas Legales Actualizadas</span>
             </h5>
           </div>
 
-          <article class="prose relative mb-30 grid justify-items-center rounded-xs p-8 md:bg-white md:shadow-[0px_1px_4px_1px_rgba(0,_0,_0,_0.05),_0px_1px_1px_0px_rgba(0,_0,_0,_0.50),_0px_-1px_1px_1px_#FFF_inset] lg:px-16 lg:py-20">
+          <div class="sticky top-12 z-20 mt-3 lg:hidden">
+            <details class="rounded-xl border border-black/10 bg-white shadow-sm">
+              <summary class="flex cursor-pointer items-center justify-between gap-3 px-4 py-3 font-mono text-[0.75rem] uppercase text-black/70">
+                Índice del Código Penal
+                <span class="text-black/40">▼</span>
+              </summary>
+              <nav class="max-h-[60vh] overflow-y-auto px-4 pb-4 pt-1 text-sm">
+                {tocGroups.map((group) => (
+                  <div class="py-3">
+                    <a class="block font-semibold text-black/80" href={group.href}>
+                      {group.title}
+                    </a>
+                    {group.items ? (
+                      <ul class="mt-2 space-y-1 pl-4 text-[0.8125rem] text-black/60">
+                        {group.items.map((item) => (
+                          <li>
+                            <a class="block" href={item.href}>
+                              {item.title}
+                            </a>
+                            {item.subitems ? (
+                              <ul class="mt-1 space-y-1 pl-4 text-[0.75rem] text-black/45">
+                                {item.subitems.map((subitem) => (
+                                  <li>
+                                    <a class="block" href={subitem.href}>
+                                      {subitem.title}
+                                    </a>
+                                  </li>
+                                ))}
+                              </ul>
+                            ) : null}
+                          </li>
+                        ))}
+                      </ul>
+                    ) : null}
+                  </div>
+                ))}
+              </nav>
+            </details>
+          </div>
+
+          <article class="prose relative mb-30 grid justify-items-center rounded-xs p-8 max-sm:prose-sm max-sm:rounded-xl max-sm:p-5 max-sm:bg-white max-sm:shadow-[0px_12px_30px_-24px_rgba(15,_23,_42,_0.4)] md:bg-white md:shadow-[0px_1px_4px_1px_rgba(0,_0,_0,_0.05),_0px_1px_1px_0px_rgba(0,_0,_0,_0.50),_0px_-1px_1px_1px_#FFF_inset] lg:px-16 lg:py-20">
             <DocumentHeader
               updated="17/10/2025"
               title="Código Penal."
